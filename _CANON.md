@@ -259,6 +259,18 @@ Standing gags available to every volume:
    They are not the author's citations, and the author is not answerable for them.* (Vol. 07 uses a
    variant of this line, being the extreme case; see [`CATALOG.md`](CATALOG.md).) Apparatus items — marginalia,
    stamps, pasted errata, shelf notes — may be dated later than the imprint, and often should be.
+   - **The permanent exception: `CR 1.1` is not to be fixed. Leave the volume as it stands.** The *Field
+     Guide* is imprinted 1483, and its abstract **as filed** narrates the Form 7B's move to the fourth
+     reading room's counter in **1486** and its filing with that room on **6 March 1487**, in the
+     Library's voice — "the form is now missing twice, and the Library has not asked after it". By the
+     rule above that is a breach, and it is **deliberate**, and the commissioner has ruled that it stays.
+     The book's own dates already refuse to lie down: the imprint page is dated 1504 and the Library
+     declines to reconcile the two, and the second edition *is the first edition, later*. A field guide
+     to acting upon an interval should not have an abstract that keeps to one. **No later hand is to
+     correct it** — not the dates, not the voice, not the placement of the narrative — by moving it into
+     the apparatus, rewording it, or harmonising it with the imprint. It is not to be raised again as a
+     defect in an audit, and a production note is not the commissioner: it stands as filed unless the
+     commissioner says otherwise in terms.
 8. **Spelling:** British, consistent. The author may defend a coined term once, in a
    footnote, and may ignore the Faculty's preferred spelling.
 
