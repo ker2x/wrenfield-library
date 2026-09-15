@@ -1,7 +1,7 @@
 # OUT-OF-WORLD: production notes for the Wrenfield Library
 
 *(This file is not part of the library. It is the world bible and house style used to
-keep fourteen independently written volumes consistent. Readers of the library should
+keep forty-nine independently written holdings consistent. Readers of the library should
 start at `CATALOG.md`.)*
 
 ## 1. The world, briefly
@@ -222,7 +222,7 @@ Use small run-in blocks, italic labels, no headings deeper than `###`:
 ## 7. Volume briefs (author, call number, content, seed jokes)
 
 Every volume below is written to
-`/home/ker/AI/dsh/book/volumes/<NN>_<slug>.md`.
+`volumes/<NN>_<slug>.md`.
 
 | NN | file slug | call no. | author (year) | content and seeds |
 |----|-----------|----------|---------------|-------------------|
@@ -367,3 +367,22 @@ class's voice; `## Shelf-mates (added by the Library)` with at least two real ca
 library; `## Apparatus` with the violet stamp and the class's signature item (the diarist's own pencil
 note for MS; the meaning-changing annotation for FN). **1,500–2,500 words of body**, under §4.2's caps
 and 80% rule as amended for these classes.
+
+## 9. Provenance (out-of-world — nothing below appears in the library)
+
+- The shelf began as a commission: a list of titles for a scholar library of the ridiculous, from which
+  the faculties, the cast, the crate and Form 7B were built outward. The titles as commissioned were
+  **How to Groom Your Centaur**; **The Art of Mirror Walking**; **Tips & Tricks on the Pollen Curse**;
+  **Advanced Guide to Jinxes**; **A Study on Harmless Curses**; **Dragon Dentistology**.
+- The commission was then extended, twice: for ***Form 7B for Dummies*** and the incident that lost it
+  (supplied as the R Incident, §2), and for diaries and historical books (supplied as classes MS and FN,
+  §8).
+- The commissioner asked, of the first two volumes, that each open by saying plainly what its subject
+  is: the centaur volume's definition of the craft to move from the last chapter to the first, and the
+  mirror-walking volume, which had opened on the theory of glass and never stated the craft at all, to
+  say what mirror walking is. Both instructions are now §4.3, binding on every holding.
+- **The length correction.** The first issue of 1504 was written to 900–1300 words, and once its front
+  matter and abstract were removed almost nothing remained. The commissioner's finding is recorded here
+  and nowhere else in the library: the first issue is withdrawn, all forty-nine holdings were reissued
+  to the standard in §4.2, and `README.md` and `CATALOG.md` carry no note of the correction, being
+  library documents and staying in the library's voice.

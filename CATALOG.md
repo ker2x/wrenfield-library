@@ -135,22 +135,6 @@ Pre-1400 texts, held as texts. The Library's notes on them are its own and are m
 | **FN 6.1 / S25 1388** | The Classification of 1388 | Ephraim Sallow's hand, the fair copy | 1388 | The final note is three words long. The Library's Note declines to gloss it |
 | **FN 7.1 / — 1402** | The Instrument of Hiatus | under seal | 1402 | The seal is the Journal's own. The annotation on the dorse changes the reading |
 
-## The Reissue of 1504
-
-The first issue of 1504 was withdrawn. Its volumes ran 900 to 1300 words, and of those words the front
-matter, the abstract, the references and the apparatus were the greater part; readers who removed the
-scaffolding found that almost nothing remained. The Library has recorded the withdrawal without
-further comment and has reissued the affected volumes at full length — 3,000 to 5,000 words of body,
-with the scaffolding capped at a fifth of the file, and a quota of substance required of every one:
-a case told in full, two tables of data, a document quoted at length, an objection and a reply, a
-procedure, and a named failure with a fee attached.
-
-Reissued: **all forty-nine holdings.** The first issue of 1504 — 900 to 1300 words, mostly
-scaffolding — has been withdrawn in its entirety, and every volume, manuscript and Foundation text on
-the shelf has been rebuilt to the full-length standard. The Library's copy of the withdrawn issue is
-retained at the desk for comparison, and is not to be lent. Readers holding impressions of it are asked
-to return them, where they will be stamped, and kept, and not replaced.
-
 ## Holdings Recorded and Not Held
 
 A work may be catalogued, counted, cited, and absent. The Library keeps the entry, which is the only
