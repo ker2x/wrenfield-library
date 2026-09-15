@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1493.11
 - **Collation:** 214 pages, 3 plates
 - **Condition:** Heavily used, and the forms are all gone: the rear gatherings, which held the blanks, have been removed form by form, in order, by careful hands. Repaired at the spine; annotated in the author's hand, which is unusual, as the author was alive.
+- **Form 7B:** *Declaration of Non-Interference with Time*. Missing from this file and not obtainable, for the reason given at §9; two files were refused for want of it.
 
 ## Abstract (as filed)
 

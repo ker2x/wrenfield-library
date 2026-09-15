@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1504.24
 - **Collation:** 246 pages, 6 plates (the seals of the four findings, the hiatus seal, the licence form)
 - **Condition:** Foxed; quires 7–9 now opened by force and imperfect at the foot, the binder having judged them part of the abstract; six pages bear a thumb-print in violet, which is not the ink of the stamp
+- **Form 7B:** *Declaration of Non-Interference with Time*. Absent from the file, as from every file in this Library.
 
 ## Abstract (as filed)
 

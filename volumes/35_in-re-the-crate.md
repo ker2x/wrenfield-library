@@ -11,6 +11,7 @@
 - **Accession:** Wrenfield Accessions 1504.23
 - **Collation:** 57 numbered paragraphs, no plates
 - **Condition:** Unmarked, unread, and the only volume in this Library without a pencil note, a fact the Library has verified twice
+- **Form 7B:** *Declaration of Non-Interference with Time*. Not filed; the Dean has never required one, and does not propose to begin.
 
 ## Abstract (as filed)
 

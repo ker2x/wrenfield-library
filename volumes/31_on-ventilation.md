@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1502.44
 - **Collation:** 164 pp., 2 plates
 - **Condition:** Water-stained at the upper edge, only for the width of an open window.
+- **Form 7B:** *Declaration of Non-Interference with Time*. Missing from every thesis here, and not bound with this volume, which is not a thesis.
 
 ## Abstract (as filed)
 

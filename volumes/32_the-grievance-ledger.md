@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1504.61
 - **Collation:** 148 pages, 4 plates
 - **Condition:** On shelf. Open. Nineteen years, and still open
+- **Form 7B:** *Declaration of Non-Interference with Time*. Not bound with this document, notwithstanding that this is the Faculty of forms.
 
 ## Abstract (as filed)
 

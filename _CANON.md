@@ -280,7 +280,25 @@ order below, and no nested bullets.
 - **Accession:** Wrenfield Accessions <year>.<number>
 - **Collation:** <pages>, <plates> plates
 - **Condition:** <foxed / repaired / annotated / water-damaged, with one wry detail>
+- **Form 7B:** *Declaration of Non-Interference with Time*. <this volume's relation to the form>
 ```
+
+**The last field states the absence, and it is on every title page.** The form is required of every
+thesis and exists for none, so the field is the one part of the block whose value is known before the
+volume is opened — which is the joke, and it is why the field is required rather than left to the
+abstract. It carries the short form of what that volume already says: *Absent from the file, as from every
+file in this Library*; *Lacking from the file*; *Not bound with this volume, no copy having been
+obtainable*. The field must agree with the volume's own abstract, note or §-list, and may echo it — a
+title page repeating a fact is paperwork, not padding — but it is the short form and must not reproduce
+the sentence at length; keep it to a line. Three volumes vary it, and only these:
+
+- **`CR 1.1`,** where the form was completed: the field says so, and says it is not with the volume. The
+  field is front matter and does not carry the consultation rule, which stands at `CATALOG.md`, rule 10.
+- **The volumes that are not theses** — a report, a memorandum, an instrument, a survey, an apology —
+  which say that the form is not required of them, or that the Dean has never required one.
+
+The **MS and FN holdings** (§8) have their own front matter and do not carry the field; they state the
+form's absence in the Library's Note instead, which is where a document's relation to a form belongs.
 
 ## 6. Apparatus (the volume's later hands)
 

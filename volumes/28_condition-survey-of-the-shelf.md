@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1504.08
 - **Collation:** 40 pages, 4 plates; plate ii, the shelf to scale
 - **Condition:** Sound. The Conservator's own copy, foxed at the outer leaves
+- **Form 7B:** *Declaration of Non-Interference with Time*. Absent from the file, and not a condition of the shelf.
 
 ## Abstract (as filed)
 

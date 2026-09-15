@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1500.77
 - **Collation:** 241 pages, 9 plates
 - **Condition:** Foxed and damp-stained; four fronds of *Vicia* pressed at pp. 88–89, removed to Reserve against written objection; shelved facing away from the window at the author's request, the author holding that the cultivar reads spines
+- **Form 7B:** *Declaration of Non-Interference with Time*. Missing from this copy and from both deposits.
 
 ## Abstract (as filed)
 

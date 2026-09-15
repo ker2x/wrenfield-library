@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1496.318
 - **Collation:** 188 folios, 3 plates
 - **Condition:** Water-damaged at the lower margin of folios 90–140, where the subject matter is driest; repaired with three strips of tape, one of them the good tape
+- **Form 7B:** *Declaration of Non-Interference with Time*. Absent from the submitted envelope, nor in any envelope submitted to this Faculty.
 
 ## Abstract (as filed)
 

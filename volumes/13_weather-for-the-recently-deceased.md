@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1489.313
 - **Collation:** 96 pp., 2 plates (folding)
 - **Condition:** Foxed; the second plate repaired with tape; annotated throughout by a reader who was comforted, in a steady hand, and who is not identified.
+- **Form 7B:** *Declaration of Non-Interference with Time*. Not bound with this volume; it was never obtained.
 
 ## Abstract (as filed)
 

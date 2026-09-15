@@ -11,6 +11,7 @@
 - **Accession:** Wrenfield Accessions 1504.19
 - **Collation:** 74 pages, 2 plans, one showing the room
 - **Condition:** Good. The second plan has been folded out so often that it no longer folds. The Registry's clock is not depicted, and the author has drawn it in ink
+- **Form 7B:** *Declaration of Non-Interference with Time*. Was to have been filed with this thesis; the candidate cannot obtain one, and the Registry has accepted the excuse.
 
 ## Abstract (as filed)
 

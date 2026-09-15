@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1398.214
 - **Collation:** 211 pages, 9 plates
 - **Condition:** Foxed; rebound 1441 in half calf after the shelf above it failed; lower boards water-damaged by the north-light leak of 1491; plate iv has a thumbprint in mortar
+- **Form 7B:** *Declaration of Non-Interference with Time*. Required of this thesis and absent from it; the Registry was notified in 1398 and again at this reissue.
 
 ## Abstract (as filed)
 

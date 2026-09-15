@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1497.42
 - **Collation:** 178 pages, 4 plates
 - **Condition:** Water-damaged at the lower corner, with the marks of a small, patient animal on the flyleaf. Charged to B. of the Nine Meadows, and overdue.
+- **Form 7B:** *Declaration of Non-Interference with Time*. The submission is unaccompanied by it; it is missing, as it is everywhere in this library.
 
 ## Abstract (as filed)
 

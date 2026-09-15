@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1487.31
 - **Collation:** 208 pages, 40 plates
 - **Condition:** Foxed throughout; binding repaired at plate XIX with thread of a grade not approved for library use; a pressed catkin at p. 96, which the Library has declined to remove.
+- **Form 7B:** *Declaration of Non-Interference with Time*. Absent from the copy deposited, as from every copy in this library; the Committee has ruled that a thesis may be read without it.
 
 ## Abstract (as filed)
 

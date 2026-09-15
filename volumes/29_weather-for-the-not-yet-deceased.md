@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1491.62
 - **Collation:** 88 pp., 1 plate (folding)
 - **Condition:** Foxed; the third gathering water-damaged. Bound without a cancellation, so that the third refusal letter sits after the replies to it. A slip on the pastedown, in the author's hand, lists a fourth refusal the Faculty never sent.
+- **Form 7B:** *Declaration of Non-Interference with Time*. Not bound with this volume, as with no volume in this Library.
 
 ## Abstract (as filed)
 

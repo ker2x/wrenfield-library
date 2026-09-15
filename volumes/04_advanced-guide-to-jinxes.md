@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1494.12
 - **Collation:** 296 pages, 12 plates
 - **Condition:** Boards detached; water-damaged at the ethics appendix, which is entirely legible; the marginal pencil has been used throughout.
+- **Form 7B:** *Declaration of Non-Interference with Time*. Not present in the copy deposited; the author has left the matter to the Committee, which has not met since 1489.
 
 ## Abstract (as filed)
 

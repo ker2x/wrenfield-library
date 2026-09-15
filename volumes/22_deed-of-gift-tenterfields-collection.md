@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1501.02
 - **Collation:** 19 pages, 2 plates
 - **Condition:** Fair, save the first gathering, stained in the shape of a hand not quite clean; the donor's seal is intact, the breach being not in the seal but in the covenants
+- **Form 7B:** *Declaration of Non-Interference with Time*. Absent; a Form 7B/absence is filed in its place.
 
 ## Abstract (as filed)
 

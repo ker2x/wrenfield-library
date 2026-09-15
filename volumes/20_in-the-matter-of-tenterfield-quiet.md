@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1502.14
 - **Collation:** 26 pages, 1 plate (the bed, in section); the reissue 74 pages, 3 plates
 - **Condition:** Foxed throughout; bound in a docket cover never designed for the number of pages
+- **Form 7B:** *Declaration of Non-Interference with Time*. Absent from the docket.
 
 ## Abstract (as filed)
 

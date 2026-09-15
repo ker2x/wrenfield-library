@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1502.77
 - **Collation:** 96 pages, 4 plates, two folding
 - **Condition:** Water-damaged at pp. 44–71 by a patient, who wept upon the fee schedule and is liable for the drying; the tear at folio 12 is mended with gum and optimism
+- **Form 7B:** *Declaration of Non-Interference with Time*. Not filed with this volume, nor with any volume here.
 
 ## Abstract (as filed)
 

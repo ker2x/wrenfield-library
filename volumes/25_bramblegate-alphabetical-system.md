@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1498.6
 - **Collation:** 96 leaves, 1 folded plate (a plan of the Bramblegate shelves)
 - **Condition:** repaired at the inner margin; the plate is torn along the fold, where the Committee's own shelf-mate was drawn and removed
+- **Form 7B:** *Declaration of Non-Interference with Time*. Lacking from the file.
 
 ## Abstract (as filed)
 

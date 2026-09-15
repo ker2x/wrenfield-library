@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1503.7
 - **Collation:** 129 leaves, 6 plates
 - **Condition:** foxed at the gutter; grain-dust throughout the lower margins, heaviest at §7, which the Conservator declines to brush out
+- **Form 7B:** *Declaration of Non-Interference with Time*. Lacking from the file, as from every thesis in this Library.
 
 ## Abstract (as filed)
 

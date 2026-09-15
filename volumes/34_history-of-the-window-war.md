@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1504.88
 - **Collation:** 118 pages, 6 plates (five folding, showing window states)
 - **Condition:** Foxed; repaired at the spine; a pressed barley awn at p. 44, which the Library declines to remove
+- **Form 7B:** *Declaration of Non-Interference with Time*. Absent.
 
 ## Abstract (as filed)
 

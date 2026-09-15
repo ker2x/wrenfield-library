@@ -11,6 +11,7 @@
 - **Accession:** Wrenfield Accessions 1483.11 — and again 1483.11
 - **Collation:** 96 pages, 3 plates. The pagination is continuous and the order is not
 - **Condition:** Read. The cover bears the instruction DO NOT READ, which this copy has not obeyed. Spine to the wall by order of the Committee
+- **Form 7B:** *Declaration of Non-Interference with Time*. Completed, and the only completed form the Library has seen: filed with the fourth reading room on 6 March 1487, and not with this volume.
 
 ## Abstract (as filed)
 

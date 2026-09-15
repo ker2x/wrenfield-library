@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1502.23
 - **Collation:** 34 leaves, no plates; one plate was prepared and withdrawn as inaccurate
 - **Condition:** half the pages carry further corrections in the author's own hand, the later pages more thickly than the earlier
+- **Form 7B:** *Declaration of Non-Interference with Time*. Lacking from the file, as from every thesis in this Library, and from several documents that are not theses.
 
 ## Abstract (as filed)
 

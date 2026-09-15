@@ -11,6 +11,7 @@
 - **Accession:** Wrenfield Accessions 1504.18
 - **Collation:** 132 pages, 5 plates
 - **Condition:** Water-damaged at the lower margin, repaired at the corner, annotated in three hands; the third is dated forty years after the imprint
+- **Form 7B:** *Declaration of Non-Interference with Time*. Not with this volume, the form being issued at a counter that was filed with the room on 6 March 1487; the procedure at §8 cannot be initiated.
 
 ## Abstract (as filed)
 

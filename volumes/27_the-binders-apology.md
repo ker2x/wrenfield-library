@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1488.07
 - **Collation:** 34 pages, no plates; the quires correct and the pagination not
 - **Condition:** Bound by its author, who has bound nothing for this Library since; paper boards, §9 turned down in a hurry
+- **Form 7B:** *Declaration of Non-Interference with Time*. Never supplied to a binder; a form came with the sheets and went back with the delivery, and is missing.
 
 ## Abstract (as filed)
 

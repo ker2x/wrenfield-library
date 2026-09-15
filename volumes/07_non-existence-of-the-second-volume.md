@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1301.4
 - **Collation:** 47 leaves, 3 plates
 - **Condition:** repaired at the spine with linen thread of a later date; lower margin damp-stained from folio 25; annotated in a hand that is not the author's, and once in a hand that may be no one's
+- **Form 7B:** *Declaration of Non-Interference with Time*. Filed without it, as is every thesis in this Library.
 
 ## Abstract (as filed)
 

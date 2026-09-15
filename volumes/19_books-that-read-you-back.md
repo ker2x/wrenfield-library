@@ -11,6 +11,7 @@
 - **Accession:** Wrenfield Accessions 1503.19, re-entered 1504.47
 - **Collation:** 74 pages, 2 plates
 - **Condition:** Grease-marked at §3 by a thumb, repaired at the inner margin; the plate is a shelf elevation, and one shelf in it is drawn empty, which the Conservator disputes
+- **Form 7B:** *Declaration of Non-Interference with Time*. Required of every thesis and missing from every thesis here; not required of a report.
 
 ## Abstract (as filed)
 

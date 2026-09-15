@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1503.41
 - **Collation:** 74 pp. text, 112 pp. notes; the pagination is continuous and not consecutive
 - **Condition:** Sound. The text, printed above the rule, is foxed; the notes, printed below it, are not. Annotated in three hands, the third the author's
+- **Form 7B:** *Declaration of Non-Interference with Time*. Not bound with this work, no copy having been obtainable.
 
 ## Abstract (as filed)
 

@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1503.07 (reissued at 1503.07, the earlier sheets kept)
 - **Collation:** 31 pages, no plates (1 ruled blank, retained); the certificate pasted at the rear as a fold-out
 - **Condition:** Water-damaged at the foot of the first quire; the certificate is pasted in and has been annotated by the deceased
+- **Form 7B:** *Declaration of Non-Interference with Time*. Required for every filing of this class and not present; the Registry's reply to the estate's request for it is another form.
 
 ## Abstract (as filed)
 

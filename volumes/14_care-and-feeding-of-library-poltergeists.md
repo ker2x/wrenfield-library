@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1504.7
 - **Collation:** 148 pp., 1 plate (folding)
 - **Condition:** Sound; last gathering marked with violet ink, undescribed.
+- **Form 7B:** *Declaration of Non-Interference with Time*. Not bound with the volume.
 
 ## Abstract (as filed)
 

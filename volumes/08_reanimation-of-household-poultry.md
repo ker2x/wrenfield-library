@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1499.11; reissued and re-accessioned 1504.6
 - **Collation:** 104 leaves, 9 plates
 - **Condition:** sound; the upper board retains a faint odour of hen-house localised to the binding, which the author identifies at §10 as consistent with provenance
+- **Form 7B:** *Declaration of Non-Interference with Time*. Lacking from the file, as from every thesis in this Library.
 
 ## Abstract (as filed)
 

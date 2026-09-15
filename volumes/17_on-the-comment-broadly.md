@@ -11,6 +11,7 @@
 - **Accession:** Wrenfield Accessions 1504.17
 - **Collation:** 148 pages, 4 plates (2 folding, 1 excised, 1 in facsimile)
 - **Condition:** Foxed at the gutter, repaired at the spine, annotated throughout in three hands, the third unknown to the Library
+- **Form 7B:** *Declaration of Non-Interference with Time*. Absent from both files; the absence is recorded at §5 and is not pursued.
 
 ## Abstract (as filed)
 

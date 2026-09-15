@@ -11,6 +11,7 @@
 - **Accession:** Wrenfield Accessions 1498.07
 - **Collation:** 96 pages, 9 plates
 - **Condition:** Plate 6 has been excised with a razor. The excision is not recorded in the errata.
+- **Form 7B:** *Declaration of Non-Interference with Time*. Was to have been filed with this submission; absent, and the omission is at least philosophically consistent.
 
 ## Abstract (as filed)
 

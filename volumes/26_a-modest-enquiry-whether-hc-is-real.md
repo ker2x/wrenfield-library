@@ -12,6 +12,7 @@
 - **Accession:** Wrenfield Accessions 1504.21
 - **Collation:** 41 leaves, no plates
 - **Condition:** Creased throughout by the coat pocket; annotated throughout in a tutor's red hand, which the binder has declined to trim
+- **Form 7B:** *Declaration of Non-Interference with Time*. Not attached.
 
 ## Abstract (as filed)
 
