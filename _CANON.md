@@ -4,6 +4,12 @@
 keep forty-nine independently written holdings consistent. Readers of the library should
 start at [`CATALOG.md`](CATALOG.md), and the library's front page is [`README.md`](README.md).)*
 
+**This is guidance, not a code.** It exists so that forty-nine independently written holdings
+agree with one another, and that is the whole of its office. Where it describes the world, the
+description is what the volumes were built on; where it describes a habit of writing, the habit
+is a convenience and the volumes are the authority. Nothing here outranks a holding, and where a
+later volume has a better idea the canon is what changes.
+
 ## 1. The world, briefly
 
 - **The University of Alderwick**, founded 1147 in the Year of the Weeping Compass, by
@@ -19,9 +25,9 @@ start at [`CATALOG.md`](CATALOG.md), and the library's front page is [`README.md
 - Time period: the volumes span roughly 1301–1504. The "present day" of the catalogue is
   1504 (the 357th year of the present reckoning).
 - Currency: **marks, bells, clipped bells** (1 mark = 20 bells = 240 clipped bells).
-- **Tongues.** English in the ordinary register. Two special registers sit inside it and are not to be
-  mixed with it: **the old line**, which the Registry uses for its own instruments and the Faculty of
-  Draconic Dentistry for its consent form (§4.1); and **Draconic**, the tongue of dragons, whose words,
+  Two special registers sit inside it and are kept apart from it: **the old line**, which the Registry
+  uses for its own instruments and the Faculty of Draconic Dentistry for its consent form (§4.1); and
+  **Draconic**, the tongue of dragons, whose words,
   particles and word order are fixed in the annex to `LICENSE.md` and binding on any later volume that
   uses them. Besides these: the **tongue of the Nine Meadows** (centaurs; a herd tongue, called and not
   written, with no possessive that shuts out the herd); the **greenhouse tongue** (sentient plants; by
@@ -38,16 +44,16 @@ start at [`CATALOG.md`](CATALOG.md), and the library's front page is [`README.md
   reader. The scholars behave like real academics: defensive, precise, and slightly
   unwell.
 
-## 2. Standing cast (reuse freely; do not contradict)
+## 2. Standing cast
 
 - **Professor Emeritus Quillan Ashgrove-Vane** — author of *Principles of Minor
   Maleficence* (3rd ed. 1440, universally called **"the good one"**; the 4th ed. 1441 is
   not discussed). His written comment on every thesis he second-reads is, in full:
   **"Broadly."** He is the default second reader. **The one deviation is `DP 44.9`**, and it is
   deliberate: on the volume whose subject cannot be named, his comment runs long, praises the work
-  without reserve, and never states what the book is about. **No other volume may carry a comment of
+  **No other volume carries a comment of
   his beyond the word** — what the word does everywhere else is work because nothing explains it, and
-  `JM 1.4`'s census of the word is not to be extended to cover this one.
+  his beyond the word — what the word does everywhere else is work because nothing explains it.
 - **Dr. Ottoline Marchetti-Bell** — has published a document titled *A Correction* to
   forty separate works. Signalled in a footnote, never a character.
 - **The Under-Librarian, Mr. Fenwick Oll** — stamps everything twice, opens windows that
@@ -68,34 +74,33 @@ start at [`CATALOG.md`](CATALOG.md), and the library's front page is [`README.md
   of the Registry, together with its counter, its lamp, the only completed Form 7B, and the Library's
   only copy of ***Form 7B for Dummies***. Discovered on the eleventh day by the annual return of
   lamps. The Registry's clock stopped at forty-one minutes past two and has not been wound since. The
-  space is a corridor of the same dimensions, and the draught in it is not to be stopped. Treated in
+  space is a corridor of the same dimensions, and the draught in it is one nobody stops. Treated
   **EA 2.4**, the only work in the library that is also an apology.
 - **The truth of the fourth reading room — the backstory, and it is settled.** None of the
-Library's own instruments states this, and no volume is to state it in its own voice: it is
+Library's own instruments states this, and the Library is never the one to say it: it is what is
 what is *actually* the case, and the joke depends on the Library never getting there. **The
-room's non-existence is the result of a timecrafting incident**, not of the Classification,
-the Registry, Mr. Pike, or the reordering of 1487.
+room's non-existence is the result of a timecrafting incident**, and the Classification, the
+  Registry, Mr. Pike and the reordering of 1487 are all innocent of it.
   - **It is undecidable now, and that is a state and not a statute.** Whether the room has
   existed in the future or will disappear in the past cannot be established from anything on
   this shelf, and no volume offered as evidence is likely to establish it; but a later volume
   may raise the possibility, may argue it, and may take a side. The incident is in the same
-  case: it may have happened already, and it may lie ahead. **What the shelf must not do is
-  settle it** — nothing fixes the direction, and no volume is to be built on an answer that
-  does not exist.
-  - **Therefore every date inconsistency that concerns this room is consistent, and is not to
-  be corrected.** The licence is wide and deliberate: where the room is in question, two dates
+  case: it may have happened already, and it may lie ahead. **The shelf leaves it open**, which is
+  the honest position and the funnier one: the two readings stay alive, and the volumes are built
+  on the question rather than on an answer.
+  - **Therefore every date inconsistency that concerns this room is consistent.** The licence is wide
+    and deliberate: where the room is in question, two dates that cannot both hold may both stand; a
   that cannot both hold may both stand; a measurement may differ from itself; a witness may
   see three desks where a plan draws four; a thing may be in two places in one year. This is
   the same class of permission as the three dates of 1461 and the ruling at §4.6 on the glass,
   and it supersedes any instinct to reconcile, average, or audit them into order. **An auditor
-  who finds an inconsistency about this room has found the room, not a defect.**
+  who finds an inconsistency about this room has found the room, not a defect.
     - **The same permission covers the person, and `DP 44.9` is the case.** A holding attributed to
       a hand that cannot have written it — `07`, whose depositor of 1301 is named N. Nott while
-      Percival Nott was born in 1442 — is **not a fault in the record and is not to be reconciled**,
-      by correcting the year, by moving the attribution, or by supplying a second Nott. It is the
-      incident's signature on a document, and a later volume may cite it as evidence that the
-      incident has operated; what no volume may do is fix the date or the hand, or explain the
-      impossibility in the Library's voice.
+      Percival Nott was born in 1442 — is **not a fault in the record**, and the year, the attribution
+      and the second Nott all stay as they are. It reads as the incident's signature on a document,
+      and a volume that wants to cite it as evidence is welcome to; what the Library cannot do is
+      explain the impossibility in its own voice, and it does not.
   - **It is a symptom list as well as a permission.** The shelf's existing oddities are the
   room's behaviour, not its documentation: the north wall thickening a quarter-inch a year
   under six measurements (1401–1484) and its impossible description — "two feet four inches
@@ -104,14 +109,14 @@ the Registry, Mr. Pike, or the reordering of 1487.
   sheet 6); the room shorter by eleven feet between 1401 and 1484 (`LT 3.9` §2); Miss Finch
   seeing three desks in 1471 and the counter entered among the lost walkers (`LT 3.9` §4); the
   smell since March 1487; and the clock stopped at forty-one minutes past two. New symptoms in
-  this family are welcome, and are the room's, and are not to be explained away.
+  this family are welcome, and are the room's.
   - **The sharpening, for whoever writes next.** The room was held in place by the thing the
   Faculty brought into it — a room the walker can bar is a room that will hold still while a
   crossing is made (`LT 3.7` §II) — and the breaking of that hold in **1461** is the natural
   year for the destabilising, the demonstration being the day the frame would not answer.
   Everything else follows: the eleven days before anyone noticed, the impossibility of
   certifying the loss ("a thing extant is not capable of being certified lost but only
-  mislaid", `EA 6.1` §50), the draught that is not to be stopped — the air of a place with no
+  mislaid", `EA 6.1` §50), the draught nobody stops — the air of a place with no
   outside — and the river window that looks upon water that is not there. **The Registry's
   account is the best that can be made from documents, and it is wrong about the cause**;
   `EA 2.4` §3 is right that the filing was correct, and wrong that the Classification did it. No
@@ -172,8 +177,8 @@ Press numbers, per the scheme (`FN 6.1`): BH 12, LT 3, AC 118, JM 6, HC 1, DD 7,
 HS 8, EA 1, DE 22, CR 1. **A press is the case holding a faculty's series**: its number is the faculty's
 own, not a place in the room, and by long use it is also the number of the shelf where that faculty's
 series begins — so a press number and a shelf number may look alike and are not the same thing. **The
-number before the point in a call number is a shelf, never a press**, and no volume is to be shelved by
-its press number. **`CATALOG.md` repeats this table in its annex** (*The Series Letters, and
+number before the point in a call number is a shelf, never a press**, and the shelf-list keeps to the
+shelf in every case.
 Their Faculties*), with the press numbers and a count of the holdings in each series. A holding added to
 the shelf is added to that count, and to the shelf-list and the accession register with it.
 
@@ -213,8 +218,8 @@ Standing gags available to every volume:
   jinx causing no harm is a curse. The *Journal of Harmless Maleficence* has been "on
   hiatus pending clarification" since that year.
 - The **crate behind the desk** (uncatalogued since 1494; manifest: one volume, octavo, self-help).
-- The **Registry's clock**, stopped at forty-one minutes past two on 6 March 1487; not to be wound.
-  The **draught in the north corridor**; not to be stopped. The **fourth reading room**; filed under
+  The **Registry's clock**, stopped at forty-one minutes past two on 6 March 1487, and unwound since.
+  The **draught in the north corridor**, which nobody stops. The **fourth reading room**; filed under
   R, procedurally extant, and bookable.
 - Overdue fines, in marks/bells/clipped bells.
 - Journals: *Alderwick Proceedings in Minor Thaumaturgy* (APMT); *Journal of Harmless
@@ -223,7 +228,7 @@ Standing gags available to every volume:
   the *Standard Cantrip Grammar*; *Wrenfield Accessions*.
 - Everything is refereed, insured, indemnified, or awaiting a form.
 
-## 4. House style (binding)
+## 4. House style
 
 1. **Register:** deadpan, bureaucratic, academic. No modern slang, no anachronism, no
    emoji, no direct address to the reader, no winking asides. The author always believes
@@ -231,15 +236,15 @@ Standing gags available to every volume:
    - **The old line** is a register within the register, and is used in two places only: the consent form
      of Draconic Dentistry (**Form DD/19**, `DD 7.2` §4) and the Registry's own instruments
      (`LICENSE.md`, the Licence of Circulation). It is *thou shalt* English, and it is old on purpose in
-     both: the Faculty may not modernise its form, and the Registry will not modernise its own, the
+     both: the Faculty does not modernise its form and the Registry will not modernise its own, the
      meaning of the words being the whole of the grant. A form addresses the person who must fill it in,
      which is the one place in this shelf where direct address is proper. **Nothing else is written in
      it** — the Chapter's statutes (`FN 1.1`) and the notary's instruments (`FN 7.1`) stand in the
-     ordinary register, and the two registers are not to be harmonised.
+     ordinary register, and the two registers keep their own idioms.
 2. **Length — there is no length.** A volume is as long as its content is, and no longer: a holding may
    run to twice the scale below or to half of it, as its subject requires, and a writer who pads to
    reach a figure or trims to stay under one has mistaken the Library for a press. Nothing here is
-   enforced by counting. What is enforced is §4.4, by reading.
+   measured by counting; §4.4 is what a volume is judged by, and it is judged by reading.
    *(For scale only, and as a rough estimate of what a holding of a given kind tends to come to: a
    faculty volume runs 3,000–5,000 words of body; a treatise, history or memorandum may run to 8,000; an
    MS or FN holding runs 1,500–2,500. Scaffolding — the front-matter block, the Abstract, the References
@@ -257,34 +262,22 @@ Standing gags available to every volume:
    - `## Abstract (as filed)` — 2–4 sentences as a rule, or as many as six where a volume has an edition
      history to state (`BH 12.4` needs three of its six for 1447, the *firm hand* and the apology); pompous,
      and it mentions the missing Form 7B;
-   - **the first section must say what the subject IS.** Plainly, in terms a reader outside the
-     Faculty could follow: what the practice or thing is, what it is *not*, what it is for, and what
-     it feels like to do it. If the discipline has a private vocabulary, gloss it in a table at the
-     front. Definitions go at the beginning, not at the back — a reader who finishes the first
-     section must be able to say what the book is about. *(The withdrawn issue failed at this twice:
-     `BH 12.4` kept its definition for the last chapter, and `LT 3.7` opened on the theory of glass
-     and never stated the craft. Both have been reissued.)*
-      - **Where the subject is itself the argument, the work may be the definition.** A holding whose
-        discipline disputes what its subject *is* — `HC 1.1`, where the whole thesis is the argument
-        that a harmless curse remains a curse — satisfies the rule by stating the dispute plainly and
-        giving a taxonomy in place of a sentence, and this is permitted and is not a breach. The
-        exception is **entered, never assumed**: the volume must carry a Library note in the text
-        recording that the requirement was raised, that the work entire is held to meet it, and that no
-        later hand is to summarise the author's position. A volume that merely omits the definition has
-        not used this rule; it has failed §4.3, and the withdrawn issue is the precedent.
-      - **But vagueness by design is not a failure of this rule, and `DP 44.9` is the standing case.**
-        `07` does not define its subject and is *not to be made to*: the work is in three parts, the first
-        survives and the third is lost, and what the *Cantor Minor* is **about** is nowhere stated, the
-        author having scried for a part of a work whose subject he never gave. The obscurity is the joke —
-        nobody, including the Faculty, is certain what is being discussed, and the author has been dead
-        two hundred years, so nobody can put the question to him. **Do not repair it.** No later hand is to define the second volume, gloss the
-        scrying of an interval, or extract a plain statement the author never gave; and a volume that
-        opens on a subject it cannot quite name is *not* the withdrawn issue, which opened on nothing.
-        The test to keep in mind: `04` had no definition and the gap was a defect and is now filled; `05`
-        argues its way to one, so the work is the definition; `07` has none by design, on a subject its own
-        Library cannot name, and its exception is registered here and in no volume — no Library note is to
-        be written into `07` for the purpose, because a volume that will not state its subject will not
-        state a rule about stating it.
+   - **the first section says what the subject IS.** Plainly, in terms a reader outside the Faculty could
+     follow: what the practice or thing is, what it is *not*, what it is for, and what it feels like to do
+     it. A private vocabulary is glossed in a table at the front, and the definition comes at the beginning
+     rather than the back, so that a reader who finishes the first section can say what the book is about.
+     *(The withdrawn issue failed at this twice: `BH 12.4` kept its definition for the last chapter, and
+     `LT 3.7` opened on the theory of glass and never stated the craft. Both have been reissued.)*
+   - **Two shapes of holding meet this differently, and both are known good.** A work whose argument *is*
+     its subject — `HC 1.1`, where the thesis is that a harmless curse remains a curse — opens on the
+     dispute and gives a taxonomy where a sentence would be false; the Library's note in its §1 records
+     that the requirement was raised and that the work entire meets it, and no later hand summarises the
+     author's position. A work whose subject is itself withheld — `07`, where the *Cantor Minor* is in
+     three parts and its subject is nowhere given — opens on what is known and stays silent, and its
+     obscurity is the joke rather than a gap; it carries no note about the rule, a volume that will not
+     state its subject not stating a rule about stating it. An omission with no such purpose reads as a
+     gap, which is what the withdrawn issue did in `BH 12.4` and `LT 3.7`. The difference between the three
+     is legible on the page, and nothing in this file is needed to see it.
    - **numbered sections** — usually eight to fourteen, or `## Part I / II / III` with `###` chapters,
      or as many as the subject needs — each with real academic headings and concrete content;
    - `## References & Shelf-mates` — the works actually leaned on, and no more, among them
@@ -305,40 +298,40 @@ Standing gags available to every volume:
    - an **objection and a reply**: the opposing case in the opponent's own voice, then the answer;
    - a **procedure**: numbered steps the reader could attempt, and should not;
    - a **named failure**, with a fine, a fee or an injury attached.
-   **No padding.** Do not restate, do not summarise what was just said, do not write "as noted above".
-   Every section must add new invented material: names, dates, numbers, forms, places, precedents. If
-   a section can be deleted without loss, it was not a section; if a volume can be emptied of its
-   particulars and still stand, it was not a volume.
+  **No padding.** No restatement, no summary of what was just said, and no "as noted above": every
+  section adds new invented material — names, dates, numbers, forms, places, precedents — and the
+  absurdity sits unremarked. If a section can be deleted without loss, it was not a section; if a
+  volume can be emptied of its particulars and still stand, it was not a volume.
 5. **Comedy rules:** the joke is in the specificity. Invent plausible numbers, plates,
    committees, and side-effects; let the absurdity sit unremarked. Satire targets:
    professional jurisdiction, consent, insurance, peer review, university admin.
-   Keep it clean, and never cruel to the invented students.
-6. **Continuity:** each volume must mention **Form 7B** (missing) and cite
+   Nothing is ever cruel to the invented students.
+6. **Continuity:** each volume mentions **Form 7B** (missing) and cites
    **Ashgrove-Vane, *Principles* (3rd ed., the good one)** somewhere. Each volume leans on the rest of
-   the shelf, by call number, and expects to be leaned on in turn. Do not contradict §2 or §3.
+   the shelf, by call number, and expects to be leaned on in turn. §2 and §3 are what it leans on.
    - **`CR 1.1` is closed by rule.** By the Committee's order of 17 March 1487 — made the day the
      annual return of lamps discovered that the room, the counter and the only completed Form 7B had
      gone — a completed Form 7B **bearing the Registry's two stamps** is required to consult or borrow
      the *Field Guide*, and no such form exists or can be issued, the form being issued at a counter
-     that is filed. So no volume may show the *Field Guide* being read or lent after March 1487: the
-     Committee is exempt while ruling and has read it twice, the loan at `EA 6.1` §49 is 1484 and is
-     before the order, and everybody else is refused by the rule. Keep the refusal procedural and
-     polite — the volume is not dangerous to the Library, it is **unavailable**, and the two must not be
-     confused. A later volume may cite the rule, may complain of it, and may not satisfy it.
-     - The order stands in three places, and all three are required: the **catalogue**, at the
-       reading-room rules, 10; the **title page** of `CR 1.1`, whose Form 7B field states that the form
-       was completed and is not with the volume (§5); and the **front of the volume itself**, as the
-       Under-Librarian's note entered before the abstract, which is where a reader meets the condition
-       before the first chapter rather than after the last. A volume may not state the rule in one place
-       and leave the others silent, and the note at the front is not to be moved into the Apparatus.
+     that is filed. So the *Field Guide* is not read or lent after March 1487: the Committee is exempt
+     while ruling and has read it twice, the loan at `EA 6.1` §49 is 1484 and is before the order, and
+     everybody else is refused by the rule. The refusal is procedural and polite — the volume is not
+     dangerous to the Library, it is **unavailable**, and the two are different jokes. A later volume
+     cites the rule and complains of it, and does not satisfy it.
+     - The order stands in three places: the **catalogue**, at the reading-room rules, 10; the **title
+       page** of `CR 1.1`, whose Form 7B field states that the form was completed and is not with the
+       volume (§5); and the **front of the volume itself**, as the Under-Librarian's note entered
+       before the abstract, which is where a reader meets the condition before the first chapter
+       rather than after the last. The three agree with one another, and the note at the front stays
+       where a reader meets it rather than in the Apparatus.
    - **The crossing does not traverse; the return may.** Mirror walking enters the *arrangement* — the room
      as the glass composes it, an arm's length away — and never travels anywhere. Distance and wrong days
      belong to the **return**, where a wrong frame answers: Peake's matched pair of 1463 put Nell
-     Ravenscroft out at the dyeworks, four miles off and a day late (`LT 3.7` §IX). Keep the two apart in
-     every mention. "Another country" and "another year" are what the far side is **not**; a wrong-frame
-     return is a fault in the frame, and the Faculty charges for it. `LT 3.9` §3's register must carry her
-     1493 entry — its only row in miles and its only return fault, omitted until the edition of 1504 — so
-     that a reader who meets the register after §I's denial can see how both are true.
+     Ravenscroft out at the dyeworks, four miles off and a day late (`LT 3.7` §IX). The two are kept
+     apart in every mention. "Another country" and "another year" are what the far side is **not**; a
+     wrong-frame return is a fault in the frame, and the Faculty charges for it. `LT 3.9` §3's register
+     carries her 1493 entry — its only row in miles and its only return fault, omitted until the edition
+     of 1504 — so that a reader who meets the register after §I's denial can see how both are true.
    - **The Library's own papers stand with the faculties they report to, and that is now settled.** Four
      holdings are the Library writing about itself and are classed elsewhere: `DE 22.3` *On Ventilation*
      and `DE 22.2` *The Care and Feeding of Library Poltergeists* (Oll, Under-Librarian), `DE 30.1` *The
@@ -346,64 +339,60 @@ Standing gags available to every volume:
      Shelf* (Cray, Conservator). By clause 7 of the Classification of 1388 they would sit in no faculty's
      series, and there is no series for the Library: clause 1 gives a series to each of the thirteen
      faculties only, clause 2 gives the letter R to the Registry, and clause 12 leaves the annexation of
-     a non-faculty class to the Library, which has annexed none. **Keep them where they are.** The
-     catalogue, the shelf-list and the volumes citing them are not to be re-lettered, and no new series
-     is to appear on the shelf; the drift is the joke, not a defect. The motion for a Library series is
-     entered in `FN 6.1` in the Under-Librarian's note against clause 9 as **made and never reached**,
-     and it is to stay unreached for the same reason item 4 stays unreached. Two things must not be
-     written: that the Library's papers are domestic enchantment, and that the Library has refused itself
-     a series — a motion not reached is not a motion refused.
-7. **Chronology:** a volume may not *cite* a work later than its own imprint as the author's own
-   citation. Where an early volume needs a later shelf-mate, its reference list must open with the
+     a non-faculty class to the Library, which has annexed none. **They stay where they stand.** The
+     catalogue, the shelf-list and the volumes citing them keep those numbers, and no new series appears
+     on the shelf; the drift is the joke rather than a defect. The motion for a Library series is entered
+     in `FN 6.1` in the Under-Librarian's note against clause 9 as **made and never reached**, and it
+     stays unreached for the same reason item 4 does. The library's papers are not domestic enchantment,
+     and the Library has not refused itself a series — a motion not reached is not a motion refused.
+7. **Chronology:** an author does not *cite* a work later than his own imprint as his own
+   citation. Where an early volume needs a later shelf-mate, its reference list opens with the
    standard line: *Shelf-mate entries in the list below were added by the Library in later hands.
    They are not the author's citations, and the author is not answerable for them.* (Vol. 07 uses a
    variant of this line, being the extreme case; see [`CATALOG.md`](CATALOG.md).) Apparatus items — marginalia,
-   stamps, pasted errata, shelf notes — may be dated later than the imprint, and often should be.
-   - **The glass and the room: a ruling, and it is deliberate — do not harmonise it.** `LT 3.7` §II has
-     the Faculty **teaching in the fourth reading room for the thirty-two years** up to 1487 and that room
-     holding "**the only such glass in the University**"; the same volume's §XII annex, `MS 1.1`'s dated
-     entries and its notice of demonstration put the **demonstration of 1461 in the third-floor reading
-     room**. Read plainly the two cannot both hold, unless the glass was moved between the rooms and no
-     instrument of the move was made. **The collision is intentional, and it stays.** It is the room-shaped
-     form of the same refusal the volume already prints threefold for the date — three dates given and none
-     chosen, "agreement not being a property of witnesses." Both are documents of the same institution and
-     neither is defective, which is the point: **the Faculty cannot say which room the glass was in because
-     saying so would require an instrument of its removal, and the Library's papers on the north range are
-     in the plan chest that is filed inside the room** (`FN 2.1`; `EA 2.4` §10). The impossibility is
-     in-world and stands as a finding, not an oversight.
-     - **What is forbidden is resolving it, from either end.** No later hand is to add the missing
-       movement, to date the glass's translation, or to reconcile §II with the annex; and no hand is to
-       move the demonstration of 1461 out of the third-floor reading room to make §II plain. The volume's
-       own hedge is the settled wording and is not to be sharpened: "**That room is not the fourth room;
-       the Faculty has never been able to say in what respect it fails**" (`LT 3.7` §II).
-     - **What must nevertheless stay apart, and stay opposed.** The *known facts* of the two rooms are not
-       ambiguous and are not to be blurred: the **counter, Form 7B, the completed form and the filing of
-       6 March 1487 belong to the fourth room only**; the **draped mirror and the still air belong to the
-       third**; and `LT 3.9` §10 keeps them apart in its own phrasing ("the third reading room at the
-       third bell, **where the counter is not**"). The ambiguity is about a hand and a possession, never
-       about which room a documented act occurred in. `LT 3.9` and `MS 1.1` now name it the third-floor
-       **reading room** throughout; the Register names a surface and not a room, and the earlier "landing"
-       variant is spent. This ruling and the world-truth at §2 are one arrangement: the possession is
-       undecidable for the reason the room is.
-   - **The permanent exception: `CR 1.1` is not to be fixed. Leave the volume as it stands.** The *Field
-     Guide* is imprinted 1483, and its abstract **as filed** narrates the Form 7B's move to the fourth
-     reading room's counter in **1486** and its filing with that room on **6 March 1487**, in the
-     Library's voice — "the form is now missing twice, and the Library has not asked after it". By the
-     rule above that is a breach, and it is **deliberate**, and the commissioner has ruled that it stays.
-     The book's own dates already refuse to lie down: the imprint page is dated 1504 and the Library
-     declines to reconcile the two, and the second edition *is the first edition, later*. A field guide
-     to acting upon an interval should not have an abstract that keeps to one. **No later hand is to
-     correct it** — not the dates, not the voice, not the placement of the narrative — by moving it into
-     the apparatus, rewording it, or harmonising it with the imprint. It is not to be raised again as a
-     defect in an audit, and a production note is not the commissioner: it stands as filed unless the
-     commissioner says otherwise in terms.
+   stamps, pasted errata, shelf notes — are often dated later than the imprint, and often should be.
+   - **The glass and the room: a seam that is deliberate.** `LT 3.7` §II has the Faculty **teaching in
+     the fourth reading room for the thirty-two years** up to 1487 and that room holding "**the only such
+     glass in the University**"; the same volume's §XII annex, `MS 1.1`'s dated entries and its notice of
+     demonstration put the **demonstration of 1461 in the third-floor reading room**. Read plainly the two
+     cannot both hold, unless the glass was moved between the rooms and no instrument of the move was
+     made. **The collision is intentional, and it stays.** It is the room-shaped form of the same refusal
+     the volume already prints threefold for the date — three dates given and none chosen, "agreement not
+     being a property of witnesses." Both are documents of the same institution and neither is defective,
+     which is the point: **the Faculty cannot say which room the glass was in because saying so would
+     require an instrument of its removal, and the Library's papers on the north range are in the plan
+     chest that is filed inside the room** (`FN 2.1`; `EA 2.4` §10). The impossibility is in-world and
+     stands as a finding rather than an oversight.
+     - **The seam is left open at both ends.** The missing movement is not supplied, no date is given to
+       the glass's translation, §II is not reconciled with the annex, and the demonstration of 1461 stays
+       in the third-floor reading room. The volume's own hedge is the settled wording: "**That room is not
+       the fourth room; the Faculty has never been able to say in what respect it fails**" (`LT 3.7` §II).
+     - **What stays apart, and stays opposed.** The *known facts* of the two rooms are unambiguous: the
+       **counter, Form 7B, the completed form and the filing of 6 March 1487 belong to the fourth room
+       only**; the **draped mirror and the still air belong to the third**; and `LT 3.9` §10 keeps them
+       apart in its own phrasing ("the third reading room at the third bell, **where the counter is
+       not**"). The ambiguity is about a hand and a possession, never about which room a documented act
+       occurred in. `LT 3.9` and `MS 1.1` now name it the third-floor **reading room** throughout; the
+       Register names a surface and not a room, and the earlier "landing" variant is spent. This ruling
+       and the world-truth at §2 are one arrangement: the possession is undecidable for the reason the
+       room is.
+   - **`CR 1.1` stands as filed.** The *Field Guide* is imprinted 1483, and its abstract **as filed**
+     narrates the Form 7B's move to the fourth reading room's counter in **1486** and its filing with that
+     room on **6 March 1487**, in the Library's voice — "the form is now missing twice, and the Library
+     has not asked after it". By the rule above that is a breach, and it is **deliberate**, and the
+     commissioner has ruled that it stays. The book's own dates already refuse to lie down: the imprint
+     page is dated 1504 and the Library declines to reconcile the two, and the second edition *is the
+     first edition, later*. A field guide to acting upon an interval should not have an abstract that
+     keeps to one. A later hand leaves it alone — the dates, the voice and the placement of the narrative
+     all as filed — and it is not a defect for an audit to raise: a production note is not the
+     commissioner, and it stands as filed.
 8. **Spelling:** British, consistent. The author may defend a coined term once, in a
    footnote, and may ignore the Faculty's preferred spelling.
 
 ## 5. Front-matter block (verbatim fields, in this order)
 
-**The block is a bullet list — one item per field.** The fields are verbatim, but they must be written
-as list items (leading `- `), because consecutive lines of plain text are run together into a single
+**The block is a bullet list — one item per field.** The fields are verbatim, and the block reads as list
+items (leading `- `), because consecutive lines of plain text are run together into a single paragraph
 paragraph by every Markdown reader, which makes the title page unreadable. One field, one item, in the
 order below, and no nested bullets.
 
@@ -427,7 +416,7 @@ volume is opened — which is the joke, and it is why the field is required rath
 abstract. It carries the short form of what that volume already says: *Absent from the file, as from every
 file in this Library*; *Lacking from the file*; *Not bound with this volume, no copy having been
 obtainable*. The field must agree with the volume's own abstract, note or §-list, and may echo it — a
-title page repeating a fact is paperwork, not padding — but it is the short form and must not reproduce
+title page repeating a fact is paperwork, not padding — but it is the short form and does not
 the sentence at length; keep it to a line. Three volumes vary it, and only these:
 
 - **`CR 1.1`,** where the form was completed: the field says so, and says it is not with the volume. The
@@ -562,7 +551,7 @@ Then, in order:
 - **Class:** FN — The Foundation Collection
 - **Text:** <language, hand, scribe>
 - **Date:** <date, and the Library's doubt about it>
-- **Custody:** <where it is kept, and who may not see it>
+- **Custody:** <where it is kept, and who is not shown it>
 - **Collation:** <leaves, rolls, plan sheets>
 - **Condition:** <one wry detail>
 ```
@@ -584,7 +573,7 @@ Then, in order:
   what it does, before any clause or register row is given. A reader must be able to say what the
   holding is after the first paragraph of the Note.
 - **Chronology:** the *text* is early. Only the Library's Note, the Shelf-mates and the Apparatus may
-  cite a later work; the author's own text may not.
+  cite a later work; the author's own text does not.
 - At least one MS or FN holding must contradict an existing volume, gently — and be correct.
 
 ### 8.4 Briefs — manuscripts (files 36–42)
@@ -643,9 +632,9 @@ its class.
   shelf. The commissioner's later instruction is that they are estimates and not a rule — a volume may
   run to twice them or to half of them, as its content requires — and §4.2 has been rewritten
   accordingly. The five holdings that the count had put outside the old figures (three body proportions
-  just under the old 80 per cent, two apparatus blocks over the old 300 words) are inside the standard
-  as it now stands. **No volume is to be lengthened, cut, or padded to satisfy a number**, and no
-  count — of words, sections, tables, rows or items — is to be taken as a test of anything.
+  just under the old 80 per cent, two apparatus blocks over the old 300 words) sit inside the standard
+  as it now stands. **Nothing is lengthened, cut, or padded to satisfy a number**, and no
+  count — of words, sections, tables, rows or items — is a test of anything.
 - **What the front page may carry.** `README.md` is a library document and is read as one: the shelf's
   own framing, the map of the files, the Under-Librarian's six for a first reader, and the reader's guide
   to entering the shelf. It carries **no dramatis personae, no list of recurring jokes or fixtures, and no
@@ -654,8 +643,8 @@ its class.
   is met in the catalogue and in the volumes, where it belongs. `CATALOG.md` is the Library's own card
   catalogue: holdings, rules, classification, matters outstanding, and never the fiction's fixtures as
   such.
-  - **What "no reading order" covers, now that there is a reader's guide.** The prohibition is about
-    *ranking* and about *the inside of a volume*: the front page may not say which holding is best, nor
+  - **What "no reading order" covers, now that there is a reader's guide.** The point is about
+    *ranking* and about *the inside of a volume*: the front page leaves unranked which holding is best,
     name a first volume as the one to begin at, nor tell a reader which section of a volume to start in —
     the struck line sent the reader to a section of `LT 3.7`, and that is what it was struck for. A guide
     to the **shelf** is a different thing and is now carried: the numbers as the only order the Library
@@ -665,7 +654,7 @@ its class.
     desk answers questions about the order of the shelf, gives the numbers when a reader asks for a
     preference, and ranks nothing.
 - **Comparative claims on the front page.** *Oldest*, *first* and *only* are the front page's most
-  tempting words and its most dangerous, and each one must be true of the shelf **as the volumes
+  tempting words and its most dangerous, and the shelf is what makes each one true **as the volumes
   themselves date and describe it**, or it comes out. The centaur row called *How to Groom Your Centaur*
   "the oldest craft on the shelf": that volume dates its craft nowhere — its earliest date is its own
   first edition of 1447, written by a grandfather who never asked a centaur — while the volume one row
@@ -694,15 +683,15 @@ its class.
   non-governing, the instrument governing wherever the two differ.
   - The annex is the **one place in this repository where vocabulary is invented**, and it is the only
     warrant for it. The Draconic lexicon and particles set out there are binding on any later volume that
-    uses the tongue; no second Draconic lexicon is to be coined, and the words are not to be respelled for
+    uses the tongue; the lexicon is the annex's and the spellings with it, and later volumes take them
     looks. The centaur and greenhouse renditions are smaller and less binding — a herd tongue with no
     exclusive possessive, and a tongue of gesture taken down at dictation — but they too are fixed by what
-    stands in the annex, and are not to be contradicted.
+    stands in the annex, and are what a later use of them answers to.
   - **No real-world licence is named in it, and none is to be added.** The commissioner's ruling is that
     the shelf's terms are the Library's and need not hold up in a court that has never heard of
     Alderwick: there is no Creative Commons deed in this repository, no deed quoted whole or in part, no
-    link to one, and no version number to keep in step with. A later hand is not to reintroduce any of
-    these in the fiction's own file; that is the commissioner's decision to make, not a production note's.
+    link to one, and no version number to keep in step with. The licence stays an in-world instrument,
+    and a later hand leaves the repository as it stands.
   - The instrument covers **the shelf and the production notes alike**, this file included: the terms it
     sets out are meant to be read as the shelf's, and the volumes are no less the Library's for being
     fiction.
