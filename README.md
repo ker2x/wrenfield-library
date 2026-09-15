@@ -26,8 +26,8 @@ issues the following, and notes that all six are in the catalogue, with their co
 
 | call number | volume | why it is handed over |
 |---|---|---|
-| LT 3.7 / F47 1498 | [*The Art of Mirror Walking*](volumes/01_art-of-mirror-walking.md), 2nd ed. enl. | The practice the Library does not recommend and cannot prevent, and the room it used to teach it in |
-| BH 12.4 / V67 1501 | [*How to Groom Your Centaur*](volumes/02_grooming-your-centaur.md), 3rd ed. rev. | The oldest craft on the shelf, and the only guide on it that apologises |
+| LT 3.7 / F47 1498 | [*The Art of Mirror Walking*](volumes/01_art-of-mirror-walking.md), 2nd ed. enl. | The oldest craft the shelf dates — taught here since the Guild's instrument of 1310 — and the room it used to teach it in |
+| BH 12.4 / V67 1501 | [*How to Groom Your Centaur*](volumes/02_grooming-your-centaur.md), 3rd ed. rev. | Written in 1447 without asking a centaur; rewritten in 1501 with one, and the apology is the substance of it |
 | AC 118.7 / T45 1487 | [*Tips & Tricks on the Pollen Curse*](volumes/03_pollen-curse-tips-and-tricks.md) | Read with the windows shut; the Faculty of Agricultural Curses & Pollen Pathology will hear of it if you do not |
 | JM 6.1 / V35 1494 | [*Advanced Guide to Jinxes*](volumes/04_advanced-guide-to-jinxes.md), 4th ed. | The fourth edition. The third is withdrawn, and is not to be cited |
 | HC 1.1 / M89 1496 | [*A Study on Harmless Curses*](volumes/05_study-on-harmless-curses.md) | The jurisdiction question, argued from the side of Harmless & Decorative Curses, at length |

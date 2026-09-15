@@ -460,6 +460,16 @@ its class.
   being the author's notes rather than the Library's. A name that recurs is met in the catalogue and in
   the volumes, where it belongs. `CATALOG.md` is the Library's own card catalogue: holdings, rules,
   classification, matters outstanding, and never the fiction's fixtures as such.
+- **Comparative claims on the front page.** *Oldest*, *first* and *only* are the front page's most
+  tempting words and its most dangerous, and each one must be true of the shelf **as the volumes
+  themselves date and describe it**, or it comes out. The centaur row called *How to Groom Your Centaur*
+  "the oldest craft on the shelf": that volume dates its craft nowhere — its earliest date is its own
+  first edition of 1447, written by a grandfather who never asked a centaur — while the volume one row
+  above dates mirror walking, in the same word, to the Guild's instrument of 1310. The claim was struck
+  and given to `LT 3.7`, which can support it, and the centaur row now carries what that volume does
+  support: written in 1447 without asking, rewritten in 1501 with, and the apology is the substance.
+  The same rule applies to *only*: the centaur guide, `EA 2.4` and `TE 21.1` all make apology claims, and
+  a front-page *only* that a reader can falsify from the next row is worse than no note at all.
 - **The one out-of-world line on the front page.** `README.md` carries exactly one sentence that is not
   the Library's, and it is a signpost rather than a note: the pointer to this file, marked **(SPOILER)**,
   saying that `_CANON.md` is the only file here written out of world. A reader arriving at the
