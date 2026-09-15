@@ -23,6 +23,8 @@ The examination files are kept in the Registry, which files by series; series R 
 
 Marks that are not the second reader's are recorded as contamination: a fingermark, a pressed leaf, a wax stain, a clerk's tick. The pressed leaf, at file 1431/19, is a catkin, and the Faculty of Agricultural Curses declines to say whose.
 
+The author has read the long comment of 1301 at **DP 44.9** and does not count it, the volume being of another faculty and the comment lying outside the corpus by more than a century. It is entered here because the reader who requires the sense of the word will come to it late and from below, and will find that the study has met the same difficulty at the beginning: the comment is undated and unsigned, it is longer than the whole of the rest of the corpus, it has never been glossed, and it has not been used. The author records it as a shape and contains no finding upon it.
+
 ## 2. The Seven Tests by Which a Comment Is Counted, Read and Graded
 
 The census was made under seven tests, applied in order. The order is not arbitrary: a reader who begins at the third test has certified a forgery, which this Faculty has done twice, in 1466 and in 1499, paying the candidates' costs, eleven bells and nine bells.
@@ -171,13 +173,7 @@ The census is closed at 214. The fee book stands open at fol. 61. The interrogat
 
 *Second reader's comment, on the title page, in his hand:* Broadly.
 
-> *The second reader's comment, written at length on the verso of the report cover, and printed here entire. It is the only comment of his that runs beyond its word, and the Library has found no second instance.*
->
-> Broadly — and it is a manner and not a remark. The seventh section is right to hold that the question is not answered, and wrong only in counting the matter by explanations, of which there are three when I write and four by the time this is printed. The two interrogative cases differ by the second test, not the fifth; the fifth is a formality and I have never used it. Whether the word is the finding or the frame of the finding cannot be settled from the counterfoils, since the counterfoils carry the word and not the room. I record no finding. I observe only that the count is a count of the marks and not of the reports, that the fourteen unannotated are the most interesting of the two hundred and twenty-eight, and that a word which is put to every work in a Faculty is not a word about any of them. The Faculty of Harmless & Decorative Curses may take what comfort it likes from that. The remaining explanation is not mine, and I have no view on it, and a reader who requires the sense of my comment will find it where I have always kept it, which is not in this book.
-
 *Under-Librarian's stamp, in violet, dated 17 vi 1504:* Subject to the hours of Reading Room 2. Not to be taken to the fourth reading room, which is bookable. The counter is with the room. Fines from the third bell.
-
-*Examiner's note:* Broadly, in the ordinary way, is a comment on the work. The comment above is a comment on its own book, and the second reader has answered a question the volume did not ask. The author has entered otherwise and has not been answered, which is the whole of §7 and is now the whole of this.
 
 *Marginalia, in pencil, hand unidentified, at §7:* The writer asked three examiners and the clock; the clock was the only one that answered, and it answers twice a day, and the answer is no.
 

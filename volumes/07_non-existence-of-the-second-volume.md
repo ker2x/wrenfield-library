@@ -191,4 +191,8 @@ The second volume has been read by more people than the first. That sentence is 
 
 *Shelf note, in the Under-Librarian's hand:* Shelf measures correctly. Reader has twice asked for the gap to be closed and been refused twice. The gap is not to be closed. The requisition of 1304 is filed with the other two.
 
-*Second reader's comment:* Broadly.
+*Second reader's comment:* Broadly. The same comment is written at length on the guard-leaf at the front of the volume, and is printed below entire; the Library does not gloss it.
+
+> *Entered by the Library against the long form:* The same word is the one whose census is made at **JM 1.4**, where this volume is not counted, the long comment being undated and unsigned; and the examination of 1425, by which that census begins, is a century and a quarter after this volume.
+>
+> Broadly. The proof is not a proof and the absence is not the thing proved; the shelf-mark scried is the mark of a volume that stood beside it, and a mark is what a volume leaves and not what it is. The first part survives and the third is lost, which is a difference of two, and the second is counted because the two are counted; a count of absences is a count of the counter and not of the room. The interval is flat and the interval is torn, and both readings are the reader's. What was never written has no interval, the interval being the space between two things, and this is the whole of what I have to say to the Faculty: **an interval that holds a book and an interval that holds nothing measure the same**, and the shelf is shorter either way. I do not find the volume, and I do not miss it.
