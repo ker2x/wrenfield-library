@@ -23,8 +23,6 @@ The examination files are kept in the Registry, which files by series; series R 
 
 Marks that are not the second reader's are recorded as contamination: a fingermark, a pressed leaf, a wax stain, a clerk's tick. The pressed leaf, at file 1431/19, is a catkin, and the Faculty of Agricultural Curses declines to say whose.
 
-The author has read the long comment of 1301 at **DP 44.9** and does not count it, the volume being of another faculty and the comment lying outside the corpus by more than a century. It is entered here because the reader who requires the sense of the word will come to it late and from below, and will find that the study has met the same difficulty at the beginning: the comment is undated and unsigned, it is longer than the whole of the rest of the corpus, it has never been glossed, and it has not been used. The author records it as a shape and contains no finding upon it.
-
 ## 2. The Seven Tests by Which a Comment Is Counted, Read and Graded
 
 The census was made under seven tests, applied in order. The order is not arbitrary: a reader who begins at the third test has certified a forgery, which this Faculty has done twice, in 1466 and in 1499, paying the candidates' costs, eleven bells and nine bells.
