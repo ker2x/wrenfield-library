@@ -1,0 +1,9 @@
+# editors / os
+.DS_Store
+*~
+*.swp
+*.swo
+
+# working drafts of holdings — not part of the shelf (the catalogue lists 49)
+*_backup.md
+*.draft.md
