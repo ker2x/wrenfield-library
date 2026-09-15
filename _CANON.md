@@ -25,20 +25,22 @@ later volume has a better idea the canon is what changes.
 - Time period: the volumes span roughly 1301–1504. The "present day" of the catalogue is
   1504 (the 357th year of the present reckoning).
 - Currency: **marks, bells, clipped bells** (1 mark = 20 bells = 240 clipped bells).
-  Two special registers sit inside it and are kept apart from it: **the old line**, which the Registry
-  uses for its own instruments and the Faculty of Draconic Dentistry for its consent form (§4.1); and
-  **Draconic**, the tongue of dragons, whose words,
-  particles and word order are fixed in the annex to `LICENSE.md` and binding on any later volume that
-  uses them. Besides these: the **tongue of the Nine Meadows** (centaurs; a herd tongue, called and not
-  written, with no possessive that shuts out the herd); the **greenhouse tongue** (sentient plants; by
-  gesture and leaf, taken down at a keeper's dictation, so a rendition of it is a translation of a
-  translation); and **Norman French**, in clauses 13–18 of the Capitular Statutes (`FN 1.1`) and nowhere
-  else. There is also the **pollen script** of the Faculty of Agricultural Curses, which is a deposit and
-  not a hand: five letters, varying with crop, water and ground, read by shaking them into a diagnosing
-  bottle. The Library doth not admit it to the reading rooms, the windows of Reading Room 2 being shut at
-  that Faculty's own request, and a rendition of the Licence in pollen was requested and declined on the
-  ground of the window (`LICENSE.md`, annex F). Familiars and fowl have no written tongue; the goose is a
-  tenant of the Chapter at one egg and does not read.
+
+- **Tongues.** English in the ordinary register; two special registers sit inside it and are kept
+  apart from it: **the old line**, which the Registry uses for its own instruments and the Faculty
+  of Draconic Dentistry for its consent form (§4.1); and **Draconic**, the tongue of dragons, whose
+  words, particles and word order are fixed in the annex to `LICENSE.md` and are what any later
+  volume using them answers to. Besides these: the **tongue of the Nine Meadows** (centaurs; a herd
+  tongue, called and not written, with no possessive that shuts out the herd); the **greenhouse
+  tongue** (sentient plants; by gesture and leaf, taken down at a keeper's dictation, so a rendition
+  of it is a translation of a translation); and **Norman French**, in clauses 13–18 of the Capitular
+  Statutes (`FN 1.1`) and nowhere else. There is also the **pollen script** of the Faculty of
+  Agricultural Curses, which is a deposit and not a hand: five letters, varying with crop, water and
+  ground, read by shaking them into a diagnosing bottle. The Library doth not admit it to the
+  reading rooms, the windows of Reading Room 2 being shut at that Faculty's own request, and a
+  rendition of the Licence in pollen was requested and declined on the ground of the window
+  (`LICENSE.md`, annex F). Familiars and fowl have no written tongue; the goose is a tenant of the
+  Chapter at one egg and does not read.
 - **Joke engine:** comedy comes from earnestness — fees, forms, consent, liability
   insurance, professional jurisdiction, and peer review — never from winking at the
   reader. The scholars behave like real academics: defensive, precise, and slightly
