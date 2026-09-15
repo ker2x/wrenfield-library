@@ -13,8 +13,7 @@ shelf, and one crate behind the desk that is not on it.
   Form 7B, the crate that falls due in 1505, the undergraduate still in transit since 1461.
 - **[`volumes/`](volumes/)** — the holdings themselves, filed in catalogue order.
 - **[`LICENSE.md`](LICENSE.md)** — the Registry's instrument of circulation: the terms on which a volume
-  may be copied, drawn in the register of the old line, with the deed itself reproduced at the foot of
-  the file.
+  may be copied, drawn in the register of the old line, and stamped twice.
 - **[`_CANON.md`](_CANON.md)** — **(SPOILER)** the Library's own file on itself: the faculties and the
   classes, the apparatus every volume carries, the standard a holding is issued to, and the provenance
   of the shelf. The only file allowing out-of-world reference.

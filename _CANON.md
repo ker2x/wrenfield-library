@@ -445,16 +445,16 @@ its class.
   Library does not know that it is one. The line names this file and nothing else; it carries no
   fixtures, no cast, no reading order, and `CATALOG.md` carries no such pointer at all, there being
   nobody standing at the catalogue to warn.
-- **The licence.** At the commissioner's instruction the repository carries a Creative Commons licence,
-  and the shelf carries it as a Registry instrument: **CC BY-SA 4.0**, in `LICENSE.md`, with the head of
-  the file drawn in the register of the old line and the deed reproduced entire beneath it. The
-  commissioner asked whether the licence should be rendered in Draconic, and settled on the old-line
-  register instead: there is no invented vocabulary in this repository, and a courtesy text would have
-  had to be marked non-governing anyway, a paraphrase being no more the deed than it is the form.
-  - The **deed is quoted byte for byte** and is never edited, abbreviated, annotated or reflowed. It is
-    the one text here whose wording the fiction may not touch, and it governs wherever the Library's own
-    head differs from it. If the deed is ever replaced, it is replaced whole, from the source, at the
-    version named in the head of the file.
-  - The licence covers **the shelf and the production notes alike**, this file included: the out-of-world
-    material is no less the author's work than the volumes are, and the volumes are no less licensed for
-    being fiction.
+- **The licence.** At the commissioner's instruction the repository carries a licence, and it is the
+  Library's own: `LICENSE.md`, the Licence of Circulation, an instrument of the Registry drawn in the
+  register of the old line, with seven clauses and no schedule. The commissioner asked whether it should
+  be rendered in Draconic, and settled on the old-line register instead — no invented vocabulary in this
+  repository, and a courtesy text would have had to be marked non-governing besides.
+  - **No real-world licence is named in it, and none is to be added.** The commissioner's ruling is that
+    the shelf's terms are the Library's and need not hold up in a court that has never heard of
+    Alderwick: there is no Creative Commons deed in this repository, no deed quoted whole or in part, no
+    link to one, and no version number to keep in step with. A later hand is not to reintroduce any of
+    these in the fiction's own file; that is the commissioner's decision to make, not a production note's.
+  - The instrument covers **the shelf and the production notes alike**, this file included: the terms it
+    sets out are meant to be read as the shelf's, and the volumes are no less the Library's for being
+    fiction.
