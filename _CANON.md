@@ -457,13 +457,18 @@ hands for — usually several, and never a set assembled to look complete:
   complaint.
 - `*Second reader's comment:*` — may be, in full, "Broadly."
 
-**The Library's own hand may write in the text rather than in the apparatus**, as a blockquote beneath
-the paragraph it answers, with the standard label inside the quote:
-`> *Library's annotation, in a later hand, written in the margin of this page, <year>:* …`. Use it where
-the note belongs to the page — a rule the Library requires, an objection it answers, a direction it
-will not correct — and let the apparatus say what the form of the book cannot. A blockquote of this
-kind **is not a section**: give it no heading and no number, keep it to a short paragraph, and do not
-move an entry out of the apparatus to make one, the apparatus being where a volume's hands are counted.
+**A hand may write in the text rather than in the apparatus**, as a blockquote at the point in the
+section it belongs to, with the standard label inside the quote — the Library's own
+(`> *Library's annotation, in a later hand, written in the margin of this page, <year>:* …`), or any
+other hand's, as `DP 44.9` sets the second reader's marginalia at the end of §§4 and 11
+(`> *Marginalia, in pencil, in the second reader's hand:* …`). Use it where the note belongs to the
+page rather than to the back of the book — a rule the Library requires, an objection it answers, a
+measurement a reader takes further — and let the apparatus say what the form of the book cannot. Such
+a blockquote **is not a section**: no heading, no number, one short paragraph, and the label carries
+no section reference because the placement is the reference. Where a note is *about the volume* rather
+than about a passage in it, it stays in the apparatus, and the apparatus is where a volume's hands
+are counted — but a note that has moved into the text is still one of that volume's hands, and its
+label must match the hand exactly.
 
 ## 7. Volume briefs (author, call number, content, seed jokes)
 

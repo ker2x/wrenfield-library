@@ -65,6 +65,8 @@ Between these findings sits the complaint of 1299, reproduced at §5, from a rea
 | 22 March | shelf re-measured; eleven and one quarter inches at the end | the author | not a mis-shelving |
 | 24 March | refund of the 2 bells requested at the counter | the author | refused the same morning; see §6 |
 
+> *Marginalia, in pencil, in the second reader's hand:* The collation, the extent and the plate count are entered from the wrapper, and the wrapper is the only part of the volume ever produced. That is a thin ground and the author stands on it without pretending to more, which is why the requisitions of 1301, 1302 and 1304 were refused and why the refusal does not end the matter.
+
 ## 5. A Complaint of 1299, Reproduced in Full
 
 The complaint was filed at the counter on the fourth of November 1299, in the hand of the Deputy Clerk of Complaints, the complainant adopting it before two witnesses.
@@ -162,6 +164,8 @@ Shelf 44.9 is shorter than it should be, and the difficulty is its company and n
 
 The shelf is the correct length. The volumes are short. The two rules did not agree by nine sixteenths of an inch. A shelf of the correct length and a shelf-list one volume longer than the shelf are not two findings. They are one finding, and the finding is the thesis.
 
+> *Marginalia, in pencil, in the second reader's hand:* The shelf is the correct length and the volumes are short, and the author is right that these are one finding and not two. Eleven and a quarter inches of shelf, of which seven and three eighths are required and three and seven eighths are not; nine sixteenths is the whole of it, and nine sixteenths is what the Faculty of Divination will not measure. I have measured it.
+
 ## 12. Conclusion, and the Readership of the Second Volume
 
 The volume was accessioned on the eleventh of March 1301 and reported absent on the nineteenth, and not struck out. Its deposit fee of two bells was not refunded, and the Registry's account of the fee, at §6, is on its own terms correct. There is a reader, Brother Godfrey, a priest of forty-one years in Low Town, who was kept waiting two years for the volume and then died, and whose complaint was never withdrawn.
@@ -186,10 +190,6 @@ The second volume has been read by more people than the first. That sentence is 
 *Under-Librarian's stamp, in violet:* Readers are reminded that the reading rooms close at the fourth bell, that the north windows are to remain shut in all weathers, and that Shelf 44.9 is not to be measured.
 
 *Marginalia, in pencil, hand unidentified:* The second volume has been read by more people than the first.
-
-*Marginalia, in pencil, in the second reader's hand, at §4:* The collation, the extent and the plate count are entered from the wrapper, and the wrapper is the only part of the volume ever produced. That is a thin ground and the author stands on it without pretending to more, which is why the requisitions of 1301, 1302 and 1304 were refused and why the refusal does not end the matter.
-
-*Marginalia, in pencil, in the second reader's hand, at §11:* The shelf is the correct length and the volumes are short, and the author is right that these are one finding and not two. Eleven and a quarter inches of shelf, of which seven and three eighths are required and three and seven eighths are not; nine sixteenths is the whole of it, and nine sixteenths is what the Faculty of Divination will not measure. I have measured it.
 
 *Errata slip, pasted:* The author regrets the statement at §7.2 that no complaint has been lodged against a book that does not exist. A complaint was lodged on the fourth of November 1299 by Brother Godfrey of the Cell of Saint Anselm, and is reproduced entire at §5, and the author has read it and does not amend the argument.
 
