@@ -53,8 +53,8 @@ work in this Library that is also an apology.
 9. The Registry's clock is not to be wound. The crate is not to be opened. The draught in the north
    corridor is not to be stopped. Enquiries on all three are to be made in writing, and are answered
    on the second.
-10. **CR 1.1 is not to be consulted or borrowed** without a completed *Form 7B, Declaration of
-    Non-Interference with Time*, bearing the Registry's two stamps. No such form is held. The only
+10. **CR 1.1 is not to be consulted or borrowed without a completed Form 7B, "Declaration of
+    Non-Interference with Time"**, bearing the Registry's two stamps. No such form is held. The only
     completed form the Library has seen was filed with the fourth reading room on the sixth of March
     1487 and went with it; the form is issued at that room's counter and nowhere else [**EA 1.1**, §9],
     and a form stamped once is unstamped, the second stamp not being supplied later [**EA 1.1**, rule 6].
