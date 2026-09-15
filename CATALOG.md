@@ -105,7 +105,8 @@ how the matter began.
 | **AC 200.1 / T45 1504** | A History of the Window War | M. Thistlewick, M.M.M. | 1504 | On shelf. Foxed; repaired at the spine; a pressed barley awn at p. 44, which the Library declines to remove |
 | **EA 6.1 / Q55 1504** | In re the Crate: A Memorandum | Dean A. Quill | 1504 | On shelf. No annotations. The only volume in this Library without a pencil note, verified twice |
 
-Each volume is a discrete document, shelved beside this catalogue: `volumes/<number>_<slug>.md`.
+Each volume is a discrete document, shelved beside this catalogue, in [`volumes/`](volumes/), under
+`<number>_<slug>.md`.
 
 ## The Diaries and Personal Papers (MS)
 

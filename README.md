@@ -7,14 +7,14 @@ of them ridiculous, none of them joking.
 
 ## The catalogue and the shelf
 
-- **`CATALOG.md`** — the card catalogue: the classification and how it came to be as it is, the
-  reading-room rules, borrowing terms and fines, the shelf-list with call numbers and condition notes,
-  the personal papers and the Foundation collection, and the matters outstanding — the missing Form
-  7B, the crate that falls due in 1505, the undergraduate still in transit since 1461.
-- **`volumes/`** — the holdings themselves, filed in catalogue order.
-- **`_CANON.md`** — the Library's own notes on its making: the cast, the faculties and classes, the
-  apparatus every volume carries, the standard a holding is issued to, and the provenance of the
-  shelf.
+- **[`CATALOG.md`](CATALOG.md)** — the card catalogue: the classification and how it came to be as it
+  is, the reading-room rules, borrowing terms and fines, the shelf-list with call numbers and condition
+  notes, the personal papers and the Foundation collection, and the matters outstanding — the missing
+  Form 7B, the crate that falls due in 1505, the undergraduate still in transit since 1461.
+- **[`volumes/`](volumes/)** — the holdings themselves, filed in catalogue order.
+- **[`_CANON.md`](_CANON.md)** — the Library's own notes on its making: the cast, the faculties and
+  classes, the apparatus every volume carries, the standard a holding is issued to, and the provenance
+  of the shelf.
 
 ## A first reader's six
 
@@ -47,8 +47,8 @@ reason no Form 7B in this Library has ever been completed.
 - **The fourth reading room** — in the plans since 1223, filed under R on the 6th of March 1487, and
   not in the building since. Its lamp is still trimmed, the draught in the corridor that replaced it
   is not to be stopped, and the Library's only copy of *Form 7B for Dummies* went with it. See
-  `CATALOG.md` under *Holdings Recorded and Not Held*, and
-  `volumes/16_on-the-mis-filing-of-the-fourth-reading-room.md`.
+  [`CATALOG.md`](CATALOG.md) under *Holdings Recorded and Not Held*, and
+  [`volumes/16_on-the-mis-filing-of-the-fourth-reading-room.md`](volumes/16_on-the-mis-filing-of-the-fourth-reading-room.md).
 
 *Enquiries at the desk. The catalogue is stamped twice, as is proper, and once more if it is returned
 out of hours.*

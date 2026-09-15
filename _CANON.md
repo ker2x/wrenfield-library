@@ -2,7 +2,7 @@
 
 *(This file is not part of the library. It is the world bible and house style used to
 keep forty-nine independently written holdings consistent. Readers of the library should
-start at `CATALOG.md`.)*
+start at [`CATALOG.md`](CATALOG.md), and the library's front page is [`README.md`](README.md).)*
 
 ## 1. The world, briefly
 
@@ -57,7 +57,7 @@ start at `CATALOG.md`.)*
   the contingency. His grandson's thesis argues the filing was correct, and is correct.
 - ***Form 7B for Dummies*** — Aldermarket piracy, octavo, boards rubbed, purchased 1483 for 4 bells;
   the Library's only copy and the only copy known, shelved at the forms counter, lost with the room.
-  Catalogued and not held; see `CATALOG.md` under *Holdings Recorded and Not Held*. Volumes may cite it
+  Catalogued and not held; see [`CATALOG.md`](CATALOG.md) under *Holdings Recorded and Not Held*. Volumes may cite it
   as the manual nobody can consult — but not as **lost**, in volumes of imprint before 1487.
 - **Mr. Ephraim Sallow**, Under-Librarian 1381–1391, *who was unwell*, author of the Classification of
   1388. Never named in the classroom; named constantly in the margins. His notes were never found.
@@ -190,7 +190,7 @@ Standing gags available to every volume:
    citation. Where an early volume needs a later shelf-mate, its reference list must open with the
    standard line: *Shelf-mate entries in the list below were added by the Library in later hands.
    They are not the author's citations, and the author is not answerable for them.* (Vol. 07 uses a
-   variant of this line, being the extreme case; see `CATALOG.md`.) Apparatus items — marginalia,
+   variant of this line, being the extreme case; see [`CATALOG.md`](CATALOG.md).) Apparatus items — marginalia,
    stamps, pasted errata, shelf notes — may be dated later than the imprint, and often should be.
 7. **Spelling:** British, consistent. The author may defend a coined term once, in a
    footnote, and may ignore the Faculty's preferred spelling.
@@ -224,8 +224,7 @@ Use small run-in blocks, italic labels, no headings deeper than `###`:
 
 ## 7. Volume briefs (author, call number, content, seed jokes)
 
-Every volume below is written to
-`volumes/<NN>_<slug>.md`.
+Every volume below is written to a file in [`volumes/`](volumes/), named `<NN>_<slug>.md`.
 
 | NN | file slug | call no. | author (year) | content and seeds |
 |----|-----------|----------|---------------|-------------------|
@@ -389,8 +388,9 @@ its class.
 - **The length correction.** The first issue of 1504 was written to 900–1300 words, and once its front
   matter and abstract were removed almost nothing remained. The commissioner's finding is recorded here
   and nowhere else in the library: the first issue is withdrawn, and all forty-nine holdings were
-  reissued at full length with §4.4 met in every one. `README.md` and `CATALOG.md` carry no note of the
-  correction, being library documents and staying in the library's voice.
+  reissued at full length with §4.4 met in every one. [`README.md`](README.md) and
+  [`CATALOG.md`](CATALOG.md) carry no note of the correction, being library documents and staying in
+  the library's voice.
 - **On the figures in §4.2.** They were first written as caps, and were audited as caps across the
   shelf. The commissioner's later instruction is that they are estimates and not a rule — a volume may
   run to twice them or to half of them, as its content requires — and §4.2 has been rewritten
