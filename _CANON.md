@@ -111,6 +111,11 @@ its press number. **`CATALOG.md` repeats this table in its annex** (*The Series 
 Their Faculties*), with the press numbers and a count of the holdings in each series. A holding added to
 the shelf is added to that count, and to the shelf-list and the accession register with it.
 
+**`R`** is a series without a faculty: the Registry's own, where the Registry's property is classed
+whether or not the Registry can produce it. One instrument of it stands in the repository and is meant to
+be found — `LICENSE.md`, the Licence of Circulation, which is not a holding, is not counted in the annex,
+and is the only document of the Registry this Library can produce on demand.
+
 ### The 1504 Extension: classes MS and FN
 
 In 1504 the Library extended the Classification of 1388 with two further classes, without consulting
@@ -440,3 +445,16 @@ its class.
   Library does not know that it is one. The line names this file and nothing else; it carries no
   fixtures, no cast, no reading order, and `CATALOG.md` carries no such pointer at all, there being
   nobody standing at the catalogue to warn.
+- **The licence.** At the commissioner's instruction the repository carries a Creative Commons licence,
+  and the shelf carries it as a Registry instrument: **CC BY-SA 4.0**, in `LICENSE.md`, with the head of
+  the file drawn in the register of the old line and the deed reproduced entire beneath it. The
+  commissioner asked whether the licence should be rendered in Draconic, and settled on the old-line
+  register instead: there is no invented vocabulary in this repository, and a courtesy text would have
+  had to be marked non-governing anyway, a paraphrase being no more the deed than it is the form.
+  - The **deed is quoted byte for byte** and is never edited, abbreviated, annotated or reflowed. It is
+    the one text here whose wording the fiction may not touch, and it governs wherever the Library's own
+    head differs from it. If the deed is ever replaced, it is replaced whole, from the source, at the
+    version named in the head of the file.
+  - The licence covers **the shelf and the production notes alike**, this file included: the out-of-world
+    material is no less the author's work than the volumes are, and the volumes are no less licensed for
+    being fiction.
