@@ -2,13 +2,13 @@
 
 ### Statutes of the Chapter, in force 1274–1504, and last confirmed in the present year, with the roll of confirmations and the Chapter's table of fines
 
-**Call number:** FN 1.1 / — 1274
-**Class:** FN — The Foundation Collection
-**Text:** Latin, with clauses 13–18 in Norman French; the fair engrossment in the hand of a Chapter scribe signing *W. de Aldre*, the numbering in a second hand throughout
-**Date:** Enacted at the Michaelmas Chapter of 1274; the Library doubts the eighth and ninth leaves, which are in a later hand and interrupt the numbering
-**Custody:** Kept in the Upper Crypt, in the second press, in the Chapter's own chest; not to be produced to any officer of the Registry without the Dean of the Faculty of Ethics, Appeals & Paperwork present
-**Collation:** 11 leaves; one roll of confirmations 1275–1401 appended; one half-leaf of fines in a hand of about 1300
-**Condition:** The lower edge of the fifth leaf is eaten by damp to the loss of four words; the seal-tags have been cut away, and the cutting is tidy, which the Library finds worse than the loss
+- **Call number:** FN 1.1 / — 1274
+- **Class:** FN — The Foundation Collection
+- **Text:** Latin, with clauses 13–18 in Norman French; the fair engrossment in the hand of a Chapter scribe signing *W. de Aldre*, the numbering in a second hand throughout
+- **Date:** Enacted at the Michaelmas Chapter of 1274; the Library doubts the eighth and ninth leaves, which are in a later hand and interrupt the numbering
+- **Custody:** Kept in the Upper Crypt, in the second press, in the Chapter's own chest; not to be produced to any officer of the Registry without the Dean of the Faculty of Ethics, Appeals & Paperwork present
+- **Collation:** 11 leaves; one roll of confirmations 1275–1401 appended; one half-leaf of fines in a hand of about 1300
+- **Condition:** The lower edge of the fifth leaf is eaten by damp to the loss of four words; the seal-tags have been cut away, and the cutting is tidy, which the Library finds worse than the loss
 
 ## The Library's Note
 

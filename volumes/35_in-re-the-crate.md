@@ -1,16 +1,16 @@
 # In re the Crate
 ### A Memorandum upon the Deposit of 1494, the Claim filed upon Form AN/4, and the Question Whether the Matter Is Before Me (It Is Not)
 
-**Call number:** EA 6.1 / Q55 1504
-**Author:** Ambrose Quill, Dean of the Faculty of Ethics, Appeals & Paperwork
-**Faculty:** Ethics, Appeals & Paperwork
-**Degree sought:** none. A memorandum, bound as a volume at the Dean's instruction, which he has declined to confirm
-**Advisor:** none · **Second reader:** Professor Emeritus Q. Ashgrove-Vane, who returned it unread
-**Imprint:** Alderwick: Wrenfield Press for the University, 1504
-**Edition:** Reissue, corrected and extended; the Dean has authorised no impression, and not forbidden this one
-**Accession:** Wrenfield Accessions 1504.23
-**Collation:** 57 numbered paragraphs, no plates
-**Condition:** Unmarked, unread, and the only volume in this Library without a pencil note, a fact the Library has verified twice
+- **Call number:** EA 6.1 / Q55 1504
+- **Author:** Ambrose Quill, Dean of the Faculty of Ethics, Appeals & Paperwork
+- **Faculty:** Ethics, Appeals & Paperwork
+- **Degree sought:** none. A memorandum, bound as a volume at the Dean's instruction, which he has declined to confirm
+- **Advisor:** none · **Second reader:** Professor Emeritus Q. Ashgrove-Vane, who returned it unread
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1504
+- **Edition:** Reissue, corrected and extended; the Dean has authorised no impression, and not forbidden this one
+- **Accession:** Wrenfield Accessions 1504.23
+- **Collation:** 57 numbered paragraphs, no plates
+- **Condition:** Unmarked, unread, and the only volume in this Library without a pencil note, a fact the Library has verified twice
 
 ## Abstract (as filed)
 

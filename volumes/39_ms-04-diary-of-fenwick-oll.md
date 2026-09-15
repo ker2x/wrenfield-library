@@ -1,13 +1,13 @@
 # The Diary of Fenwick Oll
 ### The diary of the Under-Librarian of the Wrenfield Library, kept from January to the second of August 1504; reissued at the enlarged length
 
-**Call number:** MS 4.1 / O55 1504
-**Hand:** Mr. Fenwick Oll's own, small, upright and unusually even; the entries after the second of August are shorter by one line each week
-**Class:** MS — Manuscripts & Personal Papers
-**Dates of entries:** 4 January – 2 August 1504; four months unentered, and the ruled leaves continue to the end of the year
-**Provenance:** Found on the Under-Librarian's desk in the week of his death; Mr. Casper Nunn writes on the first leaf that it is "a day-book and not a record"
-**Collation:** 40 leaves, 32 written; watermark a wren, poorly cut
-**Condition:** the plainest boards, re-sewn once by an amateur, with white thread
+- **Call number:** MS 4.1 / O55 1504
+- **Hand:** Mr. Fenwick Oll's own, small, upright and unusually even; the entries after the second of August are shorter by one line each week
+- **Class:** MS — Manuscripts & Personal Papers
+- **Dates of entries:** 4 January – 2 August 1504; four months unentered, and the ruled leaves continue to the end of the year
+- **Provenance:** Found on the Under-Librarian's desk in the week of his death; Mr. Casper Nunn writes on the first leaf that it is "a day-book and not a record"
+- **Collation:** 40 leaves, 32 written; watermark a wren, poorly cut
+- **Condition:** the plainest boards, re-sewn once by an amateur, with white thread
 
 ## The Library's Note
 

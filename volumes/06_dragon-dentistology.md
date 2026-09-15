@@ -2,16 +2,16 @@
 
 ### Being a Practical Manual of Draconic Dentition, together with the Consent of the Patient
 
-**Call number:** DD 7.2 / O56 1502
-**Author:** Ignatius Oloroso, D.Dent.Th.
-**Faculty:** Draconic Dentistry & Comparative Saurian Medicine
-**Degree sought:** D.Dent.Th., 1502
-**Advisor:** Dr Ignatius Oloroso, by his own appointment · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: privately printed at the sign of the Better Molar, 1502
-**Edition:** First and only impression; two hundred copies, eleven bound, the rest in sheets
-**Accession:** Wrenfield Accessions 1502.77
-**Collation:** 96 pages, 4 plates, two folding
-**Condition:** Water-damaged at pp. 44–71 by a patient, who wept upon the fee schedule and is liable for the drying; the tear at folio 12 is mended with gum and optimism
+- **Call number:** DD 7.2 / O56 1502
+- **Author:** Ignatius Oloroso, D.Dent.Th.
+- **Faculty:** Draconic Dentistry & Comparative Saurian Medicine
+- **Degree sought:** D.Dent.Th., 1502
+- **Advisor:** Dr Ignatius Oloroso, by his own appointment · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: privately printed at the sign of the Better Molar, 1502
+- **Edition:** First and only impression; two hundred copies, eleven bound, the rest in sheets
+- **Accession:** Wrenfield Accessions 1502.77
+- **Collation:** 96 pages, 4 plates, two folding
+- **Condition:** Water-damaged at pp. 44–71 by a patient, who wept upon the fee schedule and is liable for the drying; the tear at folio 12 is mended with gum and optimism
 
 ## Abstract (as filed)
 

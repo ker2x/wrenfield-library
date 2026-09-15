@@ -1,16 +1,16 @@
 # Where Mr. Nott Is
 ### The case for the fourth reading room, with the Register at full length and the depositions of 1502
 
-**Call number:** LT 3.9 / B72 1504
-**Author:** Ysolde Bramm, M.L.S., D.Th.
-**Faculty:** Locomotion, Doors & Threshold Studies
-**Degree sought:** D.Th., 1501
-**Advisor:** Septimus Ferrer, M.L.S. · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1504
-**Edition:** Enlarged reissue. First issue 1504, 175 copies, 4 withdrawn on the Faculty's objection to Plate II; this reissue adds the depositions of 1502
-**Accession:** Wrenfield Accessions 1504.18
-**Collation:** 132 pages, 5 plates
-**Condition:** Water-damaged at the lower margin, repaired at the corner, annotated in three hands; the third is dated forty years after the imprint
+- **Call number:** LT 3.9 / B72 1504
+- **Author:** Ysolde Bramm, M.L.S., D.Th.
+- **Faculty:** Locomotion, Doors & Threshold Studies
+- **Degree sought:** D.Th., 1501
+- **Advisor:** Septimus Ferrer, M.L.S. · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1504
+- **Edition:** Enlarged reissue. First issue 1504, 175 copies, 4 withdrawn on the Faculty's objection to Plate II; this reissue adds the depositions of 1502
+- **Accession:** Wrenfield Accessions 1504.18
+- **Collation:** 132 pages, 5 plates
+- **Condition:** Water-damaged at the lower margin, repaired at the corner, annotated in three hands; the third is dated forty years after the imprint
 
 ## Abstract (as filed)
 

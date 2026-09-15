@@ -2,13 +2,13 @@
 
 ### The document under seal of 1402 by which the *Journal of Harmless Maleficence* was put upon hiatus pending clarification, and was not taken off it
 
-**Call number:** FN 7.1 / — 1402
-**Class:** FN — The Foundation Collection
-**Text:** English, in the hand of a notary of the Faculty of Ethics, Appeals & Paperwork, signing *J. Petyt*, with the seal appended on a tag
-**Date:** Sealed the fourteenth of June 1402; the Library doubts the date on the tag, which is written in a second hand and differs from the body by one day
-**Custody:** Upper Crypt, first press, in the chest of the Concord; not to be produced to the editors of the journal named in it, who are not to be admitted to the Crypt
-**Collation:** 1 membrane, indented at the foot, with 2 seals and a schedule of witnesses appended
-**Condition:** The seal is whole and the impression deep; the membrane has long been folded in four, and the folds give way along the sentence in clause 6, the sentence most often quoted
+- **Call number:** FN 7.1 / — 1402
+- **Class:** FN — The Foundation Collection
+- **Text:** English, in the hand of a notary of the Faculty of Ethics, Appeals & Paperwork, signing *J. Petyt*, with the seal appended on a tag
+- **Date:** Sealed the fourteenth of June 1402; the Library doubts the date on the tag, which is written in a second hand and differs from the body by one day
+- **Custody:** Upper Crypt, first press, in the chest of the Concord; not to be produced to the editors of the journal named in it, who are not to be admitted to the Crypt
+- **Collation:** 1 membrane, indented at the foot, with 2 seals and a schedule of witnesses appended
+- **Condition:** The seal is whole and the impression deep; the membrane has long been folded in four, and the folds give way along the sentence in clause 6, the sentence most often quoted
 
 ## The Library's Note
 

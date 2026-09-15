@@ -1,13 +1,13 @@
 # The Diary of Marigold Thistlewick
 ### The diary of a candidate for the M.M.M. of the Faculty of Agricultural Curses, kept through the catkin weeks of 1487; reissued at the enlarged length
 
-**Call number:** MS 3.1 / T45 1487
-**Hand:** Marigold Thistlewick's own; the last week of April is written with the left hand, the right being wrapped
-**Class:** MS — Manuscripts & Personal Papers
-**Dates of entries:** March – May 1487; no gap, though four leaves at the end are given to a list of remedies
-**Provenance:** Deposited with the corrected proof of *Tips & Tricks on the Pollen Curse* in 1488, in the same parcel; the Library takes this for an accident and the Faculty for a claim to priority
-**Collation:** 18 leaves, of which 14 written; watermark a sprig of alder
-**Condition:** pollen staining through the lower margins
+- **Call number:** MS 3.1 / T45 1487
+- **Hand:** Marigold Thistlewick's own; the last week of April is written with the left hand, the right being wrapped
+- **Class:** MS — Manuscripts & Personal Papers
+- **Dates of entries:** March – May 1487; no gap, though four leaves at the end are given to a list of remedies
+- **Provenance:** Deposited with the corrected proof of *Tips & Tricks on the Pollen Curse* in 1488, in the same parcel; the Library takes this for an accident and the Faculty for a claim to priority
+- **Collation:** 18 leaves, of which 14 written; watermark a sprig of alder
+- **Condition:** pollen staining through the lower margins
 
 ## The Library's Note
 

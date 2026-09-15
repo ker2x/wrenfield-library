@@ -2,13 +2,13 @@
 
 ### A schedule of process and fees for causes brought by and against bees, engrossed and sealed, with the roll of returns 1390–1402, the table of standing, and the schedule of penalties
 
-**Call number:** FN 4.1 / — 1389
-**Class:** FN — The Foundation Collection
-**Text:** English, engrossed in a Chancery hand, with the Latin forms of pleading in the margin; one hand throughout
-**Date:** Sealed at Candlemas 1389, and engrossed before the seal, which is set upside down
-**Custody:** Kept with the Chapter chests in the Upper Crypt; not to be produced out of doors between April and September, when the schedule is read to the apiaries
-**Collation:** 4 leaves, one roll of later returns 1390–1402, and one loose leaf of forms in the clerk's hand
-**Condition:** Wax spots on the second and third leaves, honey-coloured, old; the seal is cracked across and has been re-attached with a linen thread, which is irregular
+- **Call number:** FN 4.1 / — 1389
+- **Class:** FN — The Foundation Collection
+- **Text:** English, engrossed in a Chancery hand, with the Latin forms of pleading in the margin; one hand throughout
+- **Date:** Sealed at Candlemas 1389, and engrossed before the seal, which is set upside down
+- **Custody:** Kept with the Chapter chests in the Upper Crypt; not to be produced out of doors between April and September, when the schedule is read to the apiaries
+- **Collation:** 4 leaves, one roll of later returns 1390–1402, and one loose leaf of forms in the clerk's hand
+- **Condition:** Wax spots on the second and third leaves, honey-coloured, old; the seal is cracked across and has been re-attached with a linen thread, which is irregular
 
 ## The Library's Note
 

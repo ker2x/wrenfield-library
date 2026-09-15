@@ -2,16 +2,16 @@
 
 ### Being the Conservator's Annual Report upon the Sixteen Holdings and the Standard, Taken in the Dry Season of the 357th Year, with the Treatment Proposed, the Treatment Declined, and the Grounds of the Declining
 
-**Call number:** DE 31.1 / N67 1504
-**Author:** Judith Cray, Conservator
-**Faculty:** Domestic Enchantment; the Conservator has none, and declined one
-**Degree sought:** none; the Conservator is appointed, not examined
-**Advisor:** Mr Fenwick Oll, Under-Librarian · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1504
-**Edition:** Second, enlarged; the first impression of fifty copies, withdrawn, ran to a single table
-**Accession:** Wrenfield Accessions 1504.08
-**Collation:** 40 pages, 4 plates; plate ii, the shelf to scale
-**Condition:** Sound. The Conservator's own copy, foxed at the outer leaves
+- **Call number:** DE 31.1 / N67 1504
+- **Author:** Judith Cray, Conservator
+- **Faculty:** Domestic Enchantment; the Conservator has none, and declined one
+- **Degree sought:** none; the Conservator is appointed, not examined
+- **Advisor:** Mr Fenwick Oll, Under-Librarian · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1504
+- **Edition:** Second, enlarged; the first impression of fifty copies, withdrawn, ran to a single table
+- **Accession:** Wrenfield Accessions 1504.08
+- **Collation:** 40 pages, 4 plates; plate ii, the shelf to scale
+- **Condition:** Sound. The Conservator's own copy, foxed at the outer leaves
 
 ## Abstract (as filed)
 

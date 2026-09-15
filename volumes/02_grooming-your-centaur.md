@@ -1,16 +1,16 @@
 # How to Groom Your Centaur
 ### Third edition, revised, with the cooperation of the subject
 
-**Call number:** BH 12.4 / V67 1501
-**Author:** Ariadne Voss, B.A.B. (Third Class), with a foreword by Bartholomew of the Nine Meadows
-**Faculty:** Beast Husbandry & Veterinary Thaumaturgy
-**Degree sought:** B.A.B., 1501 (prize essay, expanded at the request of the Faculty)
-**Advisor:** Dr. Hesper Grint · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1501
-**Edition:** Third edition, revised throughout; twenty-two plates, four of them reproduced from the first edition of 1447. The definition of the craft, which the withdrawn impression of 1504 placed last, now stands first, where the author maintains it has always been
-**Accession:** Wrenfield Accessions 1501.44
-**Collation:** 118 pages, 22 plates
-**Condition:** Sound. Plates 14–17 bear hoof-prints. Annotations in two hands, one not the author's.
+- **Call number:** BH 12.4 / V67 1501
+- **Author:** Ariadne Voss, B.A.B. (Third Class), with a foreword by Bartholomew of the Nine Meadows
+- **Faculty:** Beast Husbandry & Veterinary Thaumaturgy
+- **Degree sought:** B.A.B., 1501 (prize essay, expanded at the request of the Faculty)
+- **Advisor:** Dr. Hesper Grint · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1501
+- **Edition:** Third edition, revised throughout; twenty-two plates, four of them reproduced from the first edition of 1447. The definition of the craft, which the withdrawn impression of 1504 placed last, now stands first, where the author maintains it has always been
+- **Accession:** Wrenfield Accessions 1501.44
+- **Collation:** 118 pages, 22 plates
+- **Condition:** Sound. Plates 14–17 bear hoof-prints. Annotations in two hands, one not the author's.
 
 ## Abstract (as filed)
 

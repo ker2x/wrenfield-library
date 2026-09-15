@@ -2,16 +2,16 @@
 
 ### In Which the Author Corrects Her Own Correction of the Latency Table of the *Advanced Guide to Jinxes*, at Greater Length than the Document Corrected, and Adds the Register of Her Forty Corrections, Which the First Issue Omitted
 
-**Call number:** EA 4.6 / M33 1502
-**Author:** Ottoline Marchetti-Bell, D.Th.
-**Faculty:** Ethics, Appeals & Paperwork
-**Degree sought:** D.Th., 1502. Conferred 1479; sought again, the record having been mislaid in the reordering, which is the subject of correction no. 38
-**Advisor:** Alaric Greaves, M.P.T. · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1502
-**Edition:** Enlarged reissue of 1504. The first issue was withdrawn; the Library having required the register of the forty corrections, it is printed here in full for the first time
-**Accession:** Wrenfield Accessions 1502.23
-**Collation:** 34 leaves, no plates; one plate was prepared and withdrawn as inaccurate
-**Condition:** half the pages carry further corrections in the author's own hand, the later pages more thickly than the earlier
+- **Call number:** EA 4.6 / M33 1502
+- **Author:** Ottoline Marchetti-Bell, D.Th.
+- **Faculty:** Ethics, Appeals & Paperwork
+- **Degree sought:** D.Th., 1502. Conferred 1479; sought again, the record having been mislaid in the reordering, which is the subject of correction no. 38
+- **Advisor:** Alaric Greaves, M.P.T. · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1502
+- **Edition:** Enlarged reissue of 1504. The first issue was withdrawn; the Library having required the register of the forty corrections, it is printed here in full for the first time
+- **Accession:** Wrenfield Accessions 1502.23
+- **Collation:** 34 leaves, no plates; one plate was prepared and withdrawn as inaccurate
+- **Condition:** half the pages carry further corrections in the author's own hand, the later pages more thickly than the earlier
 
 ## Abstract (as filed)
 

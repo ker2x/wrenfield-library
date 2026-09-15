@@ -2,16 +2,16 @@
 
 ### Containing the insult protocol, tables of germination under three dispositions of address, a full account of Row F, and a defence of consent by growth
 
-**Call number:** HS 8.2 / W75 1500
-**Author:** Rosalind Wren, D.Th.
-**Faculty:** Herbology & Sentient Botany (HS)
-**Degree sought:** Doctor of Thaumaturgy, 1500
-**Advisor:** Dr. Marigold Thistlewick, M.M.M. · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1500
-**Edition:** Enlarged reissue of the 1500 first issue, with the day-book matter, the application and the north-house account
-**Accession:** Wrenfield Accessions 1500.77
-**Collation:** 241 pages, 9 plates
-**Condition:** Foxed and damp-stained; four fronds of *Vicia* pressed at pp. 88–89, removed to Reserve against written objection; shelved facing away from the window at the author's request, the author holding that the cultivar reads spines
+- **Call number:** HS 8.2 / W75 1500
+- **Author:** Rosalind Wren, D.Th.
+- **Faculty:** Herbology & Sentient Botany (HS)
+- **Degree sought:** Doctor of Thaumaturgy, 1500
+- **Advisor:** Dr. Marigold Thistlewick, M.M.M. · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1500
+- **Edition:** Enlarged reissue of the 1500 first issue, with the day-book matter, the application and the north-house account
+- **Accession:** Wrenfield Accessions 1500.77
+- **Collation:** 241 pages, 9 plates
+- **Condition:** Foxed and damp-stained; four fronds of *Vicia* pressed at pp. 88–89, removed to Reserve against written objection; shelved facing away from the window at the author's request, the author holding that the cultivar reads spines
 
 ## Abstract (as filed)
 

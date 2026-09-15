@@ -1,16 +1,16 @@
 # The Art of Mirror Walking
 ### Being a Treatise on the Threshold Gait, with an Annex on the Incident of 1461
 
-**Call number:** LT 3.7 / F47 1498
-**Author:** Septimus Ferrer, M.L.S.
-**Faculty:** Locomotion, Doors & Threshold Studies
-**Degree sought:** M.L.S., 1498
-**Advisor:** Dr. Ysolde Bramm · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1498
-**Edition:** Second edition, enlarged: a section on the room filed in 1487, the Register at full length, the annex extended. The first impression opened upon the theory of silvered glass, from which no reader could learn the craft; this edition states the practice first, with a glossary, the theory following
-**Accession:** Wrenfield Accessions 1498.07
-**Collation:** 96 pages, 9 plates
-**Condition:** Plate 6 has been excised with a razor. The excision is not recorded in the errata.
+- **Call number:** LT 3.7 / F47 1498
+- **Author:** Septimus Ferrer, M.L.S.
+- **Faculty:** Locomotion, Doors & Threshold Studies
+- **Degree sought:** M.L.S., 1498
+- **Advisor:** Dr. Ysolde Bramm · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1498
+- **Edition:** Second edition, enlarged: a section on the room filed in 1487, the Register at full length, the annex extended. The first impression opened upon the theory of silvered glass, from which no reader could learn the craft; this edition states the practice first, with a glossary, the theory following
+- **Accession:** Wrenfield Accessions 1498.07
+- **Collation:** 96 pages, 9 plates
+- **Condition:** Plate 6 has been excised with a razor. The excision is not recorded in the errata.
 
 ## Abstract (as filed)
 

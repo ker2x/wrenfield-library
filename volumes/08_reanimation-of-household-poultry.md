@@ -2,16 +2,16 @@
 
 ### With the Schedule of Licences, the Species Table, the Premises and Welfare Schedule, a Full Account of the First Licensed Case, and Some Remarks on the Smell
 
-**Call number:** AN 2.3 / C76 1499
-**Author:** Cassandra Crowe, D.Th.
-**Faculty:** Applied Necromancy (Provisional)
-**Degree sought:** D.Th., 1499
-**Advisor:** Dr. Emeric Tallow · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1499
-**Edition:** Enlarged reissue of 1504, the first impression having been withdrawn by the Library; corrected, with the case at §5, the schedule at §9 and the objection at §10 added
-**Accession:** Wrenfield Accessions 1499.11; reissued and re-accessioned 1504.6
-**Collation:** 104 leaves, 9 plates
-**Condition:** sound; the upper board retains a faint odour of hen-house localised to the binding, which the author identifies at §10 as consistent with provenance
+- **Call number:** AN 2.3 / C76 1499
+- **Author:** Cassandra Crowe, D.Th.
+- **Faculty:** Applied Necromancy (Provisional)
+- **Degree sought:** D.Th., 1499
+- **Advisor:** Dr. Emeric Tallow · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1499
+- **Edition:** Enlarged reissue of 1504, the first impression having been withdrawn by the Library; corrected, with the case at §5, the schedule at §9 and the objection at §10 added
+- **Accession:** Wrenfield Accessions 1499.11; reissued and re-accessioned 1504.6
+- **Collation:** 104 leaves, 9 plates
+- **Condition:** sound; the upper board retains a faint odour of hen-house localised to the binding, which the author identifies at §10 as consistent with provenance
 
 ## Abstract (as filed)
 

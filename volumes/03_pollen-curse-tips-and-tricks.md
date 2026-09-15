@@ -2,16 +2,16 @@
 
 ### A Practical Vade Mecum for Field Censors, Parish Herbalists and Others Who Must Stand Downwind
 
-**Call number:** AC 118.7 / T45 1487
-**Author:** Marigold Thistlewick, M.M.M.
-**Faculty:** Agricultural Curses & Pollen Pathology (AC)
-**Degree sought:** M.M.M., 1487
-**Advisor:** Dr. H. Pell-Marrow, Reader in Applied Pollen Pathology (AC) · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1487
-**Edition:** First edition, first impression; forty plates, of which six are folding
-**Accession:** Wrenfield Accessions 1487.31
-**Collation:** 208 pages, 40 plates
-**Condition:** Foxed throughout; binding repaired at plate XIX with thread of a grade not approved for library use; a pressed catkin at p. 96, which the Library has declined to remove.
+- **Call number:** AC 118.7 / T45 1487
+- **Author:** Marigold Thistlewick, M.M.M.
+- **Faculty:** Agricultural Curses & Pollen Pathology (AC)
+- **Degree sought:** M.M.M., 1487
+- **Advisor:** Dr. H. Pell-Marrow, Reader in Applied Pollen Pathology (AC) · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1487
+- **Edition:** First edition, first impression; forty plates, of which six are folding
+- **Accession:** Wrenfield Accessions 1487.31
+- **Collation:** 208 pages, 40 plates
+- **Condition:** Foxed throughout; binding repaired at plate XIX with thread of a grade not approved for library use; a pressed catkin at p. 96, which the Library has declined to remove.
 
 ## Abstract (as filed)
 

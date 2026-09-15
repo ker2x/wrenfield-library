@@ -2,13 +2,13 @@
 
 ### Nine plan sheets of the University's first building campaign, with the surveyors' marginal notes of 1401–1494 and the measurements taken at the north wall
 
-**Call number:** FN 2.1 / — 1223
-**Class:** FN — The Foundation Collection
-**Text:** Ink on nine sheets of prepared calf, in three draughtsmen's hands; dimensions in Latin, surveyors' notes in English from 1401
-**Date:** Approved by the Chapter in the summer of 1223; the Library doubts sheet 6, whose water does not run downhill
-**Custody:** Flat in the plan chest, Lower Gallery, shelf 2, in a solander case; not to be produced to readers drawn upon the sheets
-**Collation:** 9 plan sheets, 1 sheet of survey notes pasted to the case lid, 1 loose slip of measurements in the hand of W. Coote
-**Condition:** Sheet 4 is cockled and was pressed flat in 1490, which flattened also two notes; the lid paste fails at one corner, and the corner is the interesting one
+- **Call number:** FN 2.1 / — 1223
+- **Class:** FN — The Foundation Collection
+- **Text:** Ink on nine sheets of prepared calf, in three draughtsmen's hands; dimensions in Latin, surveyors' notes in English from 1401
+- **Date:** Approved by the Chapter in the summer of 1223; the Library doubts sheet 6, whose water does not run downhill
+- **Custody:** Flat in the plan chest, Lower Gallery, shelf 2, in a solander case; not to be produced to readers drawn upon the sheets
+- **Collation:** 9 plan sheets, 1 sheet of survey notes pasted to the case lid, 1 loose slip of measurements in the hand of W. Coote
+- **Condition:** Sheet 4 is cockled and was pressed flat in 1490, which flattened also two notes; the lid paste fails at one corner, and the corner is the interesting one
 
 ## The Library's Note
 

@@ -1,16 +1,16 @@
 # DO NOT READ
 ### A Field Guide to Timecrafting · Being the Chapters in the Order They Were Written, Which Is Not the Order They Occurred, Nor the Order in Which They Should Be Read, Nor the Order in Which They Are Bound
 
-**Call number:** CR 1.1 / — 1483
-**Author:** anonymous. The title page reads *by the author, who is not yet born*
-**Faculty:** Chronology, Forethought & Regret (CR), Provisional since 1371
-**Degree sought:** none; deposited rather than submitted
-**Advisor:** the charter of 1371 · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1483; the imprint page is dated 1504, and the Library declines to reconcile them
-**Edition:** Second edition, rebound out of order. The first edition is this edition, later
-**Accession:** Wrenfield Accessions 1483.11 — and again 1483.11
-**Collation:** 96 pages, 3 plates. The pagination is continuous and the order is not
-**Condition:** Read. The cover bears the instruction DO NOT READ, which this copy has not obeyed. Spine to the wall by order of the Committee
+- **Call number:** CR 1.1 / — 1483
+- **Author:** anonymous. The title page reads *by the author, who is not yet born*
+- **Faculty:** Chronology, Forethought & Regret (CR), Provisional since 1371
+- **Degree sought:** none; deposited rather than submitted
+- **Advisor:** the charter of 1371 · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1483; the imprint page is dated 1504, and the Library declines to reconcile them
+- **Edition:** Second edition, rebound out of order. The first edition is this edition, later
+- **Accession:** Wrenfield Accessions 1483.11 — and again 1483.11
+- **Collation:** 96 pages, 3 plates. The pagination is continuous and the order is not
+- **Condition:** Read. The cover bears the instruction DO NOT READ, which this copy has not obeyed. Spine to the wall by order of the Committee
 
 ## Abstract (as filed)
 

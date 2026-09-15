@@ -2,16 +2,16 @@
 
 ### Being a Licensed Account of the Nine Standard Readings, with Notes on Lawful Comfort, Professional Boundary, and the Misprint of 1466
 
-**Call number:** DP 12.8 / R63 1489
-**Author:** Elias Rook, D.Th.
-**Faculty:** Divination & Improbable Prediction
-**Degree sought:** D.Th., 1489
-**Advisor:** Dr. H. Cottersley · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1489
-**Edition:** Enlarged reissue of 1489; the sheet of 1487 was suppressed at the Faculty's instance, and this issue carries the complaint tables and the Bell Court case entire. Of two hundred copies, eighty-one bought by the Diocese.
-**Accession:** Wrenfield Accessions 1489.313
-**Collation:** 96 pp., 2 plates (folding)
-**Condition:** Foxed; the second plate repaired with tape; annotated throughout by a reader who was comforted, in a steady hand, and who is not identified.
+- **Call number:** DP 12.8 / R63 1489
+- **Author:** Elias Rook, D.Th.
+- **Faculty:** Divination & Improbable Prediction
+- **Degree sought:** D.Th., 1489
+- **Advisor:** Dr. H. Cottersley · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1489
+- **Edition:** Enlarged reissue of 1489; the sheet of 1487 was suppressed at the Faculty's instance, and this issue carries the complaint tables and the Bell Court case entire. Of two hundred copies, eighty-one bought by the Diocese.
+- **Accession:** Wrenfield Accessions 1489.313
+- **Collation:** 96 pp., 2 plates (folding)
+- **Condition:** Foxed; the second plate repaired with tape; annotated throughout by a reader who was comforted, in a steady hand, and who is not identified.
 
 ## Abstract (as filed)
 

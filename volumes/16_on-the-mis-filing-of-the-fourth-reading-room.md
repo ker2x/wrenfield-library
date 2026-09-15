@@ -1,16 +1,16 @@
 # On the Mis-Filing of the Fourth Reading Room
 ### A Thesis upon the Incident of the Sixth of March 1487, Its Discovery by the Return of Lamps, and the Question Whether Anything Was Done Wrong (Nothing Was)
 
-**Call number:** EA 2.4 / P54 1504
-**Author:** Corvin Pike, M.P.T.
-**Faculty:** Ethics, Appeals & Paperwork
-**Degree sought:** M.P.T., 1504
-**Advisor:** Dr Honoria Beck, Reader in Procedural History · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1504
-**Edition:** First impression. The forms due at the rear were removed by the binder
-**Accession:** Wrenfield Accessions 1504.19
-**Collation:** 74 pages, 2 plans, one showing the room
-**Condition:** Good. The second plan has been folded out so often that it no longer folds. The Registry's clock is not depicted, and the author has drawn it in ink
+- **Call number:** EA 2.4 / P54 1504
+- **Author:** Corvin Pike, M.P.T.
+- **Faculty:** Ethics, Appeals & Paperwork
+- **Degree sought:** M.P.T., 1504
+- **Advisor:** Dr Honoria Beck, Reader in Procedural History · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1504
+- **Edition:** First impression. The forms due at the rear were removed by the binder
+- **Accession:** Wrenfield Accessions 1504.19
+- **Collation:** 74 pages, 2 plans, one showing the room
+- **Condition:** Good. The second plan has been folded out so often that it no longer folds. The Registry's clock is not depicted, and the author has drawn it in ink
 
 ## Abstract (as filed)
 

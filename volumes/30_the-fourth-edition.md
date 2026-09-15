@@ -2,16 +2,16 @@
 
 ### A Work upon *Principles of Minor Maleficence*, Fourth Edition (1441): What It Is, What It Corrects, the Rule of 1442 Which It Makes Unnecessary, and the Fifty-Nine Copies Which Were Not Kept
 
-**Call number:** JM 1.6 / A84 1503
-**Author:** Corvin Hasp, D.Th.
-**Faculty:** Jinxcraft & Minor Maleficence
-**Degree sought:** D.Th., 1503
-**Advisor:** Dr. Corbin Vale · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1503
-**Edition:** Enlarged reissue, 1504, set from the corrected sheets of the first impression of sixty copies, of which eleven were distributed and four accounted for; the reissue adds the collation table at §9 and the press account at §10, and the author has again released no copy for review
-**Accession:** Wrenfield Accessions 1503.41
-**Collation:** 74 pp. text, 112 pp. notes; the pagination is continuous and not consecutive
-**Condition:** Sound. The text, printed above the rule, is foxed; the notes, printed below it, are not. Annotated in three hands, the third the author's
+- **Call number:** JM 1.6 / A84 1503
+- **Author:** Corvin Hasp, D.Th.
+- **Faculty:** Jinxcraft & Minor Maleficence
+- **Degree sought:** D.Th., 1503
+- **Advisor:** Dr. Corbin Vale · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1503
+- **Edition:** Enlarged reissue, 1504, set from the corrected sheets of the first impression of sixty copies, of which eleven were distributed and four accounted for; the reissue adds the collation table at §9 and the press account at §10, and the author has again released no copy for review
+- **Accession:** Wrenfield Accessions 1503.41
+- **Collation:** 74 pp. text, 112 pp. notes; the pagination is continuous and not consecutive
+- **Condition:** Sound. The text, printed above the rule, is foxed; the notes, printed below it, are not. Annotated in three hands, the third the author's
 
 ## Abstract (as filed)
 

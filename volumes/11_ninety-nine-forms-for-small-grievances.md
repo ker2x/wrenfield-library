@@ -2,16 +2,16 @@
 
 ### A Procedural Handbook, With the Fees, the Counters, and the Correct Order of Filing
 
-**Call number:** EA 1.1 / G74 1493
-**Author:** Alaric Greaves, M.P.T.
-**Faculty:** Ethics, Appeals & Paperwork (EA)
-**Degree sought:** M.P.T. (by conversion of practice), 1493
-**Advisor:** Dr. Ottoline Marchetti-Bell · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1493
-**Edition:** Enlarged reissue from the sheets of 1493, with the tables restored; the first impression (1491) was withdrawn on account of the ink
-**Accession:** Wrenfield Accessions 1493.11
-**Collation:** 214 pages, 3 plates
-**Condition:** Heavily used, and the forms are all gone: the rear gatherings, which held the blanks, have been removed form by form, in order, by careful hands. Repaired at the spine; annotated in the author's hand, which is unusual, as the author was alive.
+- **Call number:** EA 1.1 / G74 1493
+- **Author:** Alaric Greaves, M.P.T.
+- **Faculty:** Ethics, Appeals & Paperwork (EA)
+- **Degree sought:** M.P.T. (by conversion of practice), 1493
+- **Advisor:** Dr. Ottoline Marchetti-Bell · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1493
+- **Edition:** Enlarged reissue from the sheets of 1493, with the tables restored; the first impression (1491) was withdrawn on account of the ink
+- **Accession:** Wrenfield Accessions 1493.11
+- **Collation:** 214 pages, 3 plates
+- **Condition:** Heavily used, and the forms are all gone: the rear gatherings, which held the blanks, have been removed form by form, in order, by careful hands. Repaired at the spine; annotated in the author's hand, which is unusual, as the author was alive.
 
 ## Abstract (as filed)
 

@@ -1,13 +1,13 @@
 # The North Greenhouse Day-Book
 ### Kept by the staff of the north houses through the insult trials upon *Tenterfield Quiet*
 
-**Call number:** MS 6.1 / H35 1500
-**Hand:** several; the keeper writes the weather and the water, the second gardener the temperatures, a student's hand the counts
-**Class:** MS — Manuscripts & Personal Papers
-**Dates of entries:** 3 March – 29 September 1500; no gap, though the whole of August is one line a day
-**Provenance:** Sent with the greenhouse accounts in 1501; the covering note lists four houses and this day-book is of the two north ones
-**Collation:** 64 leaves, 61 written; watermark a tulip and a crown
-**Condition:** damp at the spine, which has cockled the middle gathering; the struck line at the twentieth of June is legible
+- **Call number:** MS 6.1 / H35 1500
+- **Hand:** several; the keeper writes the weather and the water, the second gardener the temperatures, a student's hand the counts
+- **Class:** MS — Manuscripts & Personal Papers
+- **Dates of entries:** 3 March – 29 September 1500; no gap, though the whole of August is one line a day
+- **Provenance:** Sent with the greenhouse accounts in 1501; the covering note lists four houses and this day-book is of the two north ones
+- **Collation:** 64 leaves, 61 written; watermark a tulip and a crown
+- **Condition:** damp at the spine, which has cockled the middle gathering; the struck line at the twentieth of June is legible
 
 ## The Library's Note
 

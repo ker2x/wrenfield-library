@@ -2,16 +2,16 @@
 
 ### Being the Hours, Wages and Moulting Returns of the Fowl of the Tenterfield Road, with the Grievance of the Comb
 
-**Call number:** AN 3.1 / C76 1503
-**Author:** Cassandra Crowe, D.Th.
-**Faculty:** Applied Necromancy (Provisional)
-**Degree sought:** None. The D.Th. was conferred in 1499; the present work is filed as a submission to the Faculty, which has neither accepted it nor returned it
-**Advisor:** Dr. Emeric Tallow · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1503
-**Edition:** Second edition, enlarged; being the reissue of the volume withdrawn from the Faculty's register on the 4th of May 1503 and re-entered on the 11th, no copy having been recalled. The first impression, which the Library records as the short issue, ran to seventy-one leaves and stopped at §6
-**Accession:** Wrenfield Accessions 1503.7
-**Collation:** 129 leaves, 6 plates
-**Condition:** foxed at the gutter; grain-dust throughout the lower margins, heaviest at §7, which the Conservator declines to brush out
+- **Call number:** AN 3.1 / C76 1503
+- **Author:** Cassandra Crowe, D.Th.
+- **Faculty:** Applied Necromancy (Provisional)
+- **Degree sought:** None. The D.Th. was conferred in 1499; the present work is filed as a submission to the Faculty, which has neither accepted it nor returned it
+- **Advisor:** Dr. Emeric Tallow · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1503
+- **Edition:** Second edition, enlarged; being the reissue of the volume withdrawn from the Faculty's register on the 4th of May 1503 and re-entered on the 11th, no copy having been recalled. The first impression, which the Library records as the short issue, ran to seventy-one leaves and stopped at §6
+- **Accession:** Wrenfield Accessions 1503.7
+- **Collation:** 129 leaves, 6 plates
+- **Condition:** foxed at the gutter; grain-dust throughout the lower margins, heaviest at §7, which the Conservator declines to brush out
 
 ## Abstract (as filed)
 

@@ -2,16 +2,16 @@
 
 ### Being the rebuttal of Edmund Tarry, of Bramblegate, to a waiver he did not seek, filed by his estate; reissued at the enlarged length with the certificate and the register
 
-**Call number:** EA 5.2 / T37 1503
-**Author:** Edmund Tarry, of Bramblegate (d. 1497); in draft at his death, filed by his estate
-**Faculty:** Ethics, Appeals & Paperwork
-**Degree sought:** None — withheld by the author pending the schedule, which never came
-**Advisor:** none, the author being dead before the work was begun · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1503
-**Edition:** Enlarged reissue of the withdrawn first issue of 1503: with the loan register, the correspondence, the certificate in full, the sums re-entered.
-**Accession:** Wrenfield Accessions 1503.07 (reissued at 1503.07, the earlier sheets kept)
-**Collation:** 31 pages, no plates (1 ruled blank, retained); the certificate pasted at the rear as a fold-out
-**Condition:** Water-damaged at the foot of the first quire; the certificate is pasted in and has been annotated by the deceased
+- **Call number:** EA 5.2 / T37 1503
+- **Author:** Edmund Tarry, of Bramblegate (d. 1497); in draft at his death, filed by his estate
+- **Faculty:** Ethics, Appeals & Paperwork
+- **Degree sought:** None — withheld by the author pending the schedule, which never came
+- **Advisor:** none, the author being dead before the work was begun · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1503
+- **Edition:** Enlarged reissue of the withdrawn first issue of 1503: with the loan register, the correspondence, the certificate in full, the sums re-entered.
+- **Accession:** Wrenfield Accessions 1503.07 (reissued at 1503.07, the earlier sheets kept)
+- **Collation:** 31 pages, no plates (1 ruled blank, retained); the certificate pasted at the rear as a fold-out
+- **Condition:** Water-damaged at the foot of the first quire; the certificate is pasted in and has been annotated by the deceased
 
 ## Abstract (as filed)
 

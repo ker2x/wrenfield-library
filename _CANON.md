@@ -197,17 +197,22 @@ Standing gags available to every volume:
 
 ## 5. Front-matter block (verbatim fields, in this order)
 
+**The block is a bullet list — one item per field.** The fields are verbatim, but they must be written
+as list items (leading `- `), because consecutive lines of plain text are run together into a single
+paragraph by every Markdown reader, which makes the title page unreadable. One field, one item, in the
+order below, and no nested bullets.
+
 ```
-**Call number:** <code> <shelf>.<pos> / <Initials> <Year>
-**Author:** <name, with degree as invented at time of writing>
-**Faculty:** <faculty>
-**Degree sought:** <degree>, <year>
-**Advisor:** <name> · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, <year>
-**Edition:** <edition/impression note>
-**Accession:** Wrenfield Accessions <year>.<number>
-**Collation:** <pages>, <plates> plates
-**Condition:** <foxed / repaired / annotated / water-damaged, with one wry detail>
+- **Call number:** <code> <shelf>.<pos> / <Initials> <Year>
+- **Author:** <name, with degree as invented at time of writing>
+- **Faculty:** <faculty>
+- **Degree sought:** <degree>, <year>
+- **Advisor:** <name> · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, <year>
+- **Edition:** <edition/impression note>
+- **Accession:** Wrenfield Accessions <year>.<number>
+- **Collation:** <pages>, <plates> plates
+- **Condition:** <foxed / repaired / annotated / water-damaged, with one wry detail>
 ```
 
 ## 6. Apparatus (required; at least three items)
@@ -288,13 +293,13 @@ anachronism, no winking, comedy from specificity.
 ```
 # <the Library's title for the manuscript>
 ### <descriptor — e.g. "The diary of X, kept from March to June 1487">
-**Call number:** MS <shelf>.<pos> / <Initials or —> <Year>
-**Hand:** <whose; whether it changes, and when>
-**Class:** MS — Manuscripts & Personal Papers
-**Dates of entries:** <range, with any gap named>
-**Provenance:** <how it reached the Library, with one flaw in the story>
-**Collation:** <leaves; watermark>
-**Condition:** <one wry detail>
+- **Call number:** MS <shelf>.<pos> / <Initials or —> <Year>
+- **Hand:** <whose; whether it changes, and when>
+- **Class:** MS — Manuscripts & Personal Papers
+- **Dates of entries:** <range, with any gap named>
+- **Provenance:** <how it reached the Library, with one flaw in the story>
+- **Collation:** <leaves; watermark>
+- **Condition:** <one wry detail>
 ```
 Then, in order:
 - `## The Library's Note` — 2–4 sentences: the hand, the gap, and what the Library declines to do with it.
@@ -310,13 +315,13 @@ Then, in order:
 ```
 # <the Library's title for the text>
 ### <descriptor — e.g. "Statutes of the Chapter, in force 1274–1504">
-**Call number:** FN <shelf>.<pos> / <Initials or —> <Year>
-**Class:** FN — The Foundation Collection
-**Text:** <language, hand, scribe>
-**Date:** <date, and the Library's doubt about it>
-**Custody:** <where it is kept, and who may not see it>
-**Collation:** <leaves, rolls, plan sheets>
-**Condition:** <one wry detail>
+- **Call number:** FN <shelf>.<pos> / <Initials or —> <Year>
+- **Class:** FN — The Foundation Collection
+- **Text:** <language, hand, scribe>
+- **Date:** <date, and the Library's doubt about it>
+- **Custody:** <where it is kept, and who may not see it>
+- **Collation:** <leaves, rolls, plan sheets>
+- **Condition:** <one wry detail>
 ```
 Then, in order:
 - `## The Library's Note` — provenance and authenticity; name one thing the Library cannot verify and

@@ -1,13 +1,13 @@
 # The Diary of Bartholomew of the Nine Meadows
 ### His reading of the third edition of *How to Groom Your Centaur*, marked out of ten
 
-**Call number:** MS 5.1 / B37 1501
-**Hand:** Bartholomew of the Nine Meadows's own; a fair copy from rough notes, which he says are burnt
-**Class:** MS — Manuscripts & Personal Papers
-**Dates of entries:** 11 February – 12 June 1501, being the weeks of the reading; no gap, though the middle three weeks of April are one line a day
-**Provenance:** Brought to the counter by the diarist himself with a letter saying only that the book had been sent to him twice and read twice; the letter is lost
-**Collation:** 22 leaves, written on the recto only; watermark a horse-bell
-**Condition:** a hoof-print in the dust of the last leaf, which the Conservator measures and declines to discuss
+- **Call number:** MS 5.1 / B37 1501
+- **Hand:** Bartholomew of the Nine Meadows's own; a fair copy from rough notes, which he says are burnt
+- **Class:** MS — Manuscripts & Personal Papers
+- **Dates of entries:** 11 February – 12 June 1501, being the weeks of the reading; no gap, though the middle three weeks of April are one line a day
+- **Provenance:** Brought to the counter by the diarist himself with a letter saying only that the book had been sent to him twice and read twice; the letter is lost
+- **Collation:** 22 leaves, written on the recto only; watermark a horse-bell
+- **Condition:** a hoof-print in the dust of the last leaf, which the Conservator measures and declines to discuss
 
 ## The Library's Note
 

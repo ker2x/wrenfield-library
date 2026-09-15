@@ -2,16 +2,16 @@
 
 ### Being an Essay Submitted in the Second Year, upon the Question Whether That Which Does Nothing Can Be Said to Be, Together with an Account of One Experiment, Three Weeks of Measurement, and a Table of Books I Have Now Been Told About
 
-**Call number:** HC 9.9 / P45 1504
-**Author:** Toby Pell-Marrow, B.A.B. (second year, in progress)
-**Faculty:** Harmless & Decorative Curses
-**Degree sought:** B.A.B., 1506 (expected)
-**Advisor:** Dr Wilhelmina Tarn, Reader in Decorative Maleficence · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1504
-**Edition:** Enlarged reissue of the withdrawn impression, with the experiment, the tables and the tutor's hand entire; fourteen leaves, folded twice and carried in the author's coat
-**Accession:** Wrenfield Accessions 1504.21
-**Collation:** 41 leaves, no plates
-**Condition:** Creased throughout by the coat pocket; annotated throughout in a tutor's red hand, which the binder has declined to trim
+- **Call number:** HC 9.9 / P45 1504
+- **Author:** Toby Pell-Marrow, B.A.B. (second year, in progress)
+- **Faculty:** Harmless & Decorative Curses
+- **Degree sought:** B.A.B., 1506 (expected)
+- **Advisor:** Dr Wilhelmina Tarn, Reader in Decorative Maleficence · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1504
+- **Edition:** Enlarged reissue of the withdrawn impression, with the experiment, the tables and the tutor's hand entire; fourteen leaves, folded twice and carried in the author's coat
+- **Accession:** Wrenfield Accessions 1504.21
+- **Collation:** 41 leaves, no plates
+- **Condition:** Creased throughout by the coat pocket; annotated throughout in a tutor's red hand, which the binder has declined to trim
 
 ## Abstract (as filed)
 

@@ -2,16 +2,16 @@
 
 ### Being a practical treatise upon the rune as a member in compression, with tables of rating, an account of the Arch of the Nine Cloisters and the inquiry of 1397, the four objections of the Bell Court Indemnity Office answered, and a procedure for inspection
 
-**Call number:** TE 19.5 / K47 1398
-**Author:** Halvard Kemp, M.M.M.
-**Faculty:** Thaumaturgical Engineering & Load-Bearing Runes (TE)
-**Degree sought:** Master of Minor Miracles, 1398
-**Advisor:** Guildmaster Ilse Rennard, of the Masons' Guild of Alderwick · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1398
-**Edition:** Enlarged reissue, with the inquiry of 1397, the objections and the stair added
-**Accession:** Wrenfield Accessions 1398.214
-**Collation:** 211 pages, 9 plates
-**Condition:** Foxed; rebound 1441 in half calf after the shelf above it failed; lower boards water-damaged by the north-light leak of 1491; plate iv has a thumbprint in mortar
+- **Call number:** TE 19.5 / K47 1398
+- **Author:** Halvard Kemp, M.M.M.
+- **Faculty:** Thaumaturgical Engineering & Load-Bearing Runes (TE)
+- **Degree sought:** Master of Minor Miracles, 1398
+- **Advisor:** Guildmaster Ilse Rennard, of the Masons' Guild of Alderwick · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1398
+- **Edition:** Enlarged reissue, with the inquiry of 1397, the objections and the stair added
+- **Accession:** Wrenfield Accessions 1398.214
+- **Collation:** 211 pages, 9 plates
+- **Condition:** Foxed; rebound 1441 in half calf after the shelf above it failed; lower boards water-damaged by the north-light leak of 1491; plate iv has a thumbprint in mortar
 
 ## Abstract (as filed)
 

@@ -2,16 +2,16 @@
 
 ### Being an Etiquette of Severance, With the Ritual, the Collar, the Making of Amends, and the Case of the Cat That Came Back
 
-**Call number:** DE 5.5 / P48 1497
-**Author:** Prudence Pell, M.M.M.
-**Faculty:** Domestic Enchantment (DE)
-**Degree sought:** M.M.M., 1497
-**Advisor:** Dr. Wilhelmina Coote · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1497
-**Edition:** Second edition, enlarged; the reissue of the withdrawn first issue, with the notice schedule at §7 and the four-day case at §6 added, and the collar table at §3 corrected
-**Accession:** Wrenfield Accessions 1497.42
-**Collation:** 178 pages, 4 plates
-**Condition:** Water-damaged at the lower corner, with the marks of a small, patient animal on the flyleaf. Charged to B. of the Nine Meadows, and overdue.
+- **Call number:** DE 5.5 / P48 1497
+- **Author:** Prudence Pell, M.M.M.
+- **Faculty:** Domestic Enchantment (DE)
+- **Degree sought:** M.M.M., 1497
+- **Advisor:** Dr. Wilhelmina Coote · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1497
+- **Edition:** Second edition, enlarged; the reissue of the withdrawn first issue, with the notice schedule at §7 and the four-day case at §6 added, and the collar table at §3 corrected
+- **Accession:** Wrenfield Accessions 1497.42
+- **Collation:** 178 pages, 4 plates
+- **Condition:** Water-damaged at the lower corner, with the marks of a small, patient animal on the flyleaf. Charged to B. of the Nine Meadows, and overdue.
 
 ## Abstract (as filed)
 

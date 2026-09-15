@@ -2,16 +2,16 @@
 
 ### The Report of the Visiting Committee Appointed to Examine the Shelves of the Bramblegate Lending Library, with the Casualties, the Reply of Miss Coote, and the Item Not Reached
 
-**Call number:** EA 7.1 / L96 1498
-**Author:** Pembroke Lint, M.P.T., for the Committee
-**Faculty:** Ethics, Appeals & Paperwork
-**Degree sought:** D.Th., 1498. The Faculty examined the report, approved it, and declined the degree, the report being a report
-**Advisor:** Alaric Greaves, M.P.T. · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1498
-**Edition:** Enlarged reissue, 1504. First impression 1498, 48 leaves; a second impression for Bramblegate was printed, pricked for stitching, and not sent. The visitors' book, fee account and tables of §§5, 11, 12 are new
-**Accession:** Wrenfield Accessions 1498.6
-**Collation:** 96 leaves, 1 folded plate (a plan of the Bramblegate shelves)
-**Condition:** repaired at the inner margin; the plate is torn along the fold, where the Committee's own shelf-mate was drawn and removed
+- **Call number:** EA 7.1 / L96 1498
+- **Author:** Pembroke Lint, M.P.T., for the Committee
+- **Faculty:** Ethics, Appeals & Paperwork
+- **Degree sought:** D.Th., 1498. The Faculty examined the report, approved it, and declined the degree, the report being a report
+- **Advisor:** Alaric Greaves, M.P.T. · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1498
+- **Edition:** Enlarged reissue, 1504. First impression 1498, 48 leaves; a second impression for Bramblegate was printed, pricked for stitching, and not sent. The visitors' book, fee account and tables of §§5, 11, 12 are new
+- **Accession:** Wrenfield Accessions 1498.6
+- **Collation:** 96 leaves, 1 folded plate (a plan of the Bramblegate shelves)
+- **Condition:** repaired at the inner margin; the plate is torn along the fold, where the Committee's own shelf-mate was drawn and removed
 
 ## Abstract (as filed)
 

@@ -2,16 +2,16 @@
 
 ### Wherein Tobias Rell, Binder, of the Aldermarket Bindery, Sets Out What He Was Told, What He Did, and Why the Two Accounts Are One Account
 
-**Call number:** TE 21.1 / R45 1488
-**Author:** Tobias Rell, binder, of the Aldermarket bindery, at the sign of the three needles
-**Faculty:** not a Faculty matter; with TE, unread
-**Degree sought:** none; the author holds no degree, and says so twice
-**Advisor:** none · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1488; the bindery's own charge, eleven pages
-**Edition:** First impression, 1488; enlarged reissue, 1504, with the author's further word of 1494; the withdrawn first issue is not this one
-**Accession:** Wrenfield Accessions 1488.07
-**Collation:** 34 pages, no plates; the quires correct and the pagination not
-**Condition:** Bound by its author, who has bound nothing for this Library since; paper boards, §9 turned down in a hurry
+- **Call number:** TE 21.1 / R45 1488
+- **Author:** Tobias Rell, binder, of the Aldermarket bindery, at the sign of the three needles
+- **Faculty:** not a Faculty matter; with TE, unread
+- **Degree sought:** none; the author holds no degree, and says so twice
+- **Advisor:** none · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1488; the bindery's own charge, eleven pages
+- **Edition:** First impression, 1488; enlarged reissue, 1504, with the author's further word of 1494; the withdrawn first issue is not this one
+- **Accession:** Wrenfield Accessions 1488.07
+- **Collation:** 34 pages, no plates; the quires correct and the pagination not
+- **Condition:** Bound by its author, who has bound nothing for this Library since; paper boards, §9 turned down in a hurry
 
 ## Abstract (as filed)
 

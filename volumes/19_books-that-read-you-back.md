@@ -1,16 +1,16 @@
 # The Books That Read You Back: An Interim Report
 ### Filed by the Deputy Under-Librarian concerning the self-removing class of the Restricted Stack, with the incidents now given in full
 
-**Call number:** DE 30.1 / H65 1503
-**Author:** Casper Nunn, Deputy Under-Librarian
-**Faculty:** Domestic Enchantment (reported to, and not consulted)
-**Degree sought:** none; the report is filed, not submitted
-**Advisor:** not applicable · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1503
-**Edition:** Enlarged reissue, 1504, of the interim report first issued in 1503. The incident table and the classes of report are here given complete; §§4–7 are new; the withdrawn first issue ran to nineteen pages and is not to be cited
-**Accession:** Wrenfield Accessions 1503.19, re-entered 1504.47
-**Collation:** 74 pages, 2 plates
-**Condition:** Grease-marked at §3 by a thumb, repaired at the inner margin; the plate is a shelf elevation, and one shelf in it is drawn empty, which the Conservator disputes
+- **Call number:** DE 30.1 / H65 1503
+- **Author:** Casper Nunn, Deputy Under-Librarian
+- **Faculty:** Domestic Enchantment (reported to, and not consulted)
+- **Degree sought:** none; the report is filed, not submitted
+- **Advisor:** not applicable · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1503
+- **Edition:** Enlarged reissue, 1504, of the interim report first issued in 1503. The incident table and the classes of report are here given complete; §§4–7 are new; the withdrawn first issue ran to nineteen pages and is not to be cited
+- **Accession:** Wrenfield Accessions 1503.19, re-entered 1504.47
+- **Collation:** 74 pages, 2 plates
+- **Condition:** Grease-marked at §3 by a thumb, repaired at the inner margin; the plate is a shelf elevation, and one shelf in it is drawn empty, which the Conservator disputes
 
 ## Abstract (as filed)
 

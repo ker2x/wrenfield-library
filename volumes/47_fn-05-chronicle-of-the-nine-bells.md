@@ -2,13 +2,13 @@
 
 ### Annals of the founding of the University of Alderwick in the Year of the Weeping Compass, with the bequest of Margrave Wrenfield, and the first hundred years of the Library
 
-**Call number:** FN 5.1 / — 1147
-**Class:** FN — The Foundation Collection
-**Text:** English, annals hand; copied 1211 by a scribe signing *B. of the Compass*, from a roll said to be the founding roll
-**Date:** The events of 1147 and following; the copy of 1211; the Library doubts four entries of 1163, which are in a later ink and too well informed
-**Custody:** Upper Crypt, first press, in the chest of the Concord; not to be produced on a bell-day, nor to any person who has rung the fourth bell out of order
-**Collation:** 22 leaves, one gathering of eight in a different hand, 2 folding leaves at the end in the hand of 1211
-**Condition:** The first leaf is a replacement of 1211 and whiter than the rest; the bells are named in red, and the red is faded in the order of the ring, so that the ninth bell is the faintest
+- **Call number:** FN 5.1 / — 1147
+- **Class:** FN — The Foundation Collection
+- **Text:** English, annals hand; copied 1211 by a scribe signing *B. of the Compass*, from a roll said to be the founding roll
+- **Date:** The events of 1147 and following; the copy of 1211; the Library doubts four entries of 1163, which are in a later ink and too well informed
+- **Custody:** Upper Crypt, first press, in the chest of the Concord; not to be produced on a bell-day, nor to any person who has rung the fourth bell out of order
+- **Collation:** 22 leaves, one gathering of eight in a different hand, 2 folding leaves at the end in the hand of 1211
+- **Condition:** The first leaf is a replacement of 1211 and whiter than the rest; the bells are named in red, and the red is faded in the order of the ring, so that the ninth bell is the faintest
 
 ## The Library's Note
 

@@ -2,16 +2,16 @@
 
 ### Being the Fourth Edition, Corrected, of a Handbook for Those Who Have Already Begun
 
-**Call number:** JM 6.1 / V35 1494
-**Author:** Corbin Vale, D.P.M.
-**Faculty:** Jinxcraft & Minor Maleficence (JM)
-**Degree sought:** D.P.M., 1494
-**Advisor:** Dr. T. Hedgerow, Reader in Practical Maleficence (JM) · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1494
-**Edition:** Fourth edition, revised; first edition 1461, second 1474, third 1488 (withdrawn)
-**Accession:** Wrenfield Accessions 1494.12
-**Collation:** 296 pages, 12 plates
-**Condition:** Boards detached; water-damaged at the ethics appendix, which is entirely legible; the marginal pencil has been used throughout.
+- **Call number:** JM 6.1 / V35 1494
+- **Author:** Corbin Vale, D.P.M.
+- **Faculty:** Jinxcraft & Minor Maleficence (JM)
+- **Degree sought:** D.P.M., 1494
+- **Advisor:** Dr. T. Hedgerow, Reader in Practical Maleficence (JM) · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1494
+- **Edition:** Fourth edition, revised; first edition 1461, second 1474, third 1488 (withdrawn)
+- **Accession:** Wrenfield Accessions 1494.12
+- **Collation:** 296 pages, 12 plates
+- **Condition:** Boards detached; water-damaged at the ethics appendix, which is entirely legible; the marginal pencil has been used throughout.
 
 ## Abstract (as filed)
 

@@ -2,16 +2,16 @@
 
 ### Being an Enlarged Reissue, from the Side of Harmless & Decorative Curses, of the Account of the Dispute Whether a Jinx That Causes No Harm Is a Curse, with the Chronology Entire, the Four Findings in Full, the Licensing Procedure of 1502, and the Correspondence as Filed
 
-**Call number:** HC 2.1 / M67 1504
-**Author:** Wilhelmina Tarn, D.Th. (HC)
-**Faculty:** Harmless & Decorative Curses (HC)
-**Degree sought:** D.Th., 1504
-**Advisor:** Dr. H. Pell-Marrow, Reader in Decorative Maleficence · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1504
-**Edition:** Enlarged reissue; the first impression of this year being withdrawn, this carries the chronology and findings complete, the licensing procedure of 1502, and the letter of 1504 entire
-**Accession:** Wrenfield Accessions 1504.24
-**Collation:** 246 pages, 6 plates (the seals of the four findings, the hiatus seal, the licence form)
-**Condition:** Foxed; quires 7–9 now opened by force and imperfect at the foot, the binder having judged them part of the abstract; six pages bear a thumb-print in violet, which is not the ink of the stamp
+- **Call number:** HC 2.1 / M67 1504
+- **Author:** Wilhelmina Tarn, D.Th. (HC)
+- **Faculty:** Harmless & Decorative Curses (HC)
+- **Degree sought:** D.Th., 1504
+- **Advisor:** Dr. H. Pell-Marrow, Reader in Decorative Maleficence · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1504
+- **Edition:** Enlarged reissue; the first impression of this year being withdrawn, this carries the chronology and findings complete, the licensing procedure of 1502, and the letter of 1504 entire
+- **Accession:** Wrenfield Accessions 1504.24
+- **Collation:** 246 pages, 6 plates (the seals of the four findings, the hiatus seal, the licence form)
+- **Condition:** Foxed; quires 7–9 now opened by force and imperfect at the foot, the binder having judged them part of the abstract; six pages bear a thumb-print in violet, which is not the ink of the stamp
 
 ## Abstract (as filed)
 

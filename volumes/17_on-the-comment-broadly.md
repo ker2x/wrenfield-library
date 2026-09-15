@@ -1,16 +1,16 @@
 # On the Comment "Broadly."
 ### A philological study of forty years of second-reader annotation in the Faculty of Jinxcraft & Minor Maleficence, with a census of the seven variants, the two interrogative cases, and a finding
 
-**Call number:** JM 1.4 / F58 1504
-**Author:** Hester Fane, D.Th.
-**Faculty:** Jinxcraft & Minor Maleficence
-**Degree sought:** D.Th., 1502
-**Advisor:** Dr. Corbin Vale · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1504
-**Edition:** Enlarged reissue; the withdrawn first issue of 1504 ran to 1,180 words and is superseded throughout. Census enlarged from 40 comments to 214, two tables added, apparatus reset. 300 copies, 40 held for the author's correction.
-**Accession:** Wrenfield Accessions 1504.17
-**Collation:** 148 pages, 4 plates (2 folding, 1 excised, 1 in facsimile)
-**Condition:** Foxed at the gutter, repaired at the spine, annotated throughout in three hands, the third unknown to the Library
+- **Call number:** JM 1.4 / F58 1504
+- **Author:** Hester Fane, D.Th.
+- **Faculty:** Jinxcraft & Minor Maleficence
+- **Degree sought:** D.Th., 1502
+- **Advisor:** Dr. Corbin Vale · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1504
+- **Edition:** Enlarged reissue; the withdrawn first issue of 1504 ran to 1,180 words and is superseded throughout. Census enlarged from 40 comments to 214, two tables added, apparatus reset. 300 copies, 40 held for the author's correction.
+- **Accession:** Wrenfield Accessions 1504.17
+- **Collation:** 148 pages, 4 plates (2 folding, 1 excised, 1 in facsimile)
+- **Condition:** Foxed at the gutter, repaired at the spine, annotated throughout in three hands, the third unknown to the Library
 
 ## Abstract (as filed)
 

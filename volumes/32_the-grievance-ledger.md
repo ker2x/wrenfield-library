@@ -2,16 +2,16 @@
 
 ### Being a Consolidated Register of the Sixty-One Grievances of the Control Group of HC 1.1, with the Four Occasions on Which the Ledger Was Itself Grieved, a Table of Fees Charged in Bells, and the Sixty-First Grievance in Full
 
-**Call number:** EA 8.1 / G74 1504
-**Author:** Alaric Greaves, M.P.T. (author of EA 1.1 / G74 1493)
-**Faculty:** Ethics, Appeals & Paperwork (EA)
-**Degree sought:** M.P.T. (by conversion of practice), 1504
-**Advisor:** Dr Ottoline Marchetti-Bell · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1504
-**Edition:** Enlarged reissue of 1504, being the third impression, revised and extended by the author, with the sixty-first grievance entered at §6 and the fee schedule at §10; the ledger is kept open in a guard-book at the counter
-**Accession:** Wrenfield Accessions 1504.61
-**Collation:** 148 pages, 4 plates
-**Condition:** On shelf. Open. Nineteen years, and still open
+- **Call number:** EA 8.1 / G74 1504
+- **Author:** Alaric Greaves, M.P.T. (author of EA 1.1 / G74 1493)
+- **Faculty:** Ethics, Appeals & Paperwork (EA)
+- **Degree sought:** M.P.T. (by conversion of practice), 1504
+- **Advisor:** Dr Ottoline Marchetti-Bell · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1504
+- **Edition:** Enlarged reissue of 1504, being the third impression, revised and extended by the author, with the sixty-first grievance entered at §6 and the fee schedule at §10; the ledger is kept open in a guard-book at the counter
+- **Accession:** Wrenfield Accessions 1504.61
+- **Collation:** 148 pages, 4 plates
+- **Condition:** On shelf. Open. Nineteen years, and still open
 
 ## Abstract (as filed)
 

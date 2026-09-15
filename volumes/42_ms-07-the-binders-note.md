@@ -1,13 +1,13 @@
 # The Binder's Note
 ### The note of four lines left by Mr. Tobias Rell, binder, of the Aldermarket bindery, concerning *DO NOT READ*
 
-**Call number:** MS 7.1 / R45 1487
-**Hand:** Mr. Tobias Rell's own; the whole manuscript, apart from the Library's Note and the Apparatus, is four lines in his hand and is unsigned
-**Class:** MS — Manuscripts & Personal Papers
-**Dates of entries:** one entry, dated 9 April 1487
-**Provenance:** Found in the waste of the bindery in 1488 and handed to the Library in 1504 by the binder's widow with a printed apology; she does not say whose it is
-**Collation:** one leaf, folded once, written on the first page; watermark a bodkin
-**Condition:** the fold is worn through at the head; pressed flat at some time, which has left the shadow of a clasp across the third line
+- **Call number:** MS 7.1 / R45 1487
+- **Hand:** Mr. Tobias Rell's own; the whole manuscript, apart from the Library's Note and the Apparatus, is four lines in his hand and is unsigned
+- **Class:** MS — Manuscripts & Personal Papers
+- **Dates of entries:** one entry, dated 9 April 1487
+- **Provenance:** Found in the waste of the bindery in 1488 and handed to the Library in 1504 by the binder's widow with a printed apology; she does not say whose it is
+- **Collation:** one leaf, folded once, written on the first page; watermark a bodkin
+- **Condition:** the fold is worn through at the head; pressed flat at some time, which has left the shadow of a clasp across the third line
 
 ## The Library's Note
 

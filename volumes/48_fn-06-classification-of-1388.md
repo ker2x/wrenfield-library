@@ -2,13 +2,13 @@
 
 ### The scheme of the presses, the series letters, and the numbering by position, in the fair copy of Mr. Ephraim Sallow, Under-Librarian, who was unwell
 
-**Call number:** FN 6.1 / S25 1388
-**Class:** FN — The Foundation Collection
-**Text:** English, fair copy in the hand of Mr. Ephraim Sallow, Under-Librarian 1381–1391, with the Library's later annotations in the margins
-**Date:** Michaelmas 1388; the Library doubts the last leaf, ruled but not written, and the final note, which is three words long
-**Custody:** Upper Crypt, with the Chapter chests; not to be produced to the Registry save by the Dean of Ethics, Appeals & Paperwork
-**Collation:** 14 leaves, one leaf ruled and unwritten, 1 folding table of series
-**Condition:** The iron-gall ink has burned through at the letter R on folio 7, so that the letter is legible by its hole; the final leaf smells of the room in which it was written
+- **Call number:** FN 6.1 / S25 1388
+- **Class:** FN — The Foundation Collection
+- **Text:** English, fair copy in the hand of Mr. Ephraim Sallow, Under-Librarian 1381–1391, with the Library's later annotations in the margins
+- **Date:** Michaelmas 1388; the Library doubts the last leaf, ruled but not written, and the final note, which is three words long
+- **Custody:** Upper Crypt, with the Chapter chests; not to be produced to the Registry save by the Dean of Ethics, Appeals & Paperwork
+- **Collation:** 14 leaves, one leaf ruled and unwritten, 1 folding table of series
+- **Condition:** The iron-gall ink has burned through at the letter R on folio 7, so that the letter is legible by its hole; the final leaf smells of the room in which it was written
 
 ## The Library's Note
 

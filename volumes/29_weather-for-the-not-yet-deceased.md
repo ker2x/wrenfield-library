@@ -2,16 +2,16 @@
 
 ### Being the Companion Volume to the *Weather for the Recently Deceased*, with the Nine Readings Adapted to the Living, the Three Refusals of the Faculty Bound In, and the Case of the Cooper of the Tenterfields
 
-**Call number:** DP 15.3 / R63 1491
-**Author:** Elias Rook, D.Th.
-**Faculty:** Divination & Improbable Prediction
-**Degree sought:** D.Th., 1491
-**Advisor:** Dr. H. Cottersley · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1491
-**Edition:** Enlarged reissue, Eleventhmonth 1504, set from the Library's copy; the finding of 1502 and the fourth refusal added. Of the first impression, one hundred and fifty copies, thirty-eight to the Diocese.
-**Accession:** Wrenfield Accessions 1491.62
-**Collation:** 88 pp., 1 plate (folding)
-**Condition:** Foxed; the third gathering water-damaged. Bound without a cancellation, so that the third refusal letter sits after the replies to it. A slip on the pastedown, in the author's hand, lists a fourth refusal the Faculty never sent.
+- **Call number:** DP 15.3 / R63 1491
+- **Author:** Elias Rook, D.Th.
+- **Faculty:** Divination & Improbable Prediction
+- **Degree sought:** D.Th., 1491
+- **Advisor:** Dr. H. Cottersley · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1491
+- **Edition:** Enlarged reissue, Eleventhmonth 1504, set from the Library's copy; the finding of 1502 and the fourth refusal added. Of the first impression, one hundred and fifty copies, thirty-eight to the Diocese.
+- **Accession:** Wrenfield Accessions 1491.62
+- **Collation:** 88 pp., 1 plate (folding)
+- **Condition:** Foxed; the third gathering water-damaged. Bound without a cancellation, so that the third refusal letter sits after the replies to it. A slip on the pastedown, in the author's hand, lists a fourth refusal the Faculty never sent.
 
 ## Abstract (as filed)
 

@@ -2,16 +2,16 @@
 
 ### A filing of the Faculty of Ethics, Appeals & Paperwork, compiled by the Clerk of Appeals, with the pleadings, the docket, the insult tables and the inspection
 
-**Call number:** EA 5.1 / C76 1502
-**Author:** a Faculty of Ethics, Appeals & Paperwork filing, compiled by the Clerk of Appeals
-**Faculty:** Ethics, Appeals & Paperwork
-**Degree sought:** None — filed, not defended; the Faculty records the matter without conferring anything
-**Advisor:** Dean Ambrose Quill (consulted) · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1502
-**Edition:** Second edition, enlarged — the reissue of 1504, with the docket, the twelve-week germination record and the inspection, none of which stood in the first issue
-**Accession:** Wrenfield Accessions 1502.14
-**Collation:** 26 pages, 1 plate (the bed, in section); the reissue 74 pages, 3 plates
-**Condition:** Foxed throughout; bound in a docket cover never designed for the number of pages
+- **Call number:** EA 5.1 / C76 1502
+- **Author:** a Faculty of Ethics, Appeals & Paperwork filing, compiled by the Clerk of Appeals
+- **Faculty:** Ethics, Appeals & Paperwork
+- **Degree sought:** None — filed, not defended; the Faculty records the matter without conferring anything
+- **Advisor:** Dean Ambrose Quill (consulted) · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1502
+- **Edition:** Second edition, enlarged — the reissue of 1504, with the docket, the twelve-week germination record and the inspection, none of which stood in the first issue
+- **Accession:** Wrenfield Accessions 1502.14
+- **Collation:** 26 pages, 1 plate (the bed, in section); the reissue 74 pages, 3 plates
+- **Condition:** Foxed throughout; bound in a docket cover never designed for the number of pages
 
 ## Abstract (as filed)
 

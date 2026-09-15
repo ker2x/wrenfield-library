@@ -2,16 +2,16 @@
 
 ### A Handbook and a Defence, Compiled from the Standing Orders of the Wrenfield Library, with an Incident Register 1497–1504, the Rules of Feeding, the Naming of 1489, and Notes on the Closed Windows
 
-**Call number:** DE 22.2 / O55 1504
-**Author:** compiled by Fenwick Oll, Under-Librarian
-**Faculty:** Domestic Enchantment — Library sub-shelf
-**Degree sought:** M.L.S., 1489
-**Advisor:** Dr. A. Palgrave · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1504
-**Edition:** Enlarged reissue; the first impression of this year being withdrawn, this carries the incident register entire, the Committee's refusals in full, and the Bursar letter
-**Accession:** Wrenfield Accessions 1504.7
-**Collation:** 148 pp., 1 plate (folding)
-**Condition:** Sound; last gathering marked with violet ink, undescribed.
+- **Call number:** DE 22.2 / O55 1504
+- **Author:** compiled by Fenwick Oll, Under-Librarian
+- **Faculty:** Domestic Enchantment — Library sub-shelf
+- **Degree sought:** M.L.S., 1489
+- **Advisor:** Dr. A. Palgrave · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1504
+- **Edition:** Enlarged reissue; the first impression of this year being withdrawn, this carries the incident register entire, the Committee's refusals in full, and the Bursar letter
+- **Accession:** Wrenfield Accessions 1504.7
+- **Collation:** 148 pp., 1 plate (folding)
+- **Condition:** Sound; last gathering marked with violet ink, undescribed.
 
 ## Abstract (as filed)
 

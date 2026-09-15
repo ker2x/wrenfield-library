@@ -2,16 +2,16 @@
 
 ### A Treatise upon the Air of the Wrenfield Library: a Table of Draughts, the Five Rooms with No Windows, the Mould of 1499, and the Faculty's Letter of 1488 in Full
 
-**Call number:** DE 22.3 / O55 1502
-**Author:** Fenwick Oll, Under-Librarian (Reading Room)
-**Faculty:** Domestic Enchantment — Library sub-shelf
-**Degree sought:** M.L.S., 1489
-**Advisor:** Dr. A. Palgrave · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1502
-**Edition:** Second edition, reissued and enlarged: the hour corrected to six bells, both tables enlarged, and the mould of 1499 added.
-**Accession:** Wrenfield Accessions 1502.44
-**Collation:** 164 pp., 2 plates
-**Condition:** Water-stained at the upper edge, only for the width of an open window.
+- **Call number:** DE 22.3 / O55 1502
+- **Author:** Fenwick Oll, Under-Librarian (Reading Room)
+- **Faculty:** Domestic Enchantment — Library sub-shelf
+- **Degree sought:** M.L.S., 1489
+- **Advisor:** Dr. A. Palgrave · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1502
+- **Edition:** Second edition, reissued and enlarged: the hour corrected to six bells, both tables enlarged, and the mould of 1499 added.
+- **Accession:** Wrenfield Accessions 1502.44
+- **Collation:** 164 pp., 2 plates
+- **Condition:** Water-stained at the upper edge, only for the width of an open window.
 
 ## Abstract (as filed)
 

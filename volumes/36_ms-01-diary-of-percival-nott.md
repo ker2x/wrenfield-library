@@ -1,13 +1,13 @@
 # The Diary of Percival Nott
 ### The diary of a third-year undergraduate, kept 1459–1461, with eight leaves cut out and further entries in the same hand; reissued at the enlarged length
 
-**Call number:** MS 1.1 / N68 1461
-**Hand:** Percival Nott's own; fair at first, and fairer afterwards, though the later entries are written more slowly
-**Class:** MS — Manuscripts & Personal Papers
-**Dates of entries:** 9 September 1459 – 1461; a gap of eight leaves cut out after 6 February 1461, and entries continued in the same hand after it
-**Provenance:** Transferred from the mirror-room desk to the Registry in 1462; the accession note says "found", which the Library doubts
-**Collation:** 31 leaves, of which 8 are stubs; watermark a hand-and-star
-**Condition:** the cut edges are brown, and the text resumes without a break in the sentence
+- **Call number:** MS 1.1 / N68 1461
+- **Hand:** Percival Nott's own; fair at first, and fairer afterwards, though the later entries are written more slowly
+- **Class:** MS — Manuscripts & Personal Papers
+- **Dates of entries:** 9 September 1459 – 1461; a gap of eight leaves cut out after 6 February 1461, and entries continued in the same hand after it
+- **Provenance:** Transferred from the mirror-room desk to the Registry in 1462; the accession note says "found", which the Library doubts
+- **Collation:** 31 leaves, of which 8 are stubs; watermark a hand-and-star
+- **Condition:** the cut edges are brown, and the text resumes without a break in the sentence
 
 ## The Library's Note
 

@@ -1,13 +1,13 @@
 # The Diary of Anselm Pike
 ### The diary of a Junior Clerk (Third Class, Unconfirmed) of the Registry, kept 1–20 March 1487, with the quire ruled and unused after it; reissued at the enlarged length
 
-**Call number:** MS 2.1 / P54 1487
-**Hand:** Mr. Anselm Pike's own, small and upright; the last three entries are set wider, in the same ink
-**Class:** MS — Manuscripts & Personal Papers
-**Dates of entries:** 1–20 March 1487, twelve days of which are one line each; fourteen leaves ruled and unused after the 20th
-**Provenance:** Found in the Registry cupboard in 1492 among the counterfoils of 1487; the note of transfer misdates it 1486 and is not to be corrected
-**Collation:** 24 leaves in one quire, the last 14 blank and ruled; watermark a bell without its clapper
-**Condition:** the corner of the eleventh leaf is worn, and the leaf is blank on both sides
+- **Call number:** MS 2.1 / P54 1487
+- **Hand:** Mr. Anselm Pike's own, small and upright; the last three entries are set wider, in the same ink
+- **Class:** MS — Manuscripts & Personal Papers
+- **Dates of entries:** 1–20 March 1487, twelve days of which are one line each; fourteen leaves ruled and unused after the 20th
+- **Provenance:** Found in the Registry cupboard in 1492 among the counterfoils of 1487; the note of transfer misdates it 1486 and is not to be corrected
+- **Collation:** 24 leaves in one quire, the last 14 blank and ruled; watermark a bell without its clapper
+- **Condition:** the corner of the eleventh leaf is worn, and the leaf is blank on both sides
 
 ## The Library's Note
 

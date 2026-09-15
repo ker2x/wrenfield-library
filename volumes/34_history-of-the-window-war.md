@@ -2,16 +2,16 @@
 
 ### Being an Account of the Seventeen-Year Dispute between the Faculty of Agricultural Curses & Pollen Pathology and the Under-Librarian concerning the Windows of Reading Room 2, with the Record by Year, the Six Rulings, the Case of 1495 and the Letter of Reply
 
-**Call number:** AC 200.1 / T45 1504
-**Author:** Marigold Thistlewick, M.M.M.
-**Faculty:** Agricultural Curses & Pollen Pathology (AC)
-**Degree sought:** M.M.M., 1504
-**Advisor:** Dr. H. Pell-Marrow, Reader in Applied Pollen Pathology · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1504
-**Edition:** Second, enlarged — the reissue of the withdrawn first issue of 1504: the record extended to eighteen years, the six rulings tabled, with the case of 1495, the reply entire and the procedure at §8
-**Accession:** Wrenfield Accessions 1504.88
-**Collation:** 118 pages, 6 plates (five folding, showing window states)
-**Condition:** Foxed; repaired at the spine; a pressed barley awn at p. 44, which the Library declines to remove
+- **Call number:** AC 200.1 / T45 1504
+- **Author:** Marigold Thistlewick, M.M.M.
+- **Faculty:** Agricultural Curses & Pollen Pathology (AC)
+- **Degree sought:** M.M.M., 1504
+- **Advisor:** Dr. H. Pell-Marrow, Reader in Applied Pollen Pathology · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1504
+- **Edition:** Second, enlarged — the reissue of the withdrawn first issue of 1504: the record extended to eighteen years, the six rulings tabled, with the case of 1495, the reply entire and the procedure at §8
+- **Accession:** Wrenfield Accessions 1504.88
+- **Collation:** 118 pages, 6 plates (five folding, showing window states)
+- **Condition:** Foxed; repaired at the spine; a pressed barley awn at p. 44, which the Library declines to remove
 
 ## Abstract (as filed)
 

@@ -2,16 +2,16 @@
 
 ### With the Library's annotations upon each covenant, and the Bursar's replies
 
-**Call number:** EA 4.3 / W55 1501
-**Author:** the Bursar's office; compiled and annotated by Alaric Greaves, M.P.T.
-**Faculty:** Ethics, Appeals & Paperwork
-**Degree sought:** None — an instrument, not a thesis; the compiler holds his degree of 1491
-**Advisor:** the Bursar, who declines to be named in the imprint · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1501
-**Edition:** Second, enlarged; the reissue, restoring the marginalia and the bee case entire, is that of 1504
-**Accession:** Wrenfield Accessions 1501.02
-**Collation:** 19 pages, 2 plates
-**Condition:** Fair, save the first gathering, stained in the shape of a hand not quite clean; the donor's seal is intact, the breach being not in the seal but in the covenants
+- **Call number:** EA 4.3 / W55 1501
+- **Author:** the Bursar's office; compiled and annotated by Alaric Greaves, M.P.T.
+- **Faculty:** Ethics, Appeals & Paperwork
+- **Degree sought:** None — an instrument, not a thesis; the compiler holds his degree of 1491
+- **Advisor:** the Bursar, who declines to be named in the imprint · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1501
+- **Edition:** Second, enlarged; the reissue, restoring the marginalia and the bee case entire, is that of 1504
+- **Accession:** Wrenfield Accessions 1501.02
+- **Collation:** 19 pages, 2 plates
+- **Condition:** Fair, save the first gathering, stained in the shape of a hand not quite clean; the donor's seal is intact, the breach being not in the seal but in the covenants
 
 ## Abstract (as filed)
 

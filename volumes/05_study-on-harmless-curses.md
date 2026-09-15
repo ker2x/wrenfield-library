@@ -2,16 +2,16 @@
 
 ### Being a Thesis upon Curses Which Do Nothing, With a Taxonomy of Four Classes, the Case of the Courteous Cursing of 1493, and a Control Group Drawn from Ordinary Bad Luck
 
-**Call number:** HC 1.1 / M89 1496
-**Author:** Perpetua Mowbray, D.Th.
-**Faculty:** Harmless & Decorative Curses
-**Degree sought:** D.Th., 1496
-**Advisor:** Dr Wilhelmina Tarn, Reader in Decorative Maleficence · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1496
-**Edition:** First impression; a second was announced in 1497 and not seen
-**Accession:** Wrenfield Accessions 1496.318
-**Collation:** 188 folios, 3 plates
-**Condition:** Water-damaged at the lower margin of folios 90–140, where the subject matter is driest; repaired with three strips of tape, one of them the good tape
+- **Call number:** HC 1.1 / M89 1496
+- **Author:** Perpetua Mowbray, D.Th.
+- **Faculty:** Harmless & Decorative Curses
+- **Degree sought:** D.Th., 1496
+- **Advisor:** Dr Wilhelmina Tarn, Reader in Decorative Maleficence · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1496
+- **Edition:** First impression; a second was announced in 1497 and not seen
+- **Accession:** Wrenfield Accessions 1496.318
+- **Collation:** 188 folios, 3 plates
+- **Condition:** Water-damaged at the lower margin of folios 90–140, where the subject matter is driest; repaired with three strips of tape, one of them the good tape
 
 ## Abstract (as filed)
 

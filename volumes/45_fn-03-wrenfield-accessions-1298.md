@@ -2,13 +2,13 @@
 
 ### A fragment of the Accessions register, five leaves of a quire of sixteen, in two hands, with the chapter's table of accession fees and the receipt of the 27th of November 1302
 
-**Call number:** FN 3.1 / — 1298
-**Class:** FN — The Foundation Collection
-**Text:** English and Latin, entries in the register hand of the Library; **the hand changes after the third entry**, without a note of any kind
-**Date:** Entries of March 1298 to November 1302; the first leaf is an earlier fragment, and the Library cannot say of what
-**Custody:** Kept in the Upper Crypt with the Chapter chests; not to be produced to any person named in it as a donor without the Deputy Under-Librarian's written leave
-**Collation:** 5 leaves, the third cut down at the foot; two sewing shadows showing four leaves lost before the fragment
-**Condition:** The cut at the foot of the third leaf has taken the lower half of one entry; water-staining along the fore-edge in the pattern of a thumb; the mark of a wet cup on the fifth leaf, made by someone reading
+- **Call number:** FN 3.1 / — 1298
+- **Class:** FN — The Foundation Collection
+- **Text:** English and Latin, entries in the register hand of the Library; **the hand changes after the third entry**, without a note of any kind
+- **Date:** Entries of March 1298 to November 1302; the first leaf is an earlier fragment, and the Library cannot say of what
+- **Custody:** Kept in the Upper Crypt with the Chapter chests; not to be produced to any person named in it as a donor without the Deputy Under-Librarian's written leave
+- **Collation:** 5 leaves, the third cut down at the foot; two sewing shadows showing four leaves lost before the fragment
+- **Condition:** The cut at the foot of the third leaf has taken the lower half of one entry; water-staining along the fore-edge in the pattern of a thumb; the mark of a wet cup on the fifth leaf, made by someone reading
 
 ## The Library's Note
 

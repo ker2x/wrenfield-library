@@ -2,16 +2,16 @@
 
 ### A Divinatory Proof, by Scrying and by Argument from Silence, that the Second Volume of the *Cantor Minor* was Never Written
 
-**Call number:** DP 44.9 / N66 1301
-**Author:** attributed to N. Nott; the title page is anonymous and the attribution is disputed
-**Faculty:** Divination & Improbable Prediction
-**Degree sought:** M.M.M., 1301
-**Advisor:** Master Hildebrand Ost · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
-**Imprint:** Alderwick: Wrenfield Press for the University, 1301
-**Edition:** Enlarged reissue of the first impression; the second impression, here proposed and not produced, is treated at §4
-**Accession:** Wrenfield Accessions 1301.4
-**Collation:** 47 leaves, 3 plates
-**Condition:** repaired at the spine with linen thread of a later date; lower margin damp-stained from folio 25; annotated in a hand that is not the author's, and once in a hand that may be no one's
+- **Call number:** DP 44.9 / N66 1301
+- **Author:** attributed to N. Nott; the title page is anonymous and the attribution is disputed
+- **Faculty:** Divination & Improbable Prediction
+- **Degree sought:** M.M.M., 1301
+- **Advisor:** Master Hildebrand Ost · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
+- **Imprint:** Alderwick: Wrenfield Press for the University, 1301
+- **Edition:** Enlarged reissue of the first impression; the second impression, here proposed and not produced, is treated at §4
+- **Accession:** Wrenfield Accessions 1301.4
+- **Collation:** 47 leaves, 3 plates
+- **Condition:** repaired at the spine with linen thread of a later date; lower margin damp-stained from folio 25; annotated in a hand that is not the author's, and once in a hand that may be no one's
 
 ## Abstract (as filed)
 
