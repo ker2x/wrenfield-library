@@ -61,6 +61,14 @@ start at [`CATALOG.md`](CATALOG.md), and the library's front page is [`README.md
   as the manual nobody can consult — but not as **lost**, in volumes of imprint before 1487.
 - **Mr. Ephraim Sallow**, Under-Librarian 1381–1391, *who was unwell*, author of the Classification of
   1388. Never named in the classroom; named constantly in the margins. His notes were never found.
+  **The scheme is named and he is not**: the catalogue calls it the Classification of 1388 and cites the
+  fair copy at `FN 6.1`, and still describes him only as "the then Under-Librarian, who was unwell" —
+  though the copy is in his hand, the margins name him, and his name is in fact printed once in the
+  catalogue, in the shelf-list's column for the hand. Keep it that way, and do not tidy the contradiction
+  away: the joke is that the name is on the shelf, and once in the catalogue's own columns, and the
+  Library will not say it in its own voice. Distinguish in every reference between the **fair copy**
+  (held, `FN 6.1`) and his **working notes** (never found); the two are not the same, and the
+  catalogue's respect for his memory depends on it.
 - **Mr. Tobias Rell**, binder, of the Aldermarket bindery. Bound *DO NOT READ* out of order at the
   author's instruction, and has been explaining himself ever since — briefly in a note of four lines,
   and at length in a printed apology.

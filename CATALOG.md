@@ -8,21 +8,24 @@
 
 ## On the Classification
 
-The classification in use at Wrenfield was devised in 1388 by the then Under-Librarian, who was
-unwell. It is retained without alteration out of respect for his memory and because no one has
-been able to find his notes. Students are asked not to attempt to improve it. Students are
-particularly asked not to attempt to improve it in pencil, which has been attempted eleven times,
-and which is why the shelves in the AC range are so short of pencil.
+The classification in use at Wrenfield is the **Classification of 1388**. It was devised in that year by
+the then Under-Librarian, who was unwell. The scheme itself is on the shelf at **FN 6.1**, in his own
+fair copy. His name is printed once in this catalogue, in the column for the hand in the shelf-list
+below, and in no other place; the description above is the Library's own, and has never been explained.
+The scheme is retained without alteration out of respect for his memory and because his working notes,
+as distinct from the fair copy, have never been found. Students are asked not to attempt to improve it.
+Students are particularly asked not to attempt to improve it in pencil, which has been attempted eleven
+times, and which is why the shelves in the AC range are so short of pencil.
 
 Readers will find, in volumes of early imprint, citations to works written after them. These are
 shelf-mate entries, added by the Library in later hands and marked as such at the head of each
 list. The Library does not remove them, on the grounds that a shelf-mate entry is a record of use,
 and that use is what a library is for. **DP 44.9** is the extreme case and is discussed below.
 
-During 1504 the Library extended the Classification with two further classes — **MS**, Manuscripts &
-Personal Papers, and **FN**, the Foundation Collection. The Committee on Standing Matters was not
-consulted, the motion to consult it being item 4. Readers are asked not to describe the extension as
-an improvement, which it is not, or as an alteration, which it is.
+During 1504 the Library extended the Classification of 1388 with two further classes — **MS**,
+Manuscripts & Personal Papers, and **FN**, the Foundation Collection. The Committee on Standing Matters
+was not consulted, the motion to consult it being item 4. Readers are asked not to describe the
+extension as an improvement, which it is not, or as an alteration, which it is.
 
 The arrangement is by Faculty, then by shelf, then by position on the shelf. The number after the
 oblique is the author's initial and the year of imprint. Shelf 44.9 in the DP range is shorter
