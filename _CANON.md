@@ -155,6 +155,14 @@ Standing gags available to every volume:
 1. **Register:** deadpan, bureaucratic, academic. No modern slang, no anachronism, no
    emoji, no direct address to the reader, no winking asides. The author always believes
    the work is important.
+   - **The old line** is a register within the register, and is used in two places only: the consent form
+     of Draconic Dentistry (**Form DD/19**, `DD 7.2` §4) and the Registry's own instruments
+     (`LICENSE.md`, the Licence of Circulation). It is *thou shalt* English, and it is old on purpose in
+     both: the Faculty may not modernise its form, and the Registry will not modernise its own, the
+     meaning of the words being the whole of the grant. A form addresses the person who must fill it in,
+     which is the one place in this shelf where direct address is proper. **Nothing else is written in
+     it** — the Chapter's statutes (`FN 1.1`) and the notary's instruments (`FN 7.1`) stand in the
+     ordinary register, and the two registers are not to be harmonised.
 2. **Length — there is no length.** A volume is as long as its content is, and no longer: a holding may
    run to twice the scale below or to half of it, as its subject requires, and a writer who pads to
    reach a figure or trims to stay under one has mistaken the Library for a press. Nothing here is
@@ -446,9 +454,10 @@ its class.
   fixtures, no cast, no reading order, and `CATALOG.md` carries no such pointer at all, there being
   nobody standing at the catalogue to warn.
 - **The licence.** At the commissioner's instruction the repository carries a licence, and it is the
-  Library's own: `LICENSE.md`, the Licence of Circulation, an instrument of the Registry drawn in the
-  register of the old line, with seven clauses and no schedule. The commissioner asked whether it should
-  be rendered in Draconic, and settled on the old-line register instead — no invented vocabulary in this
+  Library's own: `LICENSE.md`, the Licence of Circulation, an instrument of the Registry **drawn
+  throughout in the register of the old line** — head, recital, clauses and endorsement alike, and not
+  the clauses only — with nine clauses and no schedule. The commissioner asked whether it should be
+  rendered in Draconic, and settled on the old-line register instead — no invented vocabulary in this
   repository, and a courtesy text would have had to be marked non-governing besides.
   - **No real-world licence is named in it, and none is to be added.** The commissioner's ruling is that
     the shelf's terms are the Library's and need not hold up in a court that has never heard of
