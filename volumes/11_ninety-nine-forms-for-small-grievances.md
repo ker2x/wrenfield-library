@@ -139,8 +139,28 @@ Form 7B is required for every thesis in this library and is missing from every t
 >
 > .................................................................
 > *Counter-Clerk of the Fourth Reading Room*
+>
+> **FORM 7B — DECLARATION DE NON-INTERVENTION AVEC LE TEMPS.**
+> *(Bureau du Clerc du Quatriesme Cabinet de Lecture. Baillé audit comptoir et non ailleurs.)*
+>
+> Scachent tous qu'aujourd'huy vingt troisiesme jour de mars mil quatre cens quatre vingtz sept, avant midy, par devant moy notaire royal en ceste ville d'Alderwick, soubzsigné, et en la presence des tesmoins bas nommés, a esté présant en sa personne le déclarant soubzsigné, lequel de son bon gré et franche volonté a dict et déclaré ce que s'ensuyt:
+>
+> 1. Premièrement, qu'il n'a aucunement mesfaict ne interverti le Temps, ne causé qu'il fust interverti, ne assisté pendant qu'il estoit interverti par personne qu'il ne nomme poinct, la nomination estant elle mesme une interversion.
+> 2. Secondement, qu'il n'est entré ne a tenté d'entrer au quatriesme cabinet de lecture, soit par la porte qui est en la muraille du septentrion, soit par quelque autre voye que ce soit, laquelle muraille a deux pieds quatre poulces d'espais, desquelz deux pieds quatre poulces sont muraille.
+> 3. Tiercement, que tout intervalle non escript en son papier journal est tel pour avoir esté dormant.
+> 4. Quartement, qu'il entend et confesse la présente déclaration estre requise pour toute thèse, et la thèse du candidat qui ne l'a mise estre incapable d'examen et de refus.
+>
+> Baillé et présenté au comptoir du quatriesme cabinet de lecture, estant la trappe numéro ................ en la muraille du septentrion, le ...... jour de ......................., mil quatre cens quatre vingtz ......, et receu par moy,
+>
+> .................................................................
+> *Clerc dudit quatriesme cabinet de lecture*
 
-The signature line has never been filled. The only completed Form 7B known was filed at that counter in 1487 and is not held.
+**The second copy is in French.** The office holds that the form issues as it was first drafted, and
+  that the English above is a rendering the counter has never found the time to certify; the two
+  copies are not to be harmonised, and the Library does not correct either. The four clauses stand
+  in the order of the original.
+
+The signature line of neither copy has ever been filled. The only completed Form 7B known was filed at that counter in 1487 and is not held.
 
 ## 10. The Fourth Reading Room: The Plans of 1223, the Hours, and the Lamps
 
