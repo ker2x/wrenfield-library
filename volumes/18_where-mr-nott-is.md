@@ -43,10 +43,13 @@ The Faculty has kept a register of frame errors since 1462. The unit of error is
 | 1483 | Mrs. Ide Marchant | Catalogue press, lower hall | north corridor, east end | 96 ft | 40 days | 12 bells |
 | 1487 | the Library's lamp, no. 4 | Lamp room, second rack | north corridor, at the wall | 118 ft | 11 days | 3 bells 6 clipped |
 | 1491 | Mr. Reynold Ash | Mirror, south stand | Reading Room 2, west window | 74 ft | 9 days | 8 bells |
+| 1493 | Miss Nell Ravenscroft | Mirror, workshop of Aldous Peake, Bell Court | Mirror, dyeworks of the Widow Halloway, the Tenterfields | 4 miles | 1 day | 6 bells |
 | 1496 | Mr. Giles Oare | Still-room door, Low Town | The Tenterfields gate | 340 ft | 90 days | 1 mark 6 bells |
 | 1502 | Mr. Alderic Thorne | north corridor, west end | north corridor, west end | 118 ft | 44 days | 4 marks 6 bells |
 
 The column of fees records the fine levied on the walker for arriving without a booking, and not any charge for the room, the room being unable to charge. The last two entries remain unpaid, the Registry having been instructed to leave both sums standing, a dispute about a fee being a record of a walker.
+
+The entry of 1493 is the register's only **return** fault and its only measure in miles. The walker entered the re-silvered leaf of a pair of 1463 and came out of its match at the dyeworks, four miles off and a day late; the fee is the return fine of 9 bells, less the 3 remitted for the promptness with which she named the frame that had answered [**LT 3.7** / F47 1498, §IX]. The register had omitted her until this edition, the entry having been made in the Faculty's day-book and not in the register — which is how a case becomes the instructive one.
 
 ## 4. The Register of Lost Walkers
 

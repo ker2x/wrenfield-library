@@ -243,6 +243,14 @@ Standing gags available to every volume:
      before the order, and everybody else is refused by the rule. Keep the refusal procedural and
      polite — the volume is not dangerous to the Library, it is **unavailable**, and the two must not be
      confused. A later volume may cite the rule, may complain of it, and may not satisfy it.
+   - **The crossing does not traverse; the return may.** Mirror walking enters the *arrangement* — the room
+     as the glass composes it, an arm's length away — and never travels anywhere. Distance and wrong days
+     belong to the **return**, where a wrong frame answers: Peake's matched pair of 1463 put Nell
+     Ravenscroft out at the dyeworks, four miles off and a day late (`LT 3.7` §IX). Keep the two apart in
+     every mention. "Another country" and "another year" are what the far side is **not**; a wrong-frame
+     return is a fault in the frame, and the Faculty charges for it. `LT 3.9` §3's register must carry her
+     1493 entry — its only row in miles and its only return fault, omitted until the edition of 1504 — so
+     that a reader who meets the register after §I's denial can see how both are true.
 7. **Chronology:** a volume may not *cite* a work later than its own imprint as the author's own
    citation. Where an early volume needs a later shelf-mate, its reference list must open with the
    standard line: *Shelf-mate entries in the list below were added by the Library in later hands.

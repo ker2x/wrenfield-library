@@ -32,11 +32,13 @@ Everything else in this treatise follows from that. Because the arrangement is c
 
 What a crossing is like, in the walker's own words, is the subject on which the Faculty has published most and established least. The substance of the evidence is three things: nothing is loud; the light is the light of the room and comes from the wrong side; and for the first three or four steps the walker hears his own footfalls arrive slightly after he does.
 
-**What it is not.** It is not divination: the arrangement shows the room as arranged, never as it was, and it says nothing whatever about the future — that is the business of the Faculty of Divination (**DP 44.9**). It is not conjuration: nothing is made, and the arrangement's contents are the room's contents, composed. It is not time travel, though a walker who arrives by the wrong frame may arrive on the wrong day, which is a fault in the frame and not an itinerary. And it is not, whatever the first-year students believe, a way into a locked room: the locked door in the room is a locked door in the arrangement, and this Faculty has buried two practitioners who thought otherwise.
+**What it is not.** It is not divination: the arrangement shows the room as arranged, never as it was, and it says nothing whatever about the future — that is the business of the Faculty of Divination (**DP 44.9**). It is not conjuration: nothing is made, and the arrangement's contents are the room's contents, composed. It is not time travel, though a walker who returns by the wrong frame may arrive on the wrong day and at a frame standing elsewhere — another room, another building, four miles off in the Tenterfields (§IX) — which is a fault in the frame and not an itinerary: four miles is not another country, and a day is not another year, though the Faculty has charged for both. And it is not, whatever the first-year students believe, a way into a locked room: the locked door in the room is a locked door in the arrangement, and this Faculty has buried two practitioners who thought otherwise.
 
 **What a walker may lawfully do inside** is set out in the syllabus at §XIII and in the rulings at §XV. The substance is four things — retrieve a named object, read a page, deliver a document, and inspect a threshold — and the prohibitions are three: nothing may be taken out, no person seen in the arrangement may be addressed, and nothing may be sat upon.
 
-| term | what it means | what it is not |
+The craft turns on seven terms. Each is fixed below by what it means, and by the error it is most often taken for:
+
+| term | what it means | the error it is taken for |
 |---|---|---|
 | the arrangement | the room as the glass composes it, reversed and held behind the frame | a copy, or a second room |
 | the frame | the made edge that holds an arrangement in place | a doorway; a doorway is not a threshold |
