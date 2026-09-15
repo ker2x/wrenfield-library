@@ -33,5 +33,25 @@ issues the following, and notes that all six are in the catalogue, with their co
 | HC 1.1 / M89 1496 | [*A Study on Harmless Curses*](volumes/05_study-on-harmless-curses.md) | The jurisdiction question, argued from the side of Harmless & Decorative Curses, at length |
 | DD 7.2 / O56 1502 | [*Dragon Dentistology*](volumes/06_dragon-dentistology.md) | The only volume in Draconic Dentistry & Comparative Saurian Medicine carrying a patient's own marks |
 
+## Entering the shelf
+
+The holdings are numbered `01` to `49` in the order in which they stand, faculty by faculty. That is the
+shelf's order and not the order of writing: the texts here run from 1223 to 1504, so the numbers will carry
+a reader from a history of 1504 to a plan approved in 1223 without any change of period being announced,
+and the volume at `35` cites an instrument standing at `43` — which happens here, and is not an error.
+
+- **In numerical order, if a reader wants an order.** It is the only order this Library keeps, and no
+  reader is asked to finish it. A reader who asks the desk for a preference will be given the numbers, the
+  desk having nothing else to give. The six above are for a reader who must begin somewhere this
+  afternoon; the numbers are for a reader who means to read the shelf.
+- **In any other order, which is equally permitted.** Every volume defines its own terms once and cites
+  the rest of the shelf by call number, so a reader who begins in the middle is not lost — but is reading
+  alone, the volumes assuming the catalogue is to hand. It is: [`CATALOG.md`](CATALOG.md).
+- **Not in the order of imprint**, which the shelf cannot do for anybody. The scheme requires the volumes
+  to stand by faculty, and the faculties are older than most of what stands in them.
+- **At `36` the theses stop.** `01`–`35` are the faculties' work; `36`–`42` are personal papers and
+  `43`–`49` the Foundation collection — documents and not theses, with no abstract, no examiner and no
+  degree, and no Form 7B missing from them, the form governing theses and these not being theses.
+
 *Enquiries at the desk. The catalogue is stamped twice, as is proper, and once more if it is returned
 out of hours.*

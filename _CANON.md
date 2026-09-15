@@ -454,12 +454,23 @@ its class.
   as it now stands. **No volume is to be lengthened, cut, or padded to satisfy a number**, and no
   count — of words, sections, tables, rows or items — is to be taken as a test of anything.
 - **What the front page may carry.** `README.md` is a library document and is read as one: the shelf's
-  own framing, the map of the files, and the Under-Librarian's six for a first reader. It carries **no
-  dramatis personae, no list of recurring jokes or fixtures, and no reading order** — the commissioner
-  struck a "Names that recur" section and a line telling the reader which section to read first, both
-  being the author's notes rather than the Library's. A name that recurs is met in the catalogue and in
-  the volumes, where it belongs. `CATALOG.md` is the Library's own card catalogue: holdings, rules,
-  classification, matters outstanding, and never the fiction's fixtures as such.
+  own framing, the map of the files, the Under-Librarian's six for a first reader, and the reader's guide
+  to entering the shelf. It carries **no dramatis personae, no list of recurring jokes or fixtures, and no
+  reading order** — the commissioner struck a "Names that recur" section and a line telling the reader
+  which section to read first, both being the author's notes rather than the Library's. A name that recurs
+  is met in the catalogue and in the volumes, where it belongs. `CATALOG.md` is the Library's own card
+  catalogue: holdings, rules, classification, matters outstanding, and never the fiction's fixtures as
+  such.
+  - **What "no reading order" covers, now that there is a reader's guide.** The prohibition is about
+    *ranking* and about *the inside of a volume*: the front page may not say which holding is best, nor
+    name a first volume as the one to begin at, nor tell a reader which section of a volume to start in —
+    the struck line sent the reader to a section of `LT 3.7`, and that is what it was struck for. A guide
+    to the **shelf** is a different thing and is now carried: the numbers as the only order the Library
+    keeps, offered and not required; the warning that shelf order is not the order of writing (the texts
+    run 1223–1504, and `35` cites `FN 1.1` standing at `43`); the note that any order is permitted; and
+    the fact that the theses stop at `36`. It says nothing about which volume is better than another: the
+    desk answers questions about the order of the shelf, gives the numbers when a reader asks for a
+    preference, and ranks nothing.
 - **Comparative claims on the front page.** *Oldest*, *first* and *only* are the front page's most
   tempting words and its most dangerous, and each one must be true of the shelf **as the volumes
   themselves date and describe it**, or it comes out. The centaur row called *How to Groom Your Centaur*
