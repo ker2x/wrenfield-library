@@ -255,8 +255,10 @@ this catalogue's, and are taken from the shelf-list; a volume added to the shelf
 
 One instrument of the Registry's series a reader may meet without asking for it: the
 [Licence of Circulation](LICENSE.md), under which a volume may be copied, and under which this catalogue
-is itself given. It is classed with the Registry's property, it is not a holding, and it is not counted
-above. It is also the only document of the Registry this Library has ever been able to produce on demand.
+is itself given — with an annex in which the instrument is set out also in the tongues of the parties, in
+Draconic and in two tongues besides, and declined in writing for the familiars and the fowl. It is classed
+with the Registry's property, it is not a holding, and it is not counted above. It is also the only
+document of the Registry this Library has ever been able to produce on demand.
 
 *The under-signed will stamp this catalogue twice, as is proper, and once more if it is returned
 out of hours.*

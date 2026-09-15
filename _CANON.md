@@ -18,6 +18,16 @@ start at [`CATALOG.md`](CATALOG.md), and the library's front page is [`README.md
 - Time period: the volumes span roughly 1301–1504. The "present day" of the catalogue is
   1504 (the 357th year of the present reckoning).
 - Currency: **marks, bells, clipped bells** (1 mark = 20 bells = 240 clipped bells).
+- **Tongues.** English in the ordinary register. Two special registers sit inside it and are not to be
+  mixed with it: **the old line**, which the Registry uses for its own instruments and the Faculty of
+  Draconic Dentistry for its consent form (§4.1); and **Draconic**, the tongue of dragons, whose words,
+  particles and word order are fixed in the annex to `LICENSE.md` and binding on any later volume that
+  uses them. Besides these: the **tongue of the Nine Meadows** (centaurs; a herd tongue, called and not
+  written, with no possessive that shuts out the herd); the **greenhouse tongue** (sentient plants; by
+  gesture and leaf, taken down at a keeper's dictation, so a rendition of it is a translation of a
+  translation); and **Norman French**, in clauses 13–18 of the Capitular Statutes (`FN 1.1`) and nowhere
+  else. Familiars and fowl have no written tongue; the goose is a tenant of the Chapter at one egg and
+  does not read.
 - **Joke engine:** comedy comes from earnestness — fees, forms, consent, liability
   insurance, professional jurisdiction, and peer review — never from winking at the
   reader. The scholars behave like real academics: defensive, precise, and slightly
@@ -458,7 +468,17 @@ its class.
   throughout in the register of the old line** — head, recital, clauses and endorsement alike, and not
   the clauses only — with nine clauses and no schedule. The commissioner asked whether it should be
   rendered in Draconic, and settled on the old-line register instead — no invented vocabulary in this
-  repository, and a courtesy text would have had to be marked non-governing besides.
+  repository, and a courtesy text would have had to be marked non-governing besides. **That instruction
+  was then extended:** the instrument now carries an **annex of renditions** — in Draconic, in the tongue
+  of the Nine Meadows, and in the greenhouse tongue, with the tongues of the familiars and of the fowl
+  declined in writing rather than omitted. Every rendition is marked a courtesy and is expressly
+  non-governing, the instrument governing wherever the two differ.
+  - The annex is the **one place in this repository where vocabulary is invented**, and it is the only
+    warrant for it. The Draconic lexicon and particles set out there are binding on any later volume that
+    uses the tongue; no second Draconic lexicon is to be coined, and the words are not to be respelled for
+    looks. The centaur and greenhouse renditions are smaller and less binding — a herd tongue with no
+    exclusive possessive, and a tongue of gesture taken down at dictation — but they too are fixed by what
+    stands in the annex, and are not to be contradicted.
   - **No real-world licence is named in it, and none is to be added.** The commissioner's ruling is that
     the shelf's terms are the Library's and need not hold up in a court that has never heard of
     Alderwick: there is no Creative Commons deed in this repository, no deed quoted whole or in part, no
