@@ -433,3 +433,10 @@ its class.
   being the author's notes rather than the Library's. A name that recurs is met in the catalogue and in
   the volumes, where it belongs. `CATALOG.md` is the Library's own card catalogue: holdings, rules,
   classification, matters outstanding, and never the fiction's fixtures as such.
+- **The one out-of-world line on the front page.** `README.md` carries exactly one sentence that is not
+  the Library's, and it is a signpost rather than a note: the pointer to this file, marked **(SPOILER)**,
+  saying that `_CANON.md` is the only file here written out of world. A reader arriving at the
+  repository has to be told which single file not to open first, and the Library cannot say it — the
+  Library does not know that it is one. The line names this file and nothing else; it carries no
+  fixtures, no cast, no reading order, and `CATALOG.md` carries no such pointer at all, there being
+  nobody standing at the catalogue to warn.
