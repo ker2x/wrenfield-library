@@ -245,6 +245,12 @@ Standing gags available to every volume:
      before the order, and everybody else is refused by the rule. Keep the refusal procedural and
      polite — the volume is not dangerous to the Library, it is **unavailable**, and the two must not be
      confused. A later volume may cite the rule, may complain of it, and may not satisfy it.
+     - The order stands in three places, and all three are required: the **catalogue**, at the
+       reading-room rules, 10; the **title page** of `CR 1.1`, whose Form 7B field states that the form
+       was completed and is not with the volume (§5); and the **front of the volume itself**, as the
+       Under-Librarian's note entered before the abstract, which is where a reader meets the condition
+       before the first chapter rather than after the last. A volume may not state the rule in one place
+       and leave the others silent, and the note at the front is not to be moved into the Apparatus.
    - **The crossing does not traverse; the return may.** Mirror walking enters the *arrangement* — the room
      as the glass composes it, an arm's length away — and never travels anywhere. Distance and wrong days
      belong to the **return**, where a wrong frame answers: Peake's matched pair of 1463 put Nell
@@ -305,7 +311,10 @@ title page repeating a fact is paperwork, not padding — but it is the short fo
 the sentence at length; keep it to a line. Three volumes vary it, and only these:
 
 - **`CR 1.1`,** where the form was completed: the field says so, and says it is not with the volume. The
-  field is front matter and does not carry the consultation rule, which stands at `CATALOG.md`, rule 10.
+  field is front matter and does not carry the consultation rule, which stands at `CATALOG.md`, rule 10,
+  **and is entered again at the front of the volume itself** as the Under-Librarian's note before the
+  abstract (§4.6). The division of labour is exact: the title page declares the absence, the catalogue
+  states the rule, and the note tells the reader what the rule costs him before he begins.
 - **The volumes that are not theses** — a report, a memorandum, an instrument, a survey, an apology —
   which say that the form is not required of them, or that the Dean has never required one.
 

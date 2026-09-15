@@ -13,6 +13,22 @@
 - **Condition:** Read. The cover bears the instruction DO NOT READ, which this copy has not obeyed. Spine to the wall by order of the Committee
 - **Form 7B:** *Declaration of Non-Interference with Time*. Completed, and the only completed form the Library has seen: filed with the fourth reading room on 6 March 1487, and not with this volume.
 
+## Note by the Under-Librarian, Entered at the Front of the Volume
+
+> **CR 1.1 is not to be consulted or borrowed** without a completed *Form 7B, Declaration of
+> Non-Interference with Time* bearing the Registry's two stamps. No such form is held, and none can be
+> had: the only completed form the Library has seen came with this volume in 1483, was moved to the forms
+> counter of the fourth reading room in 1486, and went with that room on the sixth of March 1487; and the
+> form is issued at that counter and nowhere else, a form stamped once being unstamped, the second stamp
+> not being supplied later. The requirement is the order of the Committee on Standing Matters of the
+> seventeenth of March 1487, made on the day the annual return of lamps discovered the loss, and entered
+> in the catalogue at the reading-room rules, 10. The Committee is exempt from the order while ruling,
+> which is how the Committee has read this volume twice, the order at §0 notwithstanding.
+>
+> *Entered in the Under-Librarian's hand at the front of the volume, and not in the Apparatus, a reader
+> being entitled to meet the condition before the first chapter rather than after the last. Stamped
+> twice. — F. Oll, Under-Librarian*
+
 ## Abstract (as filed)
 
 This volume is a field guide to timecrafting: acting upon an interval, regret as an instrument, and the etiquette of meeting oneself. The chapters are bound in the order of writing, which is neither the order of occurrence nor the order of reading; the latter is given at §0, which stands last because it is to be read first. It was deposited with the only completed *Form 7B, Declaration of Non-Interference with Time* the Library has seen, moved in 1486 to the fourth reading room's forms counter and filed with that room on the sixth of March 1487; the form is now missing twice, and the Library has not asked after it.
