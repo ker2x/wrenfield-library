@@ -229,6 +229,10 @@ The procedure below is the Faculty's, and is to be performed only upon a jinx re
 
 *Errata slip, pasted at p. 96, printed 1494, pasted 1497:* For "the jinx terminates at the first onset" read "the jinx becomes irrevocable at the first of the three marks". The Faculty regrets the error.
 
+*Library's annotation, in a later hand, against §0, 1504:* The section is required by the Faculty's charter and is to remain in every edition, including the fifth. The author's objection is retained with it, and is not to be struck out or softened, a candidate being entitled to protest a rule he has obeyed. The reader is not to be sent from this volume to a primer this Library does not hold; the author's direction is allowed to stand — the Library does not correct an author's cross-reference — and readers who ask for *Jinxes for Dummies* at the desk are to be given **EA 1.1** and **EA 2.4** and no explanation.
+
+*Marginalia, in pencil, hand unidentified, against the Library's annotation above:* A definition made after the injury would not have prevented it, which is the second time in this volume that a thing has been declared too late to be of any use.
+
 *Shelf note, in the Under-Librarian's hand:* Returned four times under HC 1.1 and re-shelved four times. The fourth re-shelving was not the borrower's error. The crate behind the desk contains an octavo which would fit here and may not be catalogued.
 
 *Second reader's comment, on the typed slip pasted to the front board:* Broadly.
