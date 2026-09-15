@@ -200,6 +200,9 @@ will issue the appropriate form, which is Form 7B, which cannot be obtained. See
 - **Plate 6** of **LT 3.7**. Excised. Noted here so that the loss is on the record in two places,
   which is the only security the Library can offer in the matter.
 - **The windows in Reading Room 2.** Closed. Objection noted. Objection will be noted again.
+- **The pollen version of the Licence of Circulation.** Requested by the Faculty of Agricultural Curses,
+  declined by the Registry on the ground of the window. A specimen, dead and pressed, was offered in its
+  place and has not been lodged. See the [Licence of Circulation](LICENSE.md), annex F.
 
 ## Accession Register (most recent entries)
 
@@ -256,9 +259,10 @@ this catalogue's, and are taken from the shelf-list; a volume added to the shelf
 One instrument of the Registry's series a reader may meet without asking for it: the
 [Licence of Circulation](LICENSE.md), under which a volume may be copied, and under which this catalogue
 is itself given — with an annex in which the instrument is set out also in the tongues of the parties, in
-Draconic and in two tongues besides, and declined in writing for the familiars and the fowl. It is classed
-with the Registry's property, it is not a holding, and it is not counted above. It is also the only
-document of the Registry this Library has ever been able to produce on demand.
+Draconic and in two tongues besides, and declined in writing for the familiars, for the fowl, and for the
+Faculty of Agricultural Curses, whose medium is not admitted to the reading rooms. It is classed with the
+Registry's property, it is not a holding, and it is not counted above. It is also the only document of the
+Registry this Library has ever been able to produce on demand.
 
 *The under-signed will stamp this catalogue twice, as is proper, and once more if it is returned
 out of hours.*

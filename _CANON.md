@@ -26,8 +26,12 @@ start at [`CATALOG.md`](CATALOG.md), and the library's front page is [`README.md
   written, with no possessive that shuts out the herd); the **greenhouse tongue** (sentient plants; by
   gesture and leaf, taken down at a keeper's dictation, so a rendition of it is a translation of a
   translation); and **Norman French**, in clauses 13–18 of the Capitular Statutes (`FN 1.1`) and nowhere
-  else. Familiars and fowl have no written tongue; the goose is a tenant of the Chapter at one egg and
-  does not read.
+  else. There is also the **pollen script** of the Faculty of Agricultural Curses, which is a deposit and
+  not a hand: five letters, varying with crop, water and ground, read by shaking them into a diagnosing
+  bottle. The Library doth not admit it to the reading rooms, the windows of Reading Room 2 being shut at
+  that Faculty's own request, and a rendition of the Licence in pollen was requested and declined on the
+  ground of the window (`LICENSE.md`, annex F). Familiars and fowl have no written tongue; the goose is a
+  tenant of the Chapter at one egg and does not read.
 - **Joke engine:** comedy comes from earnestness — fees, forms, consent, liability
   insurance, professional jurisdiction, and peer review — never from winking at the
   reader. The scholars behave like real academics: defensive, precise, and slightly
@@ -470,8 +474,9 @@ its class.
   rendered in Draconic, and settled on the old-line register instead — no invented vocabulary in this
   repository, and a courtesy text would have had to be marked non-governing besides. **That instruction
   was then extended:** the instrument now carries an **annex of renditions** — in Draconic, in the tongue
-  of the Nine Meadows, and in the greenhouse tongue, with the tongues of the familiars and of the fowl
-  declined in writing rather than omitted. Every rendition is marked a courtesy and is expressly
+  of the Nine Meadows, and in the greenhouse tongue, with the tongues of the familiars, of the fowl, and of
+  the Faculty of Agricultural Curses declined in writing rather than omitted, the last of the three on the
+  ground of the window. Every rendition is marked a courtesy and is expressly
   non-governing, the instrument governing wherever the two differ.
   - The annex is the **one place in this repository where vocabulary is invented**, and it is the only
     warrant for it. The Draconic lexicon and particles set out there are binding on any later volume that

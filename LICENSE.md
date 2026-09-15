@@ -190,6 +190,41 @@ Chapter referred the Registry to the statutes themselves: Latin, save clauses 13
 Norman French and have been so since 1274. No rendition is set up for the fowl. No fowl hath asked, the
 reanimated being unable to read, and the Registry is not to be prayed for it.
 
+### F. In Pollen — Not Set Up
+
+The Faculty of Agricultural Curses & Pollen Pathology asked whether the instrument might be set up also in
+its own medium, the Faculty holding that a party which readeth by air is a party which can read, and that
+a licence, of all documents, ought to reach the parties it bindeth. The Registry declined the request, and
+the ground of the refusal is the window.
+
+1. **Pollen is not admitted to the reading rooms.** The windows of Reading Room 2 are shut from the first
+   catkin week to the last oat, at that Faculty's own request [CATALOG, Reading-Room Rules, 3]. A rendition
+   in pollen would be carried in upon the air, and the air is the medium which the Faculty hath required
+   the Library to keep out of that room. The Faculty cannot have the window shut against the pollen of a
+   curse and open for the pollen of an instrument; the air doth not sort them.
+2. **A pollen text must be breathed to be read.** That Faculty's censor readeth a deposit by shaking it
+   into the diagnosing bottle, wherein a curse-pollen decoction clears in eleven minutes and deposits its
+   sigil upon the glass [AC 118.7 / T45 1487, §2]. The Library hath never issued an instrument upon a term
+   of eleven minutes, and will not begin with one that must be inhaled.
+3. **The rendition would require five pollens in a closed room.** The sigil varieth with crop, water and
+   ground — the comb, the faint oat dust, the barley awn, the repeating dust and the inverted bar — of
+   which one hath never been confirmed at Bramblegate bank, and is disputed by the Librarian of that place
+   [AC 118.7 / T45 1487, §2]. The Registry will not set up an instrument in a script whose letters are in
+   dispute.
+4. **What the Library will accept instead.** A specimen, dead and pressed, may be lodged with the
+   instrument and filed, as a catkin is filed at AC 118.7, p. 96, and a barley awn at AC 200.1 / T45 1504,
+   p. 44; and the Library undertaketh, as in those two cases, to decline to remove it. The Faculty may
+   lodge one specimen. It will be entered as a specimen and not as a rendition, and it will not be read
+   aloud.
+
+**The Faculty's minute, entered in its book.** The Faculty hath read the Registry's refusal and enters it.
+It observes that the Library holdeth already two deposits of this Faculty's medium, and hath declined to
+remove either; that the medium is therefore admitted to the building when it is dead and pressed; and that
+a licence which bindeth a party must be capable of reaching it. The Faculty further notes the
+Under-Librarian's objection to the closing of the window of Reading Room 2, recorded annually since 1481,
+and will record its own objection to this refusal, annually, from the present year, in the same words and
+with the same result. **The window is an instrument.**
+
 *Set up in the three reading rooms with the instrument, and in the fourth copy, which lieth at the desk.
 The renditions are courtesies; the instrument is the instrument; and the Registry hath refused a
 paraphrase four times, and will refuse it a fifth.*
