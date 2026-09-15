@@ -30,9 +30,6 @@ issues the following, and notes that all six are in the catalogue, with their co
 | HC 1.1 / M89 1496 | [*A Study on Harmless Curses*](volumes/05_study-on-harmless-curses.md) | The jurisdiction question, argued from the side of Harmless & Decorative Curses, at length |
 | DD 7.2 / O56 1502 | [*Dragon Dentistology*](volumes/06_dragon-dentistology.md) | The only volume in Draconic Dentistry & Comparative Saurian Medicine carrying a patient's own marks |
 
-The second section of the first of the six is where a reader meets the fourth reading room, and the
-reason no Form 7B in this Library has ever been completed.
-
 ## Names that recur in these volumes
 
 - **Form 7B**, *Declaration of Non-Interference with Time* — required with every thesis, present in

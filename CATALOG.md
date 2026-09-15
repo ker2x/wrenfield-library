@@ -222,6 +222,14 @@ letters them. The two classes added by the Library in 1504 are lettered with two
 not presses. **R** is a series and not a faculty: it is the Registry's own, and is where the Registry's
 property is classed, whether or not the Registry can produce it.
 
+A **press** is the case of shelving that holds one faculty's series; it is the scheme's unit, not the
+reader's. A press is numbered with the faculty's own number, and that number is not a place in the room.
+It is also, by long use, the number of the shelf on which the faculty's series begins — which is why a
+press number and a shelf number can be the same figure without being the same thing. Shelves are counted
+from the door within each faculty's range, and a range begins where it begins: three faculties' series
+open at shelf 1, and the Agricultural Curses' opens at shelf 118. What stands first in a call number is
+always a shelf, and never a press.
+
 | series | faculty, or body | press | holdings catalogued above |
 |---|---|---|---|
 | **BH** | Beast Husbandry & Veterinary Thaumaturgy | 12 | 1 |

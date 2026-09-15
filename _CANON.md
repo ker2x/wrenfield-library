@@ -103,7 +103,11 @@ Call number format: `<FACULTY CODE> <shelf>.<position> / <AuthorInitials> <Year>
 | CR | Chronology, Forethought & Regret (Provisional since 1371; one holding only, and that one is a problem) |
 
 Press numbers, per the scheme (`FN 6.1`): BH 12, LT 3, AC 118, JM 6, HC 1, DD 7, DP 44, AN 2, TE 19,
-HS 8, EA 1, DE 22, CR 1. **`CATALOG.md` repeats this table in its annex** (*The Series Letters, and
+HS 8, EA 1, DE 22, CR 1. **A press is the case holding a faculty's series**: its number is the faculty's
+own, not a place in the room, and by long use it is also the number of the shelf where that faculty's
+series begins — so a press number and a shelf number may look alike and are not the same thing. **The
+number before the point in a call number is a shelf, never a press**, and no volume is to be shelved by
+its press number. **`CATALOG.md` repeats this table in its annex** (*The Series Letters, and
 Their Faculties*), with the press numbers and a count of the holdings in each series. A holding added to
 the shelf is added to that count, and to the shelf-list and the accession register with it.
 
