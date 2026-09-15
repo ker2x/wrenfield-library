@@ -133,19 +133,21 @@ Standing gags available to every volume:
 1. **Register:** deadpan, bureaucratic, academic. No modern slang, no anachronism, no
    emoji, no direct address to the reader, no winking asides. The author always believes
    the work is important.
-2. **Length — the full-length standard (binding since the reissue of 1504):** **3,000–5,000 words of
-   body** per volume; treatises, histories and memoranda may run to 8,000. **Scaffolding is capped:**
-   the front-matter block plus the Abstract together must not exceed **250 words**; the References
-   list **200 words** (the shelf-mate disclaimer and the full call numbers are what make it long, and
-   the cross-references are worth more than the tidiness); the Apparatus **300 words**. The body must
-   be at least **80% of the file**.
-   A volume whose apparatus outweighs its substance is not a volume; it is a form. MS and FN holdings
-   run **1,500–2,500 words of body** under the same caps — except `MS 7.1`, the Binder's Note, which
-   is four lines and stays four lines (file 450–750 words, the whole of the growth being the Library's
-   Note).
+2. **Length — there is no length.** A volume is as long as its content is, and no longer: a holding may
+   run to twice the scale below or to half of it, as its subject requires, and a writer who pads to
+   reach a figure or trims to stay under one has mistaken the Library for a press. Nothing here is
+   enforced by counting. What is enforced is §4.4, by reading.
+   *(For scale only, and as a rough estimate of what a holding of a given kind tends to come to: a
+   faculty volume runs 3,000–5,000 words of body; a treatise, history or memorandum may run to 8,000; an
+   MS or FN holding runs 1,500–2,500. Scaffolding — the front-matter block, the Abstract, the References
+   and the Apparatus — is normally about a fifth of a volume, because a volume whose apparatus outweighs
+   its substance is not a volume; it is a form. The References run long in a well-used volume, the
+   shelf-mate disclaimer and the full call numbers being worth more than the tidiness. `MS 7.1`, the
+   Binder's Note, is four lines, and stays four lines.)*
    *The first issue of 1504 was withdrawn. Its volumes ran 900–1300 words, and once the front matter
-   and the abstract were removed, almost nothing remained. The Library has recorded the withdrawal
-   without further comment, and the affected volumes have been reissued.*
+   and the abstract were removed, almost nothing remained — not because the figure was wrong, but
+   because there was nothing beneath it. The Library has recorded the withdrawal without further
+   comment, and the affected volumes have been reissued.*
 3. **Structure:**
    - `# Title` then a `###` subtitle line;
    - a **front-matter block** (see §5) — compact; it is a title page, not a chapter;
@@ -157,13 +159,14 @@ Standing gags available to every volume:
      section must be able to say what the book is about. *(The withdrawn issue failed at this twice:
      `BH 12.4` kept its definition for the last chapter, and `LT 3.7` opened on the theory of glass
      and never stated the craft. Both have been reissued.)*
-   - **8 to 14 numbered sections**, or `## Part I / II / III` with `###` chapters, each with real
-     academic headings and concrete content;
-   - `## References & Shelf-mates` — 4–8 in-world citations, at least two of which are
+   - **numbered sections** — usually eight to fourteen, or `## Part I / II / III` with `###` chapters,
+     or as many as the subject needs — each with real academic headings and concrete content;
+   - `## References & Shelf-mates` — the works actually leaned on, and no more, at least two of them
      **other volumes in this library** (use their call numbers);
    - `## Apparatus` — see §6;
    - where natural, one or two `## Appendix` items of primary material.
-4. **The substance quota — mandatory in every volume.** A volume must contain, inside its body:
+4. **The substance quota — mandatory in every volume, and the only thing here that is counted.** A
+   volume must contain, inside its body:
    - one **worked case told in full** (400+ words): a named practitioner, dates, an error, and a
      consequence;
    - **two data tables**, six or more rows each, captioned, of invented measurements, fees, plates,
@@ -274,8 +277,9 @@ Cross-reference web (use these; do not invent contradictions):
 
 These two classes are **not theses**. No abstract, no degree sought, no advisor, no examiner, no
 Form 7B sentence (the form governs theses; for these, the absence of Form 7B may be *mentioned* once,
-by the Library, not by the author). Length **1,500–2,500 words**, under the same scaffolding caps and
-the same substance quota as §4.2 and §4.4, adapted to the class: for MS the substance is *entries* —
+by the Library, not by the author). Length is not fixed (§4.2); these holdings have tended to come to
+1,500–2,500 words, and a diary may be shorter or longer as its days require. The substance quota is
+§4.4's, adapted to the class: for MS the substance is *entries* —
 more days, more weather, more money, more of the diarist being wrong — and for FN it is *clauses,
 register rows and years*, not commentary. Everything else in §4 still binds: deadpan, British, no
 anachronism, no winking, comedy from specificity.
@@ -365,8 +369,9 @@ Then, in order:
 Every MS/FN file must have: the class's front-matter block in order; the Library's Note; a body in the
 class's voice; `## Shelf-mates (added by the Library)` with at least two real call numbers from this
 library; `## Apparatus` with the violet stamp and the class's signature item (the diarist's own pencil
-note for MS; the meaning-changing annotation for FN). **1,500–2,500 words of body**, under §4.2's caps
-and 80% rule as amended for these classes.
+note for MS; the meaning-changing annotation for FN). **1,500–2,500 words of body** has been the usual
+extent, and is not a requirement: §4.2 governs, and the test is whether every page carries material of
+its class.
 
 ## 9. Provenance (out-of-world — nothing below appears in the library)
 
@@ -383,6 +388,13 @@ and 80% rule as amended for these classes.
   say what mirror walking is. Both instructions are now §4.3, binding on every holding.
 - **The length correction.** The first issue of 1504 was written to 900–1300 words, and once its front
   matter and abstract were removed almost nothing remained. The commissioner's finding is recorded here
-  and nowhere else in the library: the first issue is withdrawn, all forty-nine holdings were reissued
-  to the standard in §4.2, and `README.md` and `CATALOG.md` carry no note of the correction, being
-  library documents and staying in the library's voice.
+  and nowhere else in the library: the first issue is withdrawn, and all forty-nine holdings were
+  reissued at full length with §4.4 met in every one. `README.md` and `CATALOG.md` carry no note of the
+  correction, being library documents and staying in the library's voice.
+- **On the figures in §4.2.** They were first written as caps, and were audited as caps across the
+  shelf. The commissioner's later instruction is that they are estimates and not a rule — a volume may
+  run to twice them or to half of them, as its content requires — and §4.2 has been rewritten
+  accordingly. The five holdings that the count had put outside the old figures (three body proportions
+  just under the old 80 per cent, two apparatus blocks over the old 300 words) are inside the standard
+  as it now stands. **No volume is to be lengthened, cut, or padded to satisfy a number**, and no
+  further count of words is to be taken as a test of anything.
