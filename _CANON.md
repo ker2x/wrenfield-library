@@ -195,7 +195,9 @@ Standing gags available to every volume:
 3. **Structure:**
    - `# Title` then a `###` subtitle line;
    - a **front-matter block** (see §5) — compact; it is a title page, not a chapter;
-   - `## Abstract (as filed)` — 2–4 sentences, pompous, mentions the missing Form 7B;
+   - `## Abstract (as filed)` — 2–4 sentences as a rule, or as many as six where a volume has an edition
+     history to state (`BH 12.4` needs three of its six for 1447, the *firm hand* and the apology); pompous,
+     and it mentions the missing Form 7B;
    - **the first section must say what the subject IS.** Plainly, in terms a reader outside the
      Faculty could follow: what the practice or thing is, what it is *not*, what it is for, and what
      it feels like to do it. If the discipline has a private vocabulary, gloss it in a table at the
