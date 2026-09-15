@@ -123,23 +123,8 @@ The fee of 6 bells was forfeited. The refiling cost 2 bells. The four-clipped-be
 
 ## 9. On Form 7B, Reproduced as Printed
 
-Form 7B is required for every thesis in this library and is missing from every thesis in this library. The reason is procedural and not a defect: the form is issued by one officer only, the Clerk of the Fourth Reading Room, at that room's counter, a hatch in the north wall. It is reproduced as printed.
+Form 7B is required for every thesis in this library and is missing from every thesis in this library. The reason is procedural and not a defect: the form is issued by one officer only, the Clerk of the Fourth Reading Room, at that room's counter, a hatch in the north wall. **It is issued in French**, the office holding that a form issues as it was first drafted, and the French of the only copy known is a register that no one at this University can read — the author excepted, who renders it below and whose rendering is the only one this Library holds. The readable English of the form is the draft copy in the fourth reading room itself, and the fourth reading room is filed.
 
-> **FORM 7B — DECLARATION OF NON-INTERFERENCE WITH TIME.**
-> *(Office of the Clerk of the Fourth Reading Room. Issued at that counter only.)*
->
-> I, the undersigned, being of sound sequence, and not having been at any hour relevant to this declaration otherwise than where I say I was, do declare:
->
-> 1. That I have not interfered with Time, nor caused Time to be interfered with, nor stood by while Time was interfered with by a person I decline to name, the naming being itself an interference.
-> 2. That I have not entered, nor attempted to enter, the fourth reading room, whether by the door in the north wall or by any other means, the wall being two feet four inches thick, of which two feet four inches is wall.
-> 3. That any interval unaccounted for in my day-book is unaccounted for because I was asleep.
-> 4. That I understand this declaration to be required for every thesis, and the thesis of a candidate who has not filed it to be incapable of examination and of refusal.
->
-> Filed at the counter of the fourth reading room, being hatch no. ................ in the north wall, on the ...... day of ......................., 14......, and received by me,
->
-> .................................................................
-> *Counter-Clerk of the Fourth Reading Room*
->
 > **FORM 7B — DECLARATION DE NON-INTERVENTION AVEC LE TEMPS.**
 > *(Bureau du Clerc du Quatriesme Cabinet de Lecture. Baillé audit comptoir et non ailleurs.)*
 >
@@ -155,12 +140,26 @@ Form 7B is required for every thesis in this library and is missing from every t
 > .................................................................
 > *Clerc dudit quatriesme cabinet de lecture*
 
-**The second copy is in French.** The office holds that the form issues as it was first drafted, and
-  that the English above is a rendering the counter has never found the time to certify; the two
-  copies are not to be harmonised, and the Library does not correct either. The four clauses stand
-  in the order of the original.
+**On the two languages.** The French above is the form as issued, and is the only copy known; it is not to be harmonised with anything. The English below is the author's rendering, made for this volume because the copy of the form in English stands in the fourth reading room, with the room; the Library prints the rendering as the author's, does not certify it, and declines to say whether it is faithful.
 
-The signature line of neither copy has ever been filled. The only completed Form 7B known was filed at that counter in 1487 and is not held.
+> *The form rendered into English by the author; the French above is the copy.*
+>
+> **FORM 7B — DECLARATION OF NON-INTERFERENCE WITH TIME.**
+> *(Office of the Clerk of the Fourth Reading Room. Issued at that counter only.)*
+>
+> I, the undersigned, being of sound sequence, and not having been at any hour relevant to this declaration otherwise than where I say I was, do declare:
+>
+> 1. That I have not interfered with Time, nor caused Time to be interfered with, nor stood by while Time was interfered with by a person I decline to name, the naming being itself an interference.
+> 2. That I have not entered, nor attempted to enter, the fourth reading room, whether by the door in the north wall or by any other means, the wall being two feet four inches thick, of which two feet four inches is wall.
+> 3. That any interval unaccounted for in my day-book is unaccounted for because I was asleep.
+> 4. That I understand this declaration to be required for every thesis, and the thesis of a candidate who has not filed it to be incapable of examination and of refusal.
+>
+> Filed at the counter of the fourth reading room, being hatch no. ................ in the north wall, on the ...... day of ......................., 14......, and received by me,
+>
+> .................................................................
+> *Counter-Clerk of the Fourth Reading Room*
+
+The signature line has never been filled. The only completed Form 7B known was filed at that counter in 1487 and is not held.
 
 ## 10. The Fourth Reading Room: The Plans of 1223, the Hours, and the Lamps
 
