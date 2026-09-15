@@ -416,12 +416,22 @@ blocks, italic labels, no headings deeper than `###`, and as many of the kinds b
 hands for — usually several, and never a set assembled to look complete:
 - `*Under-Librarian's stamp, in violet:*` — with a rule about hours, windows, or fines.
 - `*Marginalia, in pencil, hand unidentified:*` — one line, dry, sometimes contradicting
-  the author. This is the volume's best joke; make it land.
+  the author. This is the volume's best joke; make it land. Apparatus marginalia may be written
+  **against another hand's note, wherever that note stands** ("against the Library's annotation in
+  §0"), and should be when the point is that the hands are arguing.
 - `*Errata slip, pasted:*` — an apology for an error that reveals a larger problem.
 - `*Examiner's note:*` — terse, faintly hostile.
 - `*Shelf note, in the Under-Librarian's hand:*` — mis-shelving, or a borrower's
   complaint.
 - `*Second reader's comment:*` — may be, in full, "Broadly."
+
+**The Library's own hand may write in the text rather than in the apparatus**, as a blockquote beneath
+the paragraph it answers, with the standard label inside the quote:
+`> *Library's annotation, in a later hand, written in the margin of this page, <year>:* …`. Use it where
+the note belongs to the page — a rule the Library requires, an objection it answers, a direction it
+will not correct — and let the apparatus say what the form of the book cannot. A blockquote of this
+kind **is not a section**: give it no heading and no number, keep it to a short paragraph, and do not
+move an entry out of the apparatus to make one, the apparatus being where a volume's hands are counted.
 
 ## 7. Volume briefs (author, call number, content, seed jokes)
 

@@ -36,6 +36,8 @@ A reader who has required this section is a reader for whom this volume was not 
 
 Everything below this line assumes the reader has read the paragraph at the head of this section, understood it, and put it out of his mind as a man puts down a tool. He will not be told again what a jinx is.
 
+> *Library's annotation, in a later hand, written in the margin of this page, 1504:* The section is required by the Faculty's charter and is to remain in every edition, including the fifth. The author's objection is retained with it, and is not to be struck out or softened, a candidate being entitled to protest a rule he has obeyed. The reader is not to be sent from this volume to a primer this Library does not hold; the author's direction is allowed to stand — the Library does not correct an author's cross-reference — and readers who ask for *Jinxes for Dummies* at the desk are to be given **EA 1.1** and **EA 2.4** and no explanation.
+
 ## 1. The Advanced Student, Defined
 
 The case that produced this edition is set out in full at §4. On the ninth of Fourthmonth 1488 Perrin Ashcombe, D.P.M., of Low Town, followed a printed interval at p. 44 of the third edition, named his jinx aloud on the seventeenth in the belief that he was preserving a right of reversal, and completed the first mark of the irrevocable in the act of preserving it. The person jinxed, Margery Tull, laundress of the Tenterfields, was never told, discharged the maleficence for nine years, and was assessed at 8 marks 4 bells. Ashcombe had done nothing the Faculty's book did not tell him to do; the fourth edition exists because a handbook that instructs wrongly is worse than no handbook.
@@ -229,9 +231,7 @@ The procedure below is the Faculty's, and is to be performed only upon a jinx re
 
 *Errata slip, pasted at p. 96, printed 1494, pasted 1497:* For "the jinx terminates at the first onset" read "the jinx becomes irrevocable at the first of the three marks". The Faculty regrets the error.
 
-*Library's annotation, in a later hand, against §0, 1504:* The section is required by the Faculty's charter and is to remain in every edition, including the fifth. The author's objection is retained with it, and is not to be struck out or softened, a candidate being entitled to protest a rule he has obeyed. The reader is not to be sent from this volume to a primer this Library does not hold; the author's direction is allowed to stand — the Library does not correct an author's cross-reference — and readers who ask for *Jinxes for Dummies* at the desk are to be given **EA 1.1** and **EA 2.4** and no explanation.
-
-*Marginalia, in pencil, hand unidentified, against the Library's annotation above:* A definition made after the injury would not have prevented it, which is the second time in this volume that a thing has been declared too late to be of any use.
+*Marginalia, in pencil, hand unidentified, against the Library's annotation in §0:* A definition made after the injury would not have prevented it, which is the second time in this volume that a thing has been declared too late to be of any use.
 
 *Shelf note, in the Under-Librarian's hand:* Returned four times under HC 1.1 and re-shelved four times. The fourth re-shelving was not the borrower's error. The crate behind the desk contains an octavo which would fit here and may not be catalogued.
 
