@@ -43,7 +43,11 @@ start at [`CATALOG.md`](CATALOG.md), and the library's front page is [`README.md
 - **Professor Emeritus Quillan Ashgrove-Vane** — author of *Principles of Minor
   Maleficence* (3rd ed. 1440, universally called **"the good one"**; the 4th ed. 1441 is
   not discussed). His written comment on every thesis he second-reads is, in full:
-  **"Broadly."** He is the default second reader.
+  **"Broadly."** He is the default second reader. **The one deviation is `DP 44.9`**, and it is
+  deliberate: on the volume whose subject cannot be named, his comment runs long, praises the work
+  without reserve, and never states what the book is about. **No other volume may carry a comment of
+  his beyond the word** — what the word does everywhere else is work because nothing explains it, and
+  `JM 1.4`'s census of the word is not to be extended to cover this one.
 - **Dr. Ottoline Marchetti-Bell** — has published a document titled *A Correction* to
   forty separate works. Signalled in a footnote, never a character.
 - **The Under-Librarian, Mr. Fenwick Oll** — stamps everything twice, opens windows that
