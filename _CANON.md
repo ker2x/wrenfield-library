@@ -184,11 +184,18 @@ the Committee on Standing Matters, the motion to consult it being item 4. Both a
 MS and FN holdings are **not theses**: they have no abstract, no degree, no examiner, and their
 humour is different — see §8 for the two binding formats and their briefs.
 
-Degrees: **B.A.B.** (Bachelor of Applied Bewilderment), **M.M.M.** (Master of Minor
-Miracles), **M.L.S.** (Master of Liminal Studies), **M.V.T.** (Master of Veterinary
-Thaumaturgy), **M.P.T.** (Master of Paperwork & Tribunal), **D.Th.** (Doctor of
-Thaumaturgy), **D.P.M.** (Doctor of Practical Maleficence), **D.Dent.Th.** (Doctor of
-Dental Thaumaturgy — a degree invented by one man, for one man, in 1502).
+**Degrees**, as invented:
+
+| code | degree | note |
+|---|---|---|
+| **B.A.B.** | Bachelor of Applied Bewilderment | |
+| **M.M.M.** | Master of Minor Miracles | |
+| **M.L.S.** | Master of Liminal Studies | |
+| **M.V.T.** | Master of Veterinary Thaumaturgy | |
+| **M.P.T.** | Master of Paperwork & Tribunal | |
+| **D.Th.** | Doctor of Thaumaturgy | |
+| **D.P.M.** | Doctor of Practical Maleficence | |
+| **D.Dent.Th.** | Doctor of Dental Thaumaturgy | a degree invented by one man, for one man, in 1502 |
 
 Standing gags available to every volume:
 - The **Harmless Jurisdiction Question**: HC and JM have disputed since 1402 whether a
