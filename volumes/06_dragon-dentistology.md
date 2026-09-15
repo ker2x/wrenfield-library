@@ -78,23 +78,27 @@ A compliment that satisfies the formulary is entered in the ledger as an adminis
 
 No examination proceeds without a signed consent form. Dragons sue. In the twenty years to 1501 the Faculty has been respondent in sixty-four actions and has lost fifty-eight, the six successes being actions brought against the wrong Faculty. The form is therefore the principal instrument of the practice, and it is completed in triplicate: one copy for the practitioner, one for the dragon, and one for the dragon's advocate, who attends, will have read it first, and is paid by the Faculty at a rate the Faculty has twice sought to revise.
 
+It is printed below in the register of the old line, and the Faculty may not modernise it. A paraphrase is not the form: of the nineteen actions lost on consent not read aloud, eleven turned upon a practitioner having read the sense of a clause instead of the clause, and the dragon's advocate has only to ask for the words. A shorter form is held for the Fen Drake, who will not sit through the Long; it is a translation, it is filed as one, and it is not to be used above the Fen Drake.
+
 > **FORM DD/19 (ORDINARY, LONG). CONSENT TO DRACONIC DENTAL WORK. IN TRIPLICATE.**
 >
-> I, the undersigned, being a dragon of the line and name written below, and being at this present time in possession of my faculties, my opinions and my own advocate, do hereby consent to be approached, examined, probed, measured, filed, dressed or drawn, as the case may require and as I shall separately agree, by the practitioner named below, upon the terms following:
+> I, the dragon whose line and name are written below, being at this hour in possession of my faculties, mine opinions and mine own advocate, do consent to be approached, examined, probed, measured, filed, dressed or drawn, as the case may require, by the practitioner named below, upon the terms following:
 >
-> First, that the practitioner shall state aloud, before any instrument is uncovered, the whole of what is proposed, and shall state it again at each stage, and that I may stop the work at any stage, for any reason or for none, and that my stopping of it shall not be construed as a breach of this form, nor as a refusal of treatment, nor as a complaint.
+> **First**, that thou shalt declare aloud, ere thou uncover any instrument, the whole of what thou purposest to do, and shalt declare it again at every stage; and that I may stay thy hand at any stage, for reason or for none, and that my staying of it shall not be construed as a breach of this form, nor as a refusal of thy treatment, nor as a complaint against thee.
 >
-> Second, that no anaesthesia other than the compliment shall be administered, that the compliment shall be true in substance, and that I may require it to be repeated once, and once only, in any quarter hour.
+> **Second**, that thou shalt administer no anaesthesia other than the compliment; that the compliment be true in substance; and that I may require it to be spoken again once, and but once, in any quarter of an hour.
 >
-> Third, that the practitioner shall not be accompanied by more than two persons, and that any escort of my own line shall be fed at the Faculty's expense, in the manner and quantity customary, before the work begins and not after it.
+> **Third**, that thou shalt bring with thee no more than two persons; and that any escort of mine own line shall be fed at thy Faculty's charge, in the manner and quantity customary, ere the work begin, and not after it.
 >
-> Fourth, that no measurement taken from my person shall be published, tabulated or read aloud in my hearing until I have been shown the page and have had a night to consider it.
+> **Fourth**, that no measurement taken from my person shall be published, tabulated or read aloud in my hearing until the page be shown me and I have had a night to consider it.
 >
-> Fifth, that I may withdraw this consent at any time, and that withdrawal shall be entered in the ledger by the practitioner's own hand, in the patient's words as nearly as the hand can manage.
+> **Fifth**, that I may withdraw this consent at any hour, and that my withdrawal be entered in thy ledger by thine own hand, in mine own words as near as thy hand can come to them.
 >
-> Sixth, that the fee shall be stated in full before the work begins, in marks, bells and clipped bells, and that no further charge shall be made for the drying of papers.
+> **Sixth**, that thou shalt state thy fee in full ere the work begin, in marks, bells and clipped bells; and that thou shalt make no further charge for the drying of my papers.
 >
-> Signed, in triplicate: the dragon; the practitioner; the advocate. Witnessed by the escort where an escort is present. The form does not substitute for Form 7B, *Declaration of Non-Interference with Time*, obtainable elsewhere, and never in the author's knowledge completed.
+> In witness whereof I set my hand in triplicate — the dragon, the practitioner, the advocate — and the escort where an escort is present.
+>
+> *Printed beneath the dragon's hand, in the Faculty's ordinary hand:* This form does not substitute for Form 7B, *Declaration of Non-Interference with Time*, obtainable elsewhere, and never in the author's knowledge completed.
 
 ## 5. Anaesthesia by Compliment
 
@@ -228,6 +232,8 @@ The plates are drawn by the author's own hand and engraved by Mistress Halloway 
 *Under-Librarian's stamp, in violet:* This volume is not to be taken into the Restricted Stack. The last reader who did so returned it warm, and the Conservator has asked that it be read in the north range, where the draught is.
 
 *Errata slip, pasted, dated 1504:* For "the tear at folio 12 is mended with gum and optimism" read "the whole of pp. 44–71 is water-damaged". The damage was reported as singeing at the time of accession and is not singeing; the Conservator attributes it to a patient who wept upon the fee schedule.
+
+*Marginalia, in pencil, hand unidentified, at the head of the consent form:* The drake's English is better than the Faculty's, and it is the Faculty that must read it aloud.
 
 *Marginalia, in pencil, hand unidentified, at the foot of the fee schedule:* The author charges 1 mark 4 bells for a form he has never once seen completed.
 
