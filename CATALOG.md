@@ -214,6 +214,37 @@ will issue the appropriate form, which is Form 7B, which cannot be obtained. See
 | 1499.31 | — | Reanimation of Household Poultry | licence enclosed, expired, unpaid |
 | 1494.01 | — | **the crate** | see above |
 
+## Annex: The Series Letters, and Their Faculties
+
+A letter at the head of a call number is a series, and a series is a faculty, and the Classification of
+1388 allows no other arrangement of either. The thirteen letters below are the faculties as the scheme
+letters them. The two classes added by the Library in 1504 are lettered with two letters each, and are
+not presses. **R** is a series and not a faculty: it is the Registry's own, and is where the Registry's
+property is classed, whether or not the Registry can produce it.
+
+| series | faculty, or body | press | holdings catalogued above |
+|---|---|---|---|
+| **BH** | Beast Husbandry & Veterinary Thaumaturgy | 12 | 1 |
+| **LT** | Locomotion, Doors & Threshold Studies | 3 | 2 |
+| **AC** | Agricultural Curses & Pollen Pathology | 118 | 2 |
+| **JM** | Jinxcraft & Minor Maleficence | 6 | 3 |
+| **HC** | Harmless & Decorative Curses | 1 | 3 |
+| **DD** | Draconic Dentistry & Comparative Saurian Medicine | 7 | 1 |
+| **DP** | Divination & Improbable Prediction | 44 | 3 |
+| **AN** | Applied Necromancy (provisional) | 2 | 2 |
+| **TE** | Thaumaturgical Engineering & Load-Bearing Runes | 19 | 2 |
+| **HS** | Herbology & Sentient Botany | 8 | 1 |
+| **EA** | Ethics, Appeals & Paperwork | 1 | 9 |
+| **DE** | Domestic Enchantment | 22 | 5 |
+| **CR** | Chronology, Forethought & Regret (provisional since 1371) | 1 | 1 |
+| **MS** | Manuscripts & Personal Papers (added by the Library, 1504) | — | 7 |
+| **FN** | The Foundation Collection (added by the Library, 1504) | — | 7 |
+| **R** | the Registry (a series without a faculty) | — | not catalogued here |
+
+Of the forty-nine holdings catalogued above, thirty-five stand in the thirteen faculties, seven in MS and
+seven in FN. The press numbers are the scheme's and are not this catalogue's to alter. The counts are
+this catalogue's, and are taken from the shelf-list; a volume added to the shelf is added to them.
+
 *The under-signed will stamp this catalogue twice, as is proper, and once more if it is returned
 out of hours.*
 

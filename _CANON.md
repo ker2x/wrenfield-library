@@ -102,6 +102,11 @@ Call number format: `<FACULTY CODE> <shelf>.<position> / <AuthorInitials> <Year>
 | DE | Domestic Enchantment |
 | CR | Chronology, Forethought & Regret (Provisional since 1371; one holding only, and that one is a problem) |
 
+Press numbers, per the scheme (`FN 6.1`): BH 12, LT 3, AC 118, JM 6, HC 1, DD 7, DP 44, AN 2, TE 19,
+HS 8, EA 1, DE 22, CR 1. **`CATALOG.md` repeats this table in its annex** (*The Series Letters, and
+Their Faculties*), with the press numbers and a count of the holdings in each series. A holding added to
+the shelf is added to that count, and to the shelf-list and the accession register with it.
+
 ### The 1504 Extension: classes MS and FN
 
 In 1504 the Library extended the Classification of 1388 with two further classes, without consulting
