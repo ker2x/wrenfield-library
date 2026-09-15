@@ -11,28 +11,27 @@
 - **Accession:** Wrenfield Accessions 1501.44
 - **Collation:** 118 pages, 22 plates
 - **Condition:** Sound. Plates 14–17 bear hoof-prints. Annotations in two hands, one not the author's.
+- **Form 7B:** *Declaration of Non-Interference with Time*. It was to have been filed with this essay; it is not present in the copy deposited, and the Registry has been informed twice.
 
 ## Abstract (as filed)
 
 This work describes the grooming of the centaur: what grooming is, the order of operations, the implements
 of each stage, and the questions to be asked before any stage.
 
-It is the third edition, and it exists because the first was wrong.
-
-That edition was printed in 1447 by Emeric Voss, who assumed a centaur would welcome a groom, never put the
-question to one and by the record never spoke to one; its *firm hand*, taken from its plates in 1499, broke
-the collar-bone and the forearm of a four-year-old of the Nine Meadows.
+It is the third edition, and it exists because the first was wrong and the second edition was a
+reprint of the first with a corrected title page.
 
 The apology for 1447 is the substance of this edition, and it is made with the cooperation of the subject:
 whose foreword the volume carries, who annotated the first edition's four plates himself (Appendix A), and
 who gave this edition, chapter by chapter, the marks kept at Appendix B — nine for the apology, and not
 accepted; his letter stands at §XIII.
 
-The second edition, a reprint of the first with a corrected title page, is superseded, and the definition of
-the craft stands at the front of this one, where the withdrawn impression of 1504 placed it last, that a
-reader may refuse it before beginning. Form 7B, *Declaration of Non-Interference with Time*, was to have
-been filed with this essay; it is not present in the copy deposited, and the Registry has been informed
-twice.
+The first edition was printed in 1447 by Emeric Voss, who assumed a centaur would welcome a groom,
+never put the question to one and by the record never spoke to one; its *firm hand*, taken from its
+plates in 1499, broke the collar-bone and the forearm of a four-year-old of the Nine Meadows.
+
+Additionally, the definition of the craft stands at the front of this edition, that a reader may refuse it
+before beginning.
 
 ## I. What Grooming Is
 
