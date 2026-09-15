@@ -32,7 +32,7 @@ The Faculty requires the definition at the front of the work, and prints the req
 | curse | a maleficence of another class, of which the Faculty of Harmless & Decorative Curses maintains the register | not here; the classes are not the same and the jurisdiction question is another Faculty's |
 | the Harmless Jurisdiction Question | whether a jinx that causes no harm is a curse | §6, and I do not propose to settle it in §0 |
 
-A reader who has required this section is a reader for whom this volume was not written. He should put it down and take up the first-year primer, *Jinxes for Dummies*, the Aldermarket manual licensed for his use, which explains all of the above at greater length, with diagrams, and with an indulgence I have not the years for. That book is not held at this library. I am told it is held at every other library the reader is likely to visit, and that it is cheap; I am told also that the Aldermarket series has withdrawn it, which is the sort of news a man receives with relief. **The reader who wants *Jinxes for Dummies* will not find it here. The reader who needs it will find he is holding the wrong volume.**
+A reader who has required this section is a reader for whom this volume was not written. He should put it down and take up the first-year primer, *Jinxes for Dummies*, which explains all of the above at greater length, and with an indulgence I have not the years for. **The reader who needs it will find he is holding the wrong volume.**
 
 Everything below this line assumes the reader has read the paragraph at the head of this section, understood it, and put it out of his mind as a man puts down a tool. He will not be told again what a jinx is.
 
