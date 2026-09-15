@@ -278,7 +278,9 @@ Standing gags available to every volume:
         opens on a subject it cannot quite name is *not* the withdrawn issue, which opened on nothing.
         The test to keep in mind: `04` had no definition and the gap was a defect and is now filled; `05`
         argues its way to one, so the work is the definition; `07` has none by design, on a subject its own
-        Library cannot name, and is entered as an exception rather than repaired.
+        Library cannot name, and its exception is registered here and in no volume — no Library note is to
+        be written into `07` for the purpose, because a volume that will not state its subject will not
+        state a rule about stating it.
    - **numbered sections** — usually eight to fourteen, or `## Part I / II / III` with `###` chapters,
      or as many as the subject needs — each with real academic headings and concrete content;
    - `## References & Shelf-mates` — the works actually leaned on, and no more, among them
