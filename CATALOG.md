@@ -53,6 +53,14 @@ work in this Library that is also an apology.
 9. The Registry's clock is not to be wound. The crate is not to be opened. The draught in the north
    corridor is not to be stopped. Enquiries on all three are to be made in writing, and are answered
    on the second.
+10. **CR 1.1 is not to be consulted or borrowed** without a completed *Form 7B, Declaration of
+    Non-Interference with Time*, bearing the Registry's two stamps. No such form is held. The only
+    completed form the Library has seen was filed with the fourth reading room on the sixth of March
+    1487 and went with it; the form is issued at that room's counter and nowhere else [**EA 1.1**, §9],
+    and a form stamped once is unstamped, the second stamp not being supplied later [**EA 1.1**, rule 6].
+    The requirement is the order of the Committee on Standing Matters of the seventeenth of March 1487,
+    made on the day the annual return of lamps discovered the loss. The Committee is exempt from it while
+    ruling, which is how the Committee has read the volume twice.
 
 ## Borrowing and Fines
 
@@ -62,6 +70,7 @@ work in this Library that is also an apology.
 | Undergraduate | 1 | 7 days | 1 clipped bell per day |
 | Graduate student | 2 | 14 days | 1 clipped bell per day |
 | Any borrower, Reserve Collection | 0 | — | 2 bells per day, consultation only |
+| Any borrower, **CR 1.1** | 0 | — | not lent; consulted only on a completed Form 7B, stamped twice (rule 10), and none is held |
 | Borrower deceased before return | — | — | waived on production of the certificate |
 
 Items are not to be reshelved by readers. The DP range in particular is not to be reshelved by
@@ -86,7 +95,7 @@ how the matter began.
 | **DE 5.5 / P48 1497** | How to Lose a Familiar Politely | P. Pell, M.M.M. | 1497 | On shelf. Charged to B. of the Nine Meadows; overdue by four days |
 | **DP 12.8 / R63 1489** | Weather for the Recently Deceased | E. Rook, D.Th. | 1489 | On shelf. Annotated by a reader who was comforted |
 | **DE 22.2 / O55 1504** | The Care and Feeding of Library Poltergeists | compiled by F. Oll, Under-Librarian | 1504 | On shelf. Do not remove |
-| **CR 1.1 / — 1483** | **DO NOT READ**: A Field Guide to Timecrafting | anonymous; *by the author, who is not yet born* | 1483 | On shelf in the CR range, spine to the wall. Bound out of order. Do not read in numerical order |
+| **CR 1.1 / — 1483** | **DO NOT READ**: A Field Guide to Timecrafting | anonymous; *by the author, who is not yet born* | 1483 | On shelf in the CR range, spine to the wall. Bound out of order. Do not read in numerical order; consultation and loan by rule 10, and no completed Form 7B is held |
 | **EA 2.4 / P54 1504** | On the Mis-Filing of the Fourth Reading Room | C. Pike, M.P.T. | 1504 | On shelf. The most recent accession. The second plan no longer folds; the clock is drawn in the author's hand |
 | **JM 1.4 / F58 1504** | On the Comment "Broadly." | H. Fane, D.Th. | 1504 | On shelf. Annotated at §5 in an unidentified pencil hand: the writer asked three examiners and the clock, and the clock was the only one that answered |
 | **LT 3.9 / B72 1504** | Where Mr. Nott Is | Y. Bramm, M.L.S., D.Th. | 1504 | On shelf. Water-damaged at the lower margin, repaired at the corner; annotated in three hands, the third dated forty years after the imprint |
@@ -182,10 +191,12 @@ will issue the appropriate form, which is Form 7B, which cannot be obtained. See
   length in **DP 44.9** and explained in **EA 1.1**, and the explanation is procedurally correct.
 - **The completed Form 7B.** One exists, or existed — the only one in the University's history. It was
   deposited with **CR 1.1** in 1483, transferred to the forms counter of the fourth reading room in
-  1486 for verification, and filed with the room on the sixth of March 1487. It is not with the volume.
-  The Library has not searched for it, on the advice of the Committee, which is the only body that
-  could authorise a search and which declines on the grounds that the search may already have taken
-  place.
+  1486 for verification, and filed with the room on the sixth of March 1487. It is not with the volume,
+  and by rule 10 it cannot be replaced on the volume's behalf: a completed form, stamped twice, is
+  required to consult or borrow **CR 1.1** itself, so that the one holding in this Library which may not
+  be read is the holding the form was deposited with. The Library has not searched for it, on the advice
+  of the Committee, which is the only body that could authorise a search and which declines on the
+  grounds that the search may already have taken place.
 - **The fourth reading room.** In the plans since 1223 and in the building until the sixth of March
   1487, when it was filed under R in the reordering of the Registry, together with its counter, its
   lamp, the completed Form 7B, and the Library's only copy of *Form 7B for Dummies*. The space it
