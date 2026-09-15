@@ -25,7 +25,7 @@ The question is put as *where is Mr. Nott*, by persons expecting an answer of th
 
 A person is lost when he is nowhere, and no one is looking in the right place. Mr. Nott is somewhere. The Faculty offers four findings.
 
-1. The demonstration of 6 May 1461 was held on a stand bolted into the floor of the third-floor landing, against a silvered glass of the pattern of 1470. The frame of 1461 was warped, and had been trued twice. A warped frame does not answer; it corresponds. Mr. Ferrer's rule of 1498 binds this Faculty: the frame that answers is not always the frame that was addressed.
+1. The demonstration of 6 May 1461 was held on a stand bolted into the floor of the third-floor reading room, against a silvered glass of the pattern of 1470. The frame of 1461 was warped, and had been trued twice. A warped frame does not answer; it corresponds. Mr. Ferrer's rule of 1498 binds this Faculty: the frame that answers is not always the frame that was addressed.
 2. Every threshold measured twice here has measured differently the second time. The fourth reading room was measured in 1401 and in 1484, and is shorter by eleven feet. The surveyors of 1484 recorded the north wall as two feet four inches thick, of which two feet four inches is wall.
 3. On the eleventh day after the filing of 6 March 1487, the annual return of lamps found five lamps unaccounted for, with their counter, in the wrong series. The Registry offers no explanation and the Faculty accepts none.
 4. Mr. Nott's library card remains active. It was presented at the Reserve Collection desk on 14 September 1502, by a hand not his own, and returned. The day-book records the card and not the person, which is now its standing evidence.
@@ -58,7 +58,7 @@ The Register is kept in two copies, in the Registry under R and in the Faculty's
 
 | Name | Year | Surface | Last sighting | Recovered |
 |---|---|---|---|---|
-| Mr. Percival Nott | 1461 | Mirror, third-floor landing | On the stand, steadying the frame | No |
+| Mr. Percival Nott | 1461 | Mirror, third-floor reading room | On the stand, steadying the frame | No |
 | Mr. Casper Nunn the elder | 1468 | Catalogue press, lower hall | At the press, with the drawer open | No |
 | Miss Orra Finch | 1471 | Reading Room 2, east window | At the sill, with a lamp | Yes — fourth reading room |
 | Mr. Halvard Kemp the younger | 1399 | His father's arch, Bell Court | Under the arch, at the keystone | No |

@@ -265,6 +265,31 @@ Standing gags available to every volume:
    They are not the author's citations, and the author is not answerable for them.* (Vol. 07 uses a
    variant of this line, being the extreme case; see [`CATALOG.md`](CATALOG.md).) Apparatus items — marginalia,
    stamps, pasted errata, shelf notes — may be dated later than the imprint, and often should be.
+   - **The glass and the room: a ruling, and it is deliberate — do not harmonise it.** `LT 3.7` §II has
+     the Faculty **teaching in the fourth reading room for the thirty-two years** up to 1487 and that room
+     holding "**the only such glass in the University**"; the same volume's §XII annex, `MS 1.1`'s dated
+     entries and its notice of demonstration put the **demonstration of 1461 in the third-floor reading
+     room**. Read plainly the two cannot both hold, unless the glass was moved between the rooms and no
+     instrument of the move was made. **The collision is intentional, and it stays.** It is the room-shaped
+     form of the same refusal the volume already prints threefold for the date — three dates given and none
+     chosen, "agreement not being a property of witnesses." Both are documents of the same institution and
+     neither is defective, which is the point: **the Faculty cannot say which room the glass was in because
+     saying so would require an instrument of its removal, and the Library's papers on the north range are
+     in the plan chest that is filed inside the room** (`FN 2.1`; `EA 2.4` §10). The impossibility is
+     in-world and stands as a finding, not an oversight.
+     - **What is forbidden is resolving it, from either end.** No later hand is to add the missing
+       movement, to date the glass's translation, or to reconcile §II with the annex; and no hand is to
+       move the demonstration of 1461 out of the third-floor reading room to make §II plain. The volume's
+       own hedge is the settled wording and is not to be sharpened: "**That room is not the fourth room;
+       the Faculty has never been able to say in what respect it fails**" (`LT 3.7` §II).
+     - **What must nevertheless stay apart, and stay opposed.** The *known facts* of the two rooms are not
+       ambiguous and are not to be blurred: the **counter, Form 7B, the completed form and the filing of
+       6 March 1487 belong to the fourth room only**; the **draped mirror and the still air belong to the
+       third**; and `LT 3.9` §10 keeps them apart in its own phrasing ("the third reading room at the
+       third bell, **where the counter is not**"). The ambiguity is about a hand and a possession, never
+       about which room a documented act occurred in. `LT 3.9` and `MS 1.1` now name it the third-floor
+       **reading room** throughout; the Register names a surface and not a room, and the earlier "landing"
+       variant is spent.
    - **The permanent exception: `CR 1.1` is not to be fixed. Leave the volume as it stands.** The *Field
      Guide* is imprinted 1483, and its abstract **as filed** narrates the Form 7B's move to the fourth
      reading room's counter in **1486** and its filing with that room on **6 March 1487**, in the
