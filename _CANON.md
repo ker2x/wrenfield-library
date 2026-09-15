@@ -420,3 +420,10 @@ its class.
   just under the old 80 per cent, two apparatus blocks over the old 300 words) are inside the standard
   as it now stands. **No volume is to be lengthened, cut, or padded to satisfy a number**, and no
   further count of words is to be taken as a test of anything.
+- **What the front page may carry.** `README.md` is a library document and is read as one: the shelf's
+  own framing, the map of the files, and the Under-Librarian's six for a first reader. It carries **no
+  dramatis personae, no list of recurring jokes or fixtures, and no reading order** — the commissioner
+  struck a "Names that recur" section and a line telling the reader which section to read first, both
+  being the author's notes rather than the Library's. A name that recurs is met in the catalogue and in
+  the volumes, where it belongs. `CATALOG.md` is the Library's own card catalogue: holdings, rules,
+  classification, matters outstanding, and never the fiction's fixtures as such.
