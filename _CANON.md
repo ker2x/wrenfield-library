@@ -300,6 +300,20 @@ Standing gags available to every volume:
      return is a fault in the frame, and the Faculty charges for it. `LT 3.9` §3's register must carry her
      1493 entry — its only row in miles and its only return fault, omitted until the edition of 1504 — so
      that a reader who meets the register after §I's denial can see how both are true.
+   - **The Library's own papers stand with the faculties they report to, and that is now settled.** Four
+     holdings are the Library writing about itself and are classed elsewhere: `DE 22.3` *On Ventilation*
+     and `DE 22.2` *The Care and Feeding of Library Poltergeists* (Oll, Under-Librarian), `DE 30.1` *The
+     Books That Read You Back* (Nunn, Deputy Under-Librarian) and `DE 31.1` *Condition Survey of the
+     Shelf* (Cray, Conservator). By clause 7 of the Classification of 1388 they would sit in no faculty's
+     series, and there is no series for the Library: clause 1 gives a series to each of the thirteen
+     faculties only, clause 2 gives the letter R to the Registry, and clause 12 leaves the annexation of
+     a non-faculty class to the Library, which has annexed none. **Keep them where they are.** The
+     catalogue, the shelf-list and the volumes citing them are not to be re-lettered, and no new series
+     is to appear on the shelf; the drift is the joke, not a defect. The motion for a Library series is
+     entered in `FN 6.1` in the Under-Librarian's note against clause 9 as **made and never reached**,
+     and it is to stay unreached for the same reason item 4 stays unreached. Two things must not be
+     written: that the Library's papers are domestic enchantment, and that the Library has refused itself
+     a series — a motion not reached is not a motion refused.
 7. **Chronology:** a volume may not *cite* a work later than its own imprint as the author's own
    citation. Where an early volume needs a later shelf-mate, its reference list must open with the
    standard line: *Shelf-mate entries in the list below were added by the Library in later hands.

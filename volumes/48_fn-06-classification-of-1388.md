@@ -108,4 +108,12 @@ This is the scheme by which every book in this Library is placed, marked and fou
 
 *Marginalia, in pencil, hand unidentified, against clause 7:* Three faculties have ruled on the *Harmless Acts* since 1402, each ruling that the matter belongs to one of the other two; the book stands where it was placed, and the pencil cross beneath is a faculty's, and not a mark.
 
+*Under-Librarian's note, in violet, pasted against clause 9:* The clause requires a motion, and a motion of mine, and I have made it. The particulars are four: *On Ventilation* and *The Care and Feeding of Library Poltergeists*, both mine and both at DE 22; the *Interim Report* of the Deputy Under-Librarian at DE 30.1; and the *Condition Survey* of the Conservator at DE 31.1. Every one of the four is a paper of this Library about this Library, and every one stands in Domestic Enchantment, which is the class of kettles and collars and the household poltergeist, and our papers stand there because there is nowhere else for them to stand. I put it no higher than this: clause 2 gives the letter R to the Registry, and the Registry is not a faculty; the Registry's property is classed because it must be found. Ours must be found also. The motion was made at the Michaelmas sitting of 1504 and was not reached; it was made again at the sitting following and was not reached again. I record that it was made, and that the record is here because this is the volume it would amend.
+
+*Marginalia, in pencil, hand unidentified, beneath the note against clause 9:* The Registry's letter is the letter of a paper. The Library's would be the letter of the place the paper is kept in. Let them move the motion; the Chapter will have to say which.
+
+*Marginalia, in pencil, in the same hand, at the foot of the note:* Four volumes, and no two of them by the same officer; the Library writes more than it classes.
+
+*Library's annotation, in a later hand, against clause 9, dated 1504:* The four are read and are to keep their present letters. Where a series is not made, the mark stands, and a mark that stands is not a fault. The motion is entered as made and not reached, and is not to be entered as refused, a motion not reached not being a motion refused.
+
 *Conservator's line:* Iron-gall burning at folio 7, R, stable but friable; interleave the unwritten leaf; the smell is not to be treated.
