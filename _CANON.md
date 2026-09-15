@@ -71,43 +71,41 @@ Library's own instruments states this, and no volume is to state it in its own v
 what is *actually* the case, and the joke depends on the Library never getting there. **The
 room's non-existence is the result of a timecrafting incident**, not of the Classification,
 the Registry, Mr. Pike, or the reordering of 1487.
-  - **It is undecidable, and must stay undecidable: it cannot be established whether the
-  room has existed in the future or will disappear in the past.** Nobody — Library,
-  Registry, Faculty of Chronology, the author of `CR 1.1`, and not the commissioner either —
-  is to be given a frame of reference that fixes which. The room is displaced in time; from
-  the building's standpoint it is coming or going, and no document may say which. Keep the
-  two readings alive in every mention, and never let a volume's own guess harden into the
-  world's answer.
-  - **Therefore every date inconsistency that concerns this room is consistent, and is not
-  to be corrected.** The licence is wide and deliberate: where the room is in question, two
-  dates that cannot both hold may both stand; a measurement may differ from itself; a
-  witness may see three desks where a plan draws four; a thing may be in two places in one
-  year. This is the same class of permission as the three dates of 1461 and the ruling at
-  §4.6 on the glass, and it supersedes any instinct to reconcile, average, or audit them
-  into order. **An auditor who finds an inconsistency about this room has found the room,
-  not a defect.**
+  - **It is undecidable now, and that is a state and not a statute.** Whether the room has
+  existed in the future or will disappear in the past cannot be established from anything on
+  this shelf, and no volume offered as evidence is likely to establish it; but a later volume
+  may raise the possibility, may argue it, and may take a side. The incident is in the same
+  case: it may have happened already, and it may lie ahead. **What the shelf must not do is
+  settle it** — nothing fixes the direction, and no volume is to be built on an answer that
+  does not exist.
+  - **Therefore every date inconsistency that concerns this room is consistent, and is not to
+  be corrected.** The licence is wide and deliberate: where the room is in question, two dates
+  that cannot both hold may both stand; a measurement may differ from itself; a witness may
+  see three desks where a plan draws four; a thing may be in two places in one year. This is
+  the same class of permission as the three dates of 1461 and the ruling at §4.6 on the glass,
+  and it supersedes any instinct to reconcile, average, or audit them into order. **An auditor
+  who finds an inconsistency about this room has found the room, not a defect.**
   - **It is a symptom list as well as a permission.** The shelf's existing oddities are the
   room's behaviour, not its documentation: the north wall thickening a quarter-inch a year
   under six measurements (1401–1484) and its impossible description — "two feet four inches
-  thick, of which two feet four inches is wall" (`FN 2.1`); the surveyor of 1462 who found
-  no door outside and none in; the river window whose water runs uphill from the river
-  (`FN 2.1`, sheet 6); the room shorter by eleven feet between 1401 and 1484 (`LT 3.9` §2); Miss
-  Finch seeing three desks in 1471 and the counter entered among the lost walkers (`LT 3.9`
-  §4); the smell since March 1487; and the clock stopped at forty-one minutes past two. New
-  symptoms in this family are welcome, and are the room's, and are not to be explained away.
+  thick, of which two feet four inches is wall" (`FN 2.1`); the surveyor of 1462 who found no
+  door outside and none in; the river window whose water runs uphill from the river (`FN 2.1`,
+  sheet 6); the room shorter by eleven feet between 1401 and 1484 (`LT 3.9` §2); Miss Finch
+  seeing three desks in 1471 and the counter entered among the lost walkers (`LT 3.9` §4); the
+  smell since March 1487; and the clock stopped at forty-one minutes past two. New symptoms in
+  this family are welcome, and are the room's, and are not to be explained away.
   - **The sharpening, for whoever writes next.** The room was held in place by the thing the
   Faculty brought into it — a room the walker can bar is a room that will hold still while a
   crossing is made (`LT 3.7` §II) — and the breaking of that hold in **1461** is the natural
   year for the destabilising, the demonstration being the day the frame would not answer.
   Everything else follows: the eleven days before anyone noticed, the impossibility of
   certifying the loss ("a thing extant is not capable of being certified lost but only
-  mislaid", `EA 6.1` §50), the draught that is not to be stopped — the air of a place with
-  no outside — and the river window that looks upon water that is not there. **The
-  Registry's account is the best that can be made from documents, and it is wrong about the
-  cause**; `EA 2.4` §3 is right that the filing was correct, and wrong that the
-  Classification did it. No in-world text is ever to convict the filing of the
-  disappearance, and the Committee is never to reach item 4 — a motion that, once reached,
-  would have to be answered.
+  mislaid", `EA 6.1` §50), the draught that is not to be stopped — the air of a place with no
+  outside — and the river window that looks upon water that is not there. **The Registry's
+  account is the best that can be made from documents, and it is wrong about the cause**;
+  `EA 2.4` §3 is right that the filing was correct, and wrong that the Classification did it. No
+  in-world text is ever to convict the filing of the disappearance, and the Committee is never
+  to reach item 4 — a motion that, once reached, would have to be answered.
 - **Mr. Anselm Pike**, Junior Clerk (Third Class, Unconfirmed), who performed the filing. Being
   unconfirmed, no charge could lie against him; the Registry's remedy where no charge lies is
   promotion; promoted 1491, confirmed 1494, retired 1500 on a pension of 3 marks never removed from
