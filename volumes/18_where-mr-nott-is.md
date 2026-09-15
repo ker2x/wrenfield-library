@@ -185,6 +185,8 @@ The Faculty returns to the question with which it began. Mr. Nott is not lost. H
 
 ## Apparatus
 
+*Marginalia, in pencil, in a second hand, at the foot of §1:* It is worth setting down, since the Faculty will not, that the volume which scries for the missing second part of a work (DP 44.9, *On the Non-Existence of the Second Volume*, 1301) is entered without a subject, and that the author to whom it is attributed may be the reader at the second desk. The work describes an absence in a work; the author has been absent since 1461; and both absences are in the same class, that being the sort of thing this Faculty declines to notice.
+
 *Marginalia, in pencil, hand unidentified, at §6, dated in the margin 1544:* The reader at the second desk is still there. The manual is an octavo, the boards are rubbed, the drawer is still shut, the clock is still at one-and-forty minutes past two, and he has not looked up in forty years.
 
 *Under-Librarian's stamp, in violet, dated 4 ix 1504:* Entered for the fourth reading room at the reader's request, which is declined. The room is bookable; the reader is not. The counter is with the room, the form at the counter, the hour at the third bell.
