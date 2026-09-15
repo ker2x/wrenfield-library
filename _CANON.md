@@ -93,8 +93,8 @@ start at [`CATALOG.md`](CATALOG.md), and the library's front page is [`README.md
     past two. New symptoms in this family are welcome, and are the room's, and are not to be explained away.
   - **The sharpening, for whoever writes next.** The room was held in place by the thing the Faculty
     brought into it — a room the walker can bar is a room that will hold still while a crossing is made
-    (`LT 3.7` §II) — and the fixing of that instrument in **1461** is the natural year for the destabilising,
-    the demonstration being the day the frame would not hold. Everything else follows: the eleven days
+    (`LT 3.7` §II) — and the breaking of that hold in **1461** is the natural year for the destabilising,
+    the demonstration being the day the frame would not answer. Everything else follows: the eleven days
     before anyone noticed, the impossibility of certifying the loss ("a thing extant is not capable of being
     certified lost but only mislaid", `EA 6.1` §50), the draught that is not to be stopped — the air of a
     place with no outside — and the river window that looks upon water that is not there. **The Registry's
