@@ -16,7 +16,7 @@
 
 ## Abstract (as filed)
 
-This report surveys the sixteen holdings of the shelf and the one standard in the dry season of 1504, treats where required and declines where not, and gives the grounds of each declining at §8. Two holdings, AN 2.3 and CR 1.1, are surveyed and not described. *Form 7B, Declaration of Non-Interference with Time*, is absent from the file, and is not a condition of the shelf.
+This report surveys sixteen of the holdings of the shelf, and the one standard, in the dry season of 1504, treats where required and declines where not, and gives the grounds of each declining at §8. Two holdings, AN 2.3 and CR 1.1, are surveyed and not described. *Form 7B, Declaration of Non-Interference with Time*, is absent from the file, and is not a condition of the shelf.
 
 ## 1. What a Condition Survey Is
 

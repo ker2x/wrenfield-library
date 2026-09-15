@@ -16,7 +16,7 @@
 
 ## Abstract (as filed)
 
-This handbook sets out the ninety-nine forms by which small grievances are raised: the fee in bells, the counter at which each is filed, the doctrine of the correct counter, and the six rungs of escalation. Of the 3,481 grievances lodged in 1492, 3,479 were accepted. The two refused were refused for want of a Form 7B, which is missing from this file and cannot be obtained, for the reason given at §9.
+This handbook sets out the ninety-nine forms by which small grievances are raised — twenty-five of them in full, the rest by reference — with the fee in bells, the counter at which each is filed, the doctrine of the correct counter, and the six rungs of escalation. Of the 3,481 grievances lodged in 1492, 3,479 were accepted. The two refused were refused for want of a Form 7B, which is missing from this file and cannot be obtained, for the reason given at §9.
 
 ## 1. The Doctrine of the Correct Counter
 
@@ -70,7 +70,7 @@ The ladder has six rungs; their order may not be varied, even where a lower rung
 
 | Rung | Instrument | Officer | Fee | Days | Has it ever succeeded? |
 |---|---|---|---|---|---|
-| 1 | The form, stamped twice | Clerk of the counter of filing | The fee of the form | Same day, if before the hour | Yes: 3,479 files accepted in 1492 |
+| 1 | The form, stamped twice | Clerk of the counter of filing | The fee of the form | Same day, if before the hour | Yes: of 3,481 lodged in 1492, 3,479 accepted |
 | 2 | Counter Schedule | Clerk of that counter | 1 bell | Nine days, in practice twenty | Yes, of routine |
 | 3 | Counter Review | The Counter Officer, alone | 3 bells | Thirty days, extendable once | Yes: 214 upheld in 1492 |
 | 4 | Faculty Screening | Screening Clerk, EA | 12 bells | Sixty days from the file being found | Yes: 41 files passed to rung five |

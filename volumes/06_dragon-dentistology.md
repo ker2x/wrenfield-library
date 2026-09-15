@@ -16,7 +16,7 @@
 
 ## Abstract (as filed)
 
-This manual sets out draconic dental practice as it is properly conducted: examination, consent, anaesthesia, measurement, restoration, and fees. It reports enamel thickness for four draconic forms, a fee schedule in marks, bells and clipped bells, the examination sequence in full, and the litigation record of the Faculty to the year of imprint. Form 7B, *Declaration of Non-Interference with Time*, is not filed with this volume, nor with any volume here.
+This manual sets out draconic dental practice as it is properly conducted: examination, consent, anaesthesia, measurement, restoration, and fees. It reports enamel thickness for six draconic forms, in four dentitions, a fee schedule in marks, bells and clipped bells, the examination sequence in full, and the litigation record of the Faculty to the year of imprint. Form 7B, *Declaration of Non-Interference with Time*, is not filed with this volume, nor with any volume here.
 
 ## 1. Upon the Word Dentistology
 
