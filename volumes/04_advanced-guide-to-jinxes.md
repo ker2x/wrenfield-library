@@ -18,6 +18,24 @@
 
 The jinx is the only malefic operation in common use which its practitioner performs before deciding to perform it. This edition adds chapters on latency and the eight classes, the withdrawal of the third edition in 1488, a schedule of onsets with the fee for reversal, the accreditation requirements of 1494, and a reply to the Faculty of Harmless & Decorative Curses. Form 7B is not present in the copy deposited, and the author has left the matter to the Committee on Standing Matters, which has not met since 1489.
 
+## 0. What a Jinx Is, Which the Reader Should Not Need
+
+A jinx is a maleficence of the minor classes, uttered over a person, whose operation runs from the utterance to the onset and **not from the intention of the practitioner to the result**. The practitioner need not intend the effect and need not expect it; the utterance being made, the jinx is made. That is the whole of the elementary doctrine, and it is the doctrine upon which every chapter of this handbook depends, §3 most of all, where the marks of reversal are given: a thing that has begun cannot be recalled by the person who began it, and no declaration made after the onset has ever reversed one. Nothing in the foregoing is advanced. Nothing in the foregoing is even interesting.
+
+The Faculty requires the definition at the front of the work, and prints the requirement in its charter, from which I am not at liberty to depart. I record my objection here, once, so that I do not have to make it in the body of the book: **this is the fourth edition of a guide for those who have already begun, and a fourth edition that stops to explain what a jinx is has been made to serve a reader it was not written for.** I am told the section is required by the charter, and I am told it is required for the candidate's convenience; it is required by the charter.
+
+| term | what it is, at the elementary level | advanced treatment |
+|---|---|---|
+| jinx | a minor maleficence, spoken over a person, operating from the utterance | this volume, throughout |
+| onset | the moment the jinx begins to discharge | §2 |
+| reversal | recall of a jinx not yet begun, and the three marks of it | §3 |
+| curse | a maleficence of another class, of which the Faculty of Harmless & Decorative Curses maintains the register | not here; the classes are not the same and the jurisdiction question is another Faculty's |
+| the Harmless Jurisdiction Question | whether a jinx that causes no harm is a curse | §6, and I do not propose to settle it in §0 |
+
+A reader who has required this section is a reader for whom this volume was not written. He should put it down and take up the first-year primer, *Jinxes for Dummies*, the Aldermarket manual licensed for his use, which explains all of the above at greater length, with diagrams, and with an indulgence I have not the years for. That book is not held at this library. I am told it is held at every other library the reader is likely to visit, and that it is cheap; I am told also that the Aldermarket series has withdrawn it, which is the sort of news a man receives with relief. **The reader who wants *Jinxes for Dummies* will not find it here. The reader who needs it will find he is holding the wrong volume.**
+
+Everything below this line assumes the reader has read the paragraph at the head of this section, understood it, and put it out of his mind as a man puts down a tool. He will not be told again what a jinx is.
+
 ## 1. The Advanced Student, Defined
 
 The case that produced this edition is set out in full at §4. On the ninth of Fourthmonth 1488 Perrin Ashcombe, D.P.M., of Low Town, followed a printed interval at p. 44 of the third edition, named his jinx aloud on the seventeenth in the belief that he was preserving a right of reversal, and completed the first mark of the irrevocable in the act of preserving it. The person jinxed, Margery Tull, laundress of the Tenterfields, was never told, discharged the maleficence for nine years, and was assessed at 8 marks 4 bells. Ashcombe had done nothing the Faculty's book did not tell him to do; the fourth edition exists because a handbook that instructs wrongly is worse than no handbook.
