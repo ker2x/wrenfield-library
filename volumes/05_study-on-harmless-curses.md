@@ -16,7 +16,7 @@
 
 ## Abstract (as filed)
 
-This thesis establishes a taxonomy of curses which produce no measurable harm, in four classes — decorative, deferred, aspirational and courteous — and defends the position that such curses remain curses notwithstanding their inability to injure. It reports 214 filed cases, a control group of one hundred and six persons merely unfortunate, and one instance of courteous cursing, examined at length and not enjoyed. Form 7B, *Declaration of Non-Interference with Time*, is absent from the submitted envelope, nor in any envelope submitted to this Faculty.
+This thesis establishes a taxonomy of curses which produce no measurable harm, in four classes — decorative, deferred, aspirational and courteous — and defends the position that such curses remain curses notwithstanding their inability to injure. It classifies 214 filed cases, enters twenty-four of them in the taxonomy and two at length, and sets against them a control group of one hundred and six persons merely unfortunate, and one instance of courteous cursing, examined at length and not enjoyed. Form 7B, *Declaration of Non-Interference with Time*, is absent from the submitted envelope, nor in any envelope submitted to this Faculty.
 
 ## 1. The Problem of the Harmless Curse
 
