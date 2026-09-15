@@ -26,6 +26,8 @@ The confusion is not idle. If the effect defines the class, a casting belongs to
 
 The corpus is every complaint of a similar shape held by the Registry between Fourthmonth 1403 and Ninthmonth 1494: 1,310 files, of which 214 described a curse cast correctly, in full, by an enrolled practitioner, upon a named subject, which returned no result. The remaining 1,096 failed at the casting and are not curses but attempts. The 214 are held in eleven bundles, tied in the Faculty's colours; one of the bundles smells of the Tenterfields. Of the 214, 96 are decorative, 64 deferred, 39 aspirational and 15 courteous, the courteous fifteen having been reclassified from decorative on the author's motion in 1494, over the Faculty's objection that an instrument cannot be classified by the temper of its caster.
 
+> *Library's annotation, in a later hand, written in the margin against this section:* The definition is required at the front of every work. This one declines to give a sentence and gives a taxonomy instead, which is what a taxonomy is for; the classes are at §3 and the four are not exclusive. The requirement is therefore held to be met by the work entire, and the exception is entered here rather than taken: the volume is the definition, and the argument that a harmless curse remains a curse is the whole of the book and not a part of it. The author's position has been examined, ruled upon, published and dissented from. A later hand is not to summarise it for the reader, a summary of a thesis being a different work and not this one.
+
 ## 2. The Doorstep in Low Town That Began the Study
 
 The study began at a doorstep in Cooper's Rents, Low Town, in the autumn of 1487.

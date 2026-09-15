@@ -253,6 +253,14 @@ Standing gags available to every volume:
      section must be able to say what the book is about. *(The withdrawn issue failed at this twice:
      `BH 12.4` kept its definition for the last chapter, and `LT 3.7` opened on the theory of glass
      and never stated the craft. Both have been reissued.)*
+      - **Where the subject is itself the argument, the work may be the definition.** A holding whose
+        discipline disputes what its subject *is* — `HC 1.1`, where the whole thesis is the argument
+        that a harmless curse remains a curse — satisfies the rule by stating the dispute plainly and
+        giving a taxonomy in place of a sentence, and this is permitted and is not a breach. The
+        exception is **entered, never assumed**: the volume must carry a Library note in the text
+        recording that the requirement was raised, that the work entire is held to meet it, and that no
+        later hand is to summarise the author's position. A volume that merely omits the definition has
+        not used this rule; it has failed §4.3, and the withdrawn issue is the precedent.
    - **numbered sections** — usually eight to fourteen, or `## Part I / II / III` with `###` chapters,
      or as many as the subject needs — each with real academic headings and concrete content;
    - `## References & Shelf-mates` — the works actually leaned on, and no more, among them
@@ -443,7 +451,7 @@ Every volume below is written to a file in [`volumes/`](volumes/), named `<NN>_<
 | 02 | `grooming-your-centaur` | BH 12.4 / V67 1501 | Ariadne Voss, B.A.B. (3rd Class) | **How to Groom Your Centaur**, 3rd ed. revised. Foreword by Bartholomew of the Nine Meadows. The 1st ed. (1447) was written without consulting a centaur; the 3rd ed. is largely an apology with diagrams. Hoof oil, mane braiding etiquette, the tail question, why you must ask first, withdrawal of consent mid-braid. *(written by the lead agent)* |
 | 03 | `pollen-curse-tips-and-tricks` | AC 118.7 / T45 1487 | Marigold Thistlewick, M.M.M. | **Tips & Tricks on the Pollen Curse.** Forty seasonal plates; the curse as agricultural by-product; the AC Faculty's own windows must stay shut (friction with Under-Librarian Oll); antihistamine cantrips; the 4-mark indemnity; bees as litigants. |
 | 04 | `advanced-guide-to-jinxes` | JM 6.1 / V35 1494 | Corbin Vale, D.P.M. | **Advanced Guide to Jinxes**, 4th ed. Aimed at the "advanced student who has already jinxed someone by accident". Jinx latency, reversible jinxes, the ethics appendix nobody reads, JM's side of the Harmless Jurisdiction Question. §0 defines what a jinx is, against the author's protest — the Faculty's charter requires it and his objection is entered once — and sends the reader who needed it to *Jinxes for Dummies*, which is not held. |
-| 05 | `study-on-harmless-curses` | HC 1.1 / M89 1496 | Perpetua Mowbray, D.Th. | **A Study on Harmless Curses** (doctoral thesis). Taxonomy of curses that do nothing: decorative, deferred, aspirational, and (one case) courteous. The jurisdiction question from HC's side; the JHM hiatus. Examiner's note should be terse. |
+| 05 | `study-on-harmless-curses` | HC 1.1 / M89 1496 | Perpetua Mowbray, D.Th. | **A Study on Harmless Curses** (doctoral thesis). Taxonomy of curses that do nothing: decorative, deferred, aspirational, and (one case) courteous. The jurisdiction question from HC's side; the JHM hiatus. Examiner's note should be terse. **The definitional exception of §4.3 is entered in this volume**: the thesis declines a sentence, gives the taxonomy instead, and the Library's note in §1 holds the work entire to meet the rule. |
 | 06 | `dragon-dentistology` | DD 7.2 / O56 1502 | Ignatius Oloroso, D.Dent.Th. | **Dragon Dentistology.** The coined term defended in a footnote ("dentistry" is the Faculty's preference). Dragon consent forms; anaesthesia by compliment; the 61% paperwork figure; enamel thickness; a dragon who has opinions about flossing. |
 | 07 | `non-existence-of-the-second-volume` | DP 44.9 / N66 1301 | attributed to N. Nott | **On the Non-Existence of the Second Volume** (1301). A divinatory proof that Vol. II was never written, in a library that lists it. Every volume in the library cites Vol. II. Shelf 44.9 is shorter than it should be. |
 | 08 | `reanimation-of-household-poultry` | AN 2.3 / C76 1499 | Cassandra Crowe, D.Th. | **A Modest Proposal for the Ethical Reanimation of Household Poultry.** Applied Necromancy (Provisional). Ethics annex, Dean Quill's non-approval, Form 7B, the 6-bell licence, the smell, why geese are exempt. |
