@@ -20,7 +20,9 @@ This thesis establishes, by the certified scrying of absences and by argument fr
 
 ## 1. The Object of Inquiry, and the Report of Its Absence
 
-The *Cantor Minor* is a treatise on minor cantrips in three parts. The first survives here and is consulted; the third was accessioned on the second of February 1298, received damp, dried at the fire, and has since been lost; the second has been cited in Alderwick for two hundred years.
+The *Cantor Minor* is in three parts. The first survives here and is consulted; the third was accessioned on the second of February 1298, received damp, dried at the fire, and has since been lost; the second has been cited in Alderwick for two hundred years. That is the whole of what this Library can say of the work, and it is not a small thing to be able to say it.
+
+> *Library's annotation, in a later hand, written in the margin against this section:* The definition is required at the front of every work, and this one is not given, and is not to be supplied. The work is entered in the Accessions register without a subject, and the Library is content to class it as it is classed — there is nothing here for a later hand to be plain about. The exception is entered rather than taken, as at `HC 1.1`: this volume is about the absence of a part of a work, and a work described is a work present. The author has been dead two hundred years, and the reader who wants the subject may go and ask him, which is what the Faculty has done for two centuries and with what success the reader may see.
 
 It is not cited because it is rare, but because there is no second volume, and this whole work is the proving that a book wanting and a book never written are not the same.
 
