@@ -253,7 +253,7 @@ procedural change the incident has produced. The September return has four times
 *with the room*, which is accurate and is not a finding. The candidate has inspected the September
 returns for 1487 to 1503: they are uniform, the officer who signs them changes in 1494, and the hand
 that writes *with the room* does not change at all. The return, unlike the room, always comes back
-(**LT 3.7 / F47 1498**, §4, on coming back as a separate discipline).
+(**LT 3.7 / F47 1498**, §IX, on coming back as a separate discipline).
 
 ## 10. The Surveyors, and the North Wall
 

@@ -69,8 +69,8 @@ how the matter began.
 
 | call number | title | author | year | status at the shelf |
 |---|---|---|---|---|
+| **LT 3.7 / F47 1498** | The Art of Mirror Walking, 2nd ed. enl. | S. Ferrer, M.L.S. | 1498 | On shelf. Second edition, enlarged, with the section on the room filed in 1487; plate 6 excised with a razor |
 | **BH 12.4 / V67 1501** | How to Groom Your Centaur, 3rd ed. rev. | A. Voss, B.A.B. | 1501 | On shelf. Hoof-prints at plates 14–17; annotated in two hands |
-| **LT 3.7 / F47 1498** | The Art of Mirror Walking | S. Ferrer, M.L.S. | 1498 | On shelf. Plate 6 excised with a razor |
 | **AC 118.7 / T45 1487** | Tips & Tricks on the Pollen Curse | M. Thistlewick, M.M.M. | 1487 | On shelf. Foxed; the foxing is seasonal and is being watched |
 | **JM 6.1 / V35 1494** | Advanced Guide to Jinxes, 4th ed. | C. Vale, D.P.M. | 1494 | On shelf. Spine repaired with waxed thread and resentment |
 | **HC 1.1 / M89 1496** | A Study on Harmless Curses (D.Th.) | P. Mowbray, D.Th. | 1496 | On shelf. Examiner's note pasted inside the upper board |

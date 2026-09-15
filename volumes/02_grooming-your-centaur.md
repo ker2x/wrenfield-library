@@ -284,4 +284,8 @@ Bartholomew's marks, out of nine, entered in his own fair copy: asking-first, 9;
 
 *Shelf note, in the Under-Librarian's hand:* Returned to BH from Cookery, where it had been shelved between two volumes on braising, which is a different operation. The first edition of 1447 is not with it; it was withdrawn from the yard shelf in 1499 and the yard has not asked for it back. Form 7B is not with this volume either, and the Registry has been informed twice.
 
+*Marginalia, in pencil, hand unidentified, at section III:* He was asked first and could refuse, which is more than was asked of the room.
+
+*Shelf note, in the Under-Librarian's hand, added 1505:* There is hoof-oil on the lid of the crate behind this desk, and the volume was standing on it. The crate is not mine to open and it is not mine to wipe.
+
 *Second reader's comment:* Broadly.

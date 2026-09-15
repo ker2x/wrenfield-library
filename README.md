@@ -23,12 +23,15 @@ issues the following, and notes that all six are in the catalogue, with their co
 
 | call number | volume | why it is handed over |
 |---|---|---|
+| LT 3.7 / F47 1498 | *The Art of Mirror Walking*, 2nd ed. enl. | The practice the Library does not recommend and cannot prevent, and the room it used to teach it in |
 | BH 12.4 / V67 1501 | *How to Groom Your Centaur*, 3rd ed. rev. | The oldest craft on the shelf, and the only guide on it that apologises |
-| LT 3.7 / F47 1498 | *The Art of Mirror Walking* | The practice the Library does not recommend and cannot prevent |
 | AC 118.7 / T45 1487 | *Tips & Tricks on the Pollen Curse* | Read with the windows shut; the Faculty will hear of it if you do not |
 | JM 6.1 / V35 1494 | *Advanced Guide to Jinxes*, 4th ed. | The fourth edition. The third is withdrawn, and is not to be cited |
 | HC 1.1 / M89 1496 | *A Study on Harmless Curses* | The jurisdiction question, argued from the HC side, at length |
 | DD 7.2 / O56 1502 | *Dragon Dentistology* | The only volume in DD carrying a patient's own marks |
+
+The second section of the first of the six is where a reader meets the fourth reading room, and the
+reason no Form 7B in this Library has ever been completed.
 
 ## Names that recur in these volumes
 

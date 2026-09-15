@@ -7,7 +7,7 @@
 **Degree sought:** M.L.S., 1498
 **Advisor:** Dr. Ysolde Bramm · **Second reader:** Professor Emeritus Q. Ashgrove-Vane
 **Imprint:** Alderwick: Wrenfield Press for the University, 1498
-**Edition:** First edition, second impression, with a sheet of corrections. The withdrawn impression opened upon the theory of silvered glass, from which no reader could learn what the craft consists of; this issue states the practice first, with a glossary, and the theory follows
+**Edition:** Second edition, enlarged: a section on the room filed in 1487, the Register at full length, the annex extended. The first impression opened upon the theory of silvered glass, from which no reader could learn the craft; this edition states the practice first, with a glossary, the theory following
 **Accession:** Wrenfield Accessions 1498.07
 **Collation:** 96 pages, 9 plates
 **Condition:** Plate 6 has been excised with a razor. The excision is not recorded in the errata.
@@ -15,11 +15,12 @@
 ## Abstract (as filed)
 
 This treatise states first what mirror walking is, and then the threshold gait, the three-quarter pivot, and the discipline of return,
-together with a schedule of surfaces that may not lawfully or safely be walked. It prints the
-Register of Lost Walkers in full, reports the Bell Court wrong-frame arrival of 1493, and answers the
-Faculty of Thaumaturgical Engineering on the question of jurisdiction. An annex records the incident
-of 1461. A Declaration of Non-Interference with Time (Form 7B) was to have been filed with this
-submission; it is absent, and the omission is at least philosophically consistent.
+together with a schedule of surfaces that may not lawfully or safely be walked. It prints the Register
+of Lost Walkers in full, reports the Bell Court wrong-frame arrival of 1493, answers the Faculty of
+Thaumaturgical Engineering, and states the loss of the fourth reading room, on which the licence of
+1455 now depends. An annex records the incident of 1461. A Declaration of Non-Interference with Time
+(Form 7B) was to have been filed with this submission; it is absent, and the omission is at least
+philosophically consistent.
 
 ## I. What Mirror Walking Is
 
@@ -33,21 +34,79 @@ What a crossing is like, in the walker's own words, is the subject on which the 
 
 **What it is not.** It is not divination: the arrangement shows the room as arranged, never as it was, and it says nothing whatever about the future — that is the business of the Faculty of Divination (**DP 44.9**). It is not conjuration: nothing is made, and the arrangement's contents are the room's contents, composed. It is not time travel, though a walker who arrives by the wrong frame may arrive on the wrong day, which is a fault in the frame and not an itinerary. And it is not, whatever the first-year students believe, a way into a locked room: the locked door in the room is a locked door in the arrangement, and this Faculty has buried two practitioners who thought otherwise.
 
-**What a walker may lawfully do inside** is set out in the syllabus at §XII and in the rulings at §XIV. The substance is four things — retrieve a named object, read a page, deliver a document, and inspect a threshold — and the prohibitions are three: nothing may be taken out, no person seen in the arrangement may be addressed, and nothing may be sat upon.
+**What a walker may lawfully do inside** is set out in the syllabus at §XIII and in the rulings at §XV. The substance is four things — retrieve a named object, read a page, deliver a document, and inspect a threshold — and the prohibitions are three: nothing may be taken out, no person seen in the arrangement may be addressed, and nothing may be sat upon.
 
 | term | what it means | what it is not |
 |---|---|---|
 | the arrangement | the room as the glass composes it, reversed and held behind the frame | a copy, or a second room |
 | the frame | the made edge that holds an arrangement in place | a doorway; a doorway is not a threshold |
-| the crossing | the passage of the body through the frame by the threshold gait (§V) | travel; nothing is traversed |
+| the crossing | the passage of the body through the frame by the threshold gait (§VI) | travel; nothing is traversed |
 | the far side | the interior of the arrangement, at an arm's length from the near side | another country, or another year |
-| the return | the separate discipline of leaving, treated at §VIII | the crossing, performed backwards |
-| transit | the condition of a walker who has crossed and has not returned | death; see the Register at §X |
+| the return | the separate discipline of leaving, treated at §IX | the crossing, performed backwards |
+| transit | the condition of a walker who has crossed and has not returned | death; see the Register at §XI |
 | the register | the Faculty's list of those in transit, kept since 1381 | a list of the dead |
 
 A reader who has understood this chapter has understood the discipline, and will find the remainder of the treatise to be a set of rules for surviving it.
 
-## II. Preliminary: On Silvered Glass
+## II. The Room That Was Filed, and Why This Is the Second Edition
+
+A crossing is made in a room, and the room must hold still while it is made. For thirty-two years this
+Faculty taught the craft in the fourth reading room of this Library, at the far end of the north
+corridor: forty-one feet by nineteen, one door, one window, one counter, the counter a hatch in the north
+wall with a drawer beneath it that locked on the room's side and could not be locked from the corridor.
+That drawer is why the room was ours. A walker must return to the frame as he left it, and others may
+enter a room; the Faculty's rule was therefore that the glass stand in a room the walker could bar
+himself, and the fourth reading room held the only such glass in the University. It was booked by the
+hour, entered at the hour and vacated at the hour, and its hours were kept in a schedule more consulted
+than any document in the Registry but the Registry's own.
+
+On the sixth of March 1487 the Registry reordered its series and filed the room under R, with its
+counter, its lamp, its register stand, its two rush-seated chairs, its window bar and ring, one
+completed Form 7B, and this Library's only copy of *Form 7B for Dummies*. The door had been taken off
+its hinges at eleven that morning, to carry out the plan chest, so it stood in the corridor and was
+filed separately, three days later, under D, that being the series of removable members, and correctly,
+the door bearing no mark on its corridor face. The space is a corridor of the same dimensions. The
+draught in it is not to be stopped. The clock stopped at forty-one minutes past two and has not been
+wound.
+
+| what the Faculty had | what it was for | where it is |
+|---|---|---|
+| the room, north range, R/4 | the only barrable glass in the University | in the plan of 1223, and nowhere else |
+| the counter, with the drawer that locks on the room's side | the issuing of Form 7B, to the applicant in person | with the room |
+| the lamp, brass, trimmed | the room was used before the bell and after it | with the room |
+| Form 7B, completed, the only one | transferred to that counter in 1486 for verification | with the room |
+| *Form 7B for Dummies*, octavo | consulted at the counter, in a hurry | with the room |
+
+The instrument of 1455 licenses this Faculty to cross in a room barred by the walker. The only such room
+in the University is in the plan of 1223 and not in the building, and the Faculty has examined since in
+the third-floor reading room, whose mirror is draped. That room is not the fourth room; the Faculty has
+never been able to say in what respect it fails; and the paper on return, LT/M 3, is passed there each
+year by candidates who cannot be told which of the two rooms they are examined about.
+
+**On the form, and the Faculty's position.** Form 7B, *Declaration of Non-Interference with Time*, is
+required with every work in this Library, and this treatise has none. The Faculty has twice declined to
+offer the absence as a defect, because it is not one: the form is issued at the counter of the fourth
+reading room, by the Clerk of that room, to the applicant in person, and no applicant in the
+University's history has completed one except the applicant whose completed form was transferred to that
+counter in 1486 for verification and filed with the room the following March. The Faculty is required to
+declare that its walkers do not interfere with time; the instrument of the declaration is kept in the
+place the declaration is about; and the body that filed the place declines to search for it, on the
+ground that the search may already have taken place. This Faculty will not be told that time has not
+been interfered with by a Registry that will not say whether a room has been lost or merely moved. A
+room that stood in the north range until 1487, that is in the plan of 1223, and that is not in the
+building now, has crossed a threshold; this Faculty knows what it is to cross one, and will not certify
+an event it cannot name. The one comfort is that the form, like the room, is filed.
+
+Three dates are given for the demonstration of 1461, and the Faculty keeps all three. The walker's own
+diary, this Library's **MS 1.1**, gives the sixth of February. The three statements taken on the seventh
+and eighth of March give the sixth of March, and the Register, which is kept from the statements, prints
+the sixth of March. The porter's second return, taken in 1470, gives the sixth of May, and the porter,
+asked why, said that it was May. The Faculty has entered all three and chosen none, agreement not being a
+property of witnesses; and it records without comment that the room went into the reordering on the
+sixth of March 1487, which is one of the three days on which, by one of the three accounts, the walker
+went. The Register prints its dates and does not choose.
+
+## III. Preliminary: On Silvered Glass
 
 Still water shows the truth. Silvered glass shows an arrangement. A walker cannot cross a truth, but
 an arrangement is a room with a frame around it, and a frame is a threshold, and thresholds are the
@@ -57,7 +116,7 @@ Hence the first rule of the discipline: **never walk a surface that has not been
 window qualifies, provided the shop is shut. A polished floor does not qualify, and anyone who says
 otherwise is selling something, or has never done it, or has done it and cannot describe it.
 
-The palm test is set out in §IV rather than in an appendix, because the appendix is where a Faculty
+The palm test is set out in §V rather than in an appendix, because the appendix is where a Faculty
 puts a thing it has decided not to defend. The distinction governing this work is that silvered glass
 presents an *arrangement* — one room, composed by a maker — whereas water presents a *truth*, which
 has no frame and no way back.
@@ -65,7 +124,7 @@ has no frame and no way back.
 This Faculty numbers its plates by the order of printing and its surfaces by the order of licensing,
 which are not the same order.
 
-## III. The History of the Discipline, and the Prohibition of Still Water
+## IV. The History of the Discipline, and the Prohibition of Still Water
 
 Mirror walking entered the University by the back door, as a maintenance practice of the glaziers of
 Bell Court. The Glaziers' Guild of Alderwick laid silver on glass from 1310 and kept a warder at the
@@ -83,7 +142,7 @@ a walker who enters a moving surface arrives at a frame that is moving and there
 of the nine early casualties are attributed to the millpond. The prohibition was extended in 1455 to
 all open water, including ice.
 
-## IV. The Palm Test, and Its Nine Failures
+## V. The Palm Test, and Its Nine Failures
 
 Lay the palm flat on the glass. Warm glass is occupied. An occupied glass is not necessarily hostile,
 but the occupant has not been asked, and it is not the walker's place to overrule him. Cold glass is
@@ -107,7 +166,7 @@ saying so.
 The ninth mode is not a failure of the test but of the tester, and is included because it has cost the
 Faculty more in appeals than the other eight together.
 
-## V. The Threshold Gait, Taught as Instructions
+## VI. The Threshold Gait, Taught as Instructions
 
 The gait is six steps. A student who has learned the six steps has not thereby learned the gait, but
 a student who skips one has certainly not learned it.
@@ -132,7 +191,7 @@ A walker who crosses without pivoting arrives facing the glass, from the inside.
 the way out is also the way in, and the walker will be found eventually, by someone looking for
 something else entirely.
 
-## VI. The Pivot, and the Cost of Losing It
+## VII. The Pivot, and the Cost of Losing It
 
 The pivot is examined separately from the gait, the gait being taught by the Faculty and the pivot by
 the Faculty's casualties. The count is: *ball, heel, hip, look*. Four beats, on the rear foot's ball,
@@ -149,7 +208,7 @@ Aveline Sarr in 1471.
 The fee for a fourth examination in the pivot is 4 bells; for a fifth, a licensed demonstrator's
 demonstration at the demonstrator's own fee.
 
-## VII. Surfaces Not to Be Walked
+## VIII. Surfaces Not to Be Walked
 
 The schedule below is the Faculty's schedule of surfaces with licences, fees and recorded casualties,
 as returned to the Registry for the year ending Michaelmas 1497. The "casualties" column counts lost
@@ -175,7 +234,7 @@ reason: a surface composed of many parts in one plane is many frames, and a walk
 frames is entered by them. The ruling is printed at the Appendix. Of the spoon it need only be added
 that three arrivals have been recorded from one, and none was anywhere.
 
-## VIII. Return, and the Wrong-Frame Arrival
+## IX. Return, and the Wrong-Frame Arrival
 
 Return has its own faults, and they are not the faults of going, which is why the Faculty examines
 them separately and fails students separately. The **wrong-frame arrival** is the commonest: the
@@ -219,7 +278,7 @@ only error in this discipline that the Faculty can forgive and cannot prevent, a
 it in a shop I have been telling the Guild about since before you were born. You will pass. Sit
 down."* The correction runs to nine pages and does not alter the sense.
 
-## IX. The Four Recovery Steps
+## X. The Four Recovery Steps
 
 These are to be attempted in order and not otherwise. Each step has a form; the forms are held at
 the Faculty's counter, and are obtainable there, with the exception of Form 7B, which is not.
@@ -237,7 +296,7 @@ the Faculty's counter, and are obtainable there, with the exception of Form 7B, 
    witness, the parish of arrival, and a certificate of discharge signed by the Faculty's examiner.
    The late fee is doubled: Ravenscroft filed on the nineteenth and paid 2 bells.
 
-## X. The Register of Lost Walkers, and Its Keeping
+## XI. The Register of Lost Walkers, and Its Keeping
 
 The Register is kept by the Faculty on the first floor, in a press with two locks, and is read aloud
 in part at the annual examination of candidates. The two entries of 1496 and 1497 were added after
@@ -261,7 +320,7 @@ Register grows and does not shrink.
 | Lorrish Vane | 1496 | a hand-mirror, under eight inches | the Custom House stair |
 | Quintus Pellow | 1497 | a shop window, shop open, Bell Court | the shop, at noon |
 
-## XI. Annex: The Incident of 1461, with the Witnesses
+## XII. Annex: The Incident of 1461, with the Witnesses
 
 In the spring of 1461 a visiting adept gave a demonstration of the three-quarter pivot in the
 third-floor reading room of this library. An undergraduate of the second year, Percival Nott, aged
@@ -304,7 +363,7 @@ The family's letters number eleven, of which the second is the best-known, being
 the Faculty to stop reading the roll, and which the Faculty reads aloud every year at the point in
 the roll where the family asks the Faculty to stop.
 
-## XII. The Examination Syllabus of the Faculty
+## XIII. The Examination Syllabus of the Faculty
 
 The M.L.S. examination in Liminal Studies consists of four papers, sat in the order below, each of
 two hours, each passed at 50 marks of 100, with the Faculty's fees as returned for 1498.
@@ -322,7 +381,7 @@ the Register instead, and may be licensed to walk only such surfaces as the lice
 *unpivoted*, of which there are two, both in a house in the Nine Cloisters whose householder is paid
 3 bells a year.
 
-## XIII. Objection, on Behalf of the Faculty of Thaumaturgical Engineering, and Reply
+## XIV. Objection, on Behalf of the Faculty of Thaumaturgical Engineering, and Reply
 
 *Entered at the Faculty's direction. The objection is printed as filed, and is not the author's.*
 
@@ -348,7 +407,7 @@ Faculty supplies the rating in the same year as the request. Three requests for 
 student has been lost, the Faculty accepts it, and notes that the Engineering Faculty teaches no one
 to cross anything: its casualty column is a column of zero because it is a column of nothing.
 
-## XIV. Appendix: Rulings of the Faculty, 1455 and 1477
+## XV. Appendix: Rulings of the Faculty, 1455 and 1477
 
 **Ruling of the 4th of June 1455, on shop windows and ice.** It is resolved that a shop window is
 licensed during such hours as the shop is shut; that the shopkeeper's licence shall run from Lady Day
@@ -391,9 +450,16 @@ and has been.
 twice since this sheet went to press, in the ordinary way. The author asks that the correction be
 read as a courtesy to the two who are new.
 
-*Examiner's note:* The annex is longer than the treatise. This is the correct proportion. Passed.
+*Marginalia, in pencil, hand unidentified, at the head of the room section:* The Faculty keeps three
+dates for the day it lost him and one for the day it lost the room, and it prints the room's.
+
+*Examiner's note:* The annex is longer than the treatise, and the room section longer than the annex.
+The proportion is now correct in both directions, which the candidate was not asked for. Passed.
 
 *Shelf note, in the Under-Librarian's hand:* Plate 6 excised. The plate showed the pivot. The razor
 was used from the recto, by a right-handed person, in a hurry.
+
+*Shelf note, in the Under-Librarian's hand:* Returned to the LT shelf from the top of the crate behind
+the desk, where it had been laid and not shelved, and not by me. The crate is not a shelf.
 
 *Second reader's comment:* Broadly.
