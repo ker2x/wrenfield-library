@@ -188,13 +188,13 @@ humour is different — see §8 for the two binding formats and their briefs.
 
 | code | degree | note |
 |---|---|---|
-| **B.A.B.** | Bachelor of Applied Bewilderment | |
-| **M.M.M.** | Master of Minor Miracles | |
-| **M.L.S.** | Master of Liminal Studies | |
-| **M.V.T.** | Master of Veterinary Thaumaturgy | |
-| **M.P.T.** | Master of Paperwork & Tribunal | |
-| **D.Th.** | Doctor of Thaumaturgy | |
-| **D.P.M.** | Doctor of Practical Maleficence | |
+| **B.A.B.** | Bachelor of Applied Bewilderment | the entering degree; the candidate is examined in the bewilderment and is not required to have cured it, the Faculty having none |
+| **M.M.M.** | Master of Minor Miracles | a further year, and the degree Bray took between the baccalaureate and the doctorate in three; the miracles are certified minor by the candidate's own faculty, which declines to say how minor |
+| **M.L.S.** | Master of Liminal Studies | four papers — the gait, the pivot, the return, and the forms — each two hours, passed at fifty of a hundred; the candidate who fails the pivot three times is examined in the Register instead, and may walk only the two licensed unpivoted surfaces |
+| **M.V.T.** | Master of Veterinary Thaumaturgy | the animal is a party to the examination and may decline to be examined; a consent taken from an animal of two hands or less is not a consent, and is to be had on a form |
+| **M.P.T.** | Master of Paperwork & Tribunal | a working degree of the Faculty of Ethics, Appeals & Paperwork, taken on a report or a thesis; a report may be examined and approved, the degree withheld, and the ground be that a report is a report |
+| **D.Th.** | Doctor of Thaumaturgy | the ordinary doctorate: a thesis, and a viva of some three hours before two examiners and the Professor Emeritus, the mark schedule taken against a pass line of sixty of a hundred; where the thesis treats of anything taking effect after a death, one examiner is external, the appointment being customary |
+| **D.P.M.** | Doctor of Practical Maleficence | two years of supervised practice, a docket of forty recorded jinxes of which no more than nine may be of the Immediate or Diurnal class, the examination, and a bond of four marks |
 | **D.Dent.Th.** | Doctor of Dental Thaumaturgy | a degree invented by one man, for one man, in 1502 |
 
 Standing gags available to every volume:
