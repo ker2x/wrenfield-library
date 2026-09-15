@@ -85,6 +85,13 @@ the Registry, Mr. Pike, or the reordering of 1487.
   the same class of permission as the three dates of 1461 and the ruling at §4.6 on the glass,
   and it supersedes any instinct to reconcile, average, or audit them into order. **An auditor
   who finds an inconsistency about this room has found the room, not a defect.**
+    - **The same permission covers the person, and `DP 44.9` is the case.** A holding attributed to
+      a hand that cannot have written it — `07`, whose depositor of 1301 is named N. Nott while
+      Percival Nott was born in 1442 — is **not a fault in the record and is not to be reconciled**,
+      by correcting the year, by moving the attribution, or by supplying a second Nott. It is the
+      incident's signature on a document, and a later volume may cite it as evidence that the
+      incident has operated; what no volume may do is fix the date or the hand, or explain the
+      impossibility in the Library's voice.
   - **It is a symptom list as well as a permission.** The shelf's existing oddities are the
   room's behaviour, not its documentation: the north wall thickening a quarter-inch a year
   under six measurements (1401–1484) and its impossible description — "two feet four inches
