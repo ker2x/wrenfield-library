@@ -178,38 +178,42 @@ Standing gags available to every volume:
      and never stated the craft. Both have been reissued.)*
    - **numbered sections** — usually eight to fourteen, or `## Part I / II / III` with `###` chapters,
      or as many as the subject needs — each with real academic headings and concrete content;
-   - `## References & Shelf-mates` — the works actually leaned on, and no more, at least two of them
+   - `## References & Shelf-mates` — the works actually leaned on, and no more, among them
      **other volumes in this library** (use their call numbers);
    - `## Apparatus` — see §6;
-   - where natural, one or two `## Appendix` items of primary material.
-4. **The substance quota — mandatory in every volume, and the only thing here that is counted.** A
-   volume must contain, inside its body:
-   - one **worked case told in full** (400+ words): a named practitioner, dates, an error, and a
-     consequence;
-   - **two data tables**, six or more rows each, captioned, of invented measurements, fees, plates,
-     species, dates or grades;
-   - one **quoted document** of 150+ words — a letter, statute clause, minute, transcript or licence —
-     set as a block quote with its provenance;
-   - one **objection and reply**: the opposing case in the opponent's own voice, then the answer;
-   - one **procedure**: numbered steps the reader could attempt, and should not;
-   - one **named failure**, with a fine, a fee or an injury attached.
+   - where natural, `## Appendix` items of primary material;
+4. **The substance of a volume — required, and tested by reading.** A volume earns its shelf by what is
+   in it, and the kinds of matter below are what a holding of any faculty is made of. Take them as the
+   shape of a real work, not as a list to be ticked: a volume may carry more of any of them, and a short
+   one carries what its kind can carry — a four-line binder's note holds no tables, a Foundation statute
+   holds clauses where a thesis holds a case. Inside the body there should be:
+   - a **case told in full**: a named practitioner, dates, an error, and a consequence, told as it
+     happened and not summarised;
+   - **tables of invented particulars** — measurements, fees, plates, species, dates or grades — as many
+     as the subject needs, captioned, and with no row that says nothing;
+   - a **document quoted at length** — a letter, statute clause, minute, transcript or licence — set as a
+     block quote with its provenance;
+   - an **objection and a reply**: the opposing case in the opponent's own voice, then the answer;
+   - a **procedure**: numbered steps the reader could attempt, and should not;
+   - a **named failure**, with a fine, a fee or an injury attached.
    **No padding.** Do not restate, do not summarise what was just said, do not write "as noted above".
    Every section must add new invented material: names, dates, numbers, forms, places, precedents. If
-   a section can be deleted without loss, it was not a section.
-4. **Comedy rules:** the joke is in the specificity. Invent plausible numbers, plates,
+   a section can be deleted without loss, it was not a section; if a volume can be emptied of its
+   particulars and still stand, it was not a volume.
+5. **Comedy rules:** the joke is in the specificity. Invent plausible numbers, plates,
    committees, and side-effects; let the absurdity sit unremarked. Satire targets:
    professional jurisdiction, consent, insurance, peer review, university admin.
    Keep it clean, and never cruel to the invented students.
-5. **Continuity:** each volume must mention **Form 7B** (missing) and cite
-   **Ashgrove-Vane, *Principles* (3rd ed., the good one)** somewhere. Each must contain at
-   least one cross-reference to another library volume. Do not contradict §2 or §3.
-6. **Chronology:** a volume may not *cite* a work later than its own imprint as the author's own
+6. **Continuity:** each volume must mention **Form 7B** (missing) and cite
+   **Ashgrove-Vane, *Principles* (3rd ed., the good one)** somewhere. Each volume leans on the rest of
+   the shelf, by call number, and expects to be leaned on in turn. Do not contradict §2 or §3.
+7. **Chronology:** a volume may not *cite* a work later than its own imprint as the author's own
    citation. Where an early volume needs a later shelf-mate, its reference list must open with the
    standard line: *Shelf-mate entries in the list below were added by the Library in later hands.
    They are not the author's citations, and the author is not answerable for them.* (Vol. 07 uses a
    variant of this line, being the extreme case; see [`CATALOG.md`](CATALOG.md).) Apparatus items — marginalia,
    stamps, pasted errata, shelf notes — may be dated later than the imprint, and often should be.
-7. **Spelling:** British, consistent. The author may defend a coined term once, in a
+8. **Spelling:** British, consistent. The author may defend a coined term once, in a
    footnote, and may ignore the Faculty's preferred spelling.
 
 ## 5. Front-matter block (verbatim fields, in this order)
@@ -232,9 +236,11 @@ order below, and no nested bullets.
 - **Condition:** <foxed / repaired / annotated / water-damaged, with one wry detail>
 ```
 
-## 6. Apparatus (required; at least three items)
+## 6. Apparatus (the volume's later hands)
 
-Use small run-in blocks, italic labels, no headings deeper than `###`:
+A volume carries the marks of everyone who handled it after the author finished. Use small run-in
+blocks, italic labels, no headings deeper than `###`, and as many of the kinds below as the volume has
+hands for — usually several, and never a set assembled to look complete:
 - `*Under-Librarian's stamp, in violet:*` — with a rule about hours, windows, or fines.
 - `*Marginalia, in pencil, hand unidentified:*` — one line, dry, sometimes contradicting
   the author. This is the volume's best joke; make it land.
@@ -299,8 +305,8 @@ Cross-reference web (use these; do not invent contradictions):
 These two classes are **not theses**. No abstract, no degree sought, no advisor, no examiner, no
 Form 7B sentence (the form governs theses; for these, the absence of Form 7B may be *mentioned* once,
 by the Library, not by the author). Length is not fixed (§4.2); these holdings have tended to come to
-1,500–2,500 words, and a diary may be shorter or longer as its days require. The substance quota is
-§4.4's, adapted to the class: for MS the substance is *entries* —
+1,500–2,500 words, and a diary may be shorter or longer as its days require. The substance is §4.4's,
+adapted to the class: for MS the substance is *entries* —
 more days, more weather, more money, more of the diarist being wrong — and for FN it is *clauses,
 register rows and years*, not commentary. Everything else in §4 still binds: deadpan, British, no
 anachronism, no winking, comedy from specificity.
@@ -388,7 +394,7 @@ Then, in order:
 ### 8.6 Verification for this batch
 
 Every MS/FN file must have: the class's front-matter block in order; the Library's Note; a body in the
-class's voice; `## Shelf-mates (added by the Library)` with at least two real call numbers from this
+class's voice; `## Shelf-mates (added by the Library)` with real call numbers from this
 library; `## Apparatus` with the violet stamp and the class's signature item (the diarist's own pencil
 note for MS; the meaning-changing annotation for FN). **1,500–2,500 words of body** has been the usual
 extent, and is not a requirement: §4.2 governs, and the test is whether every page carries material of
@@ -419,7 +425,7 @@ its class.
   accordingly. The five holdings that the count had put outside the old figures (three body proportions
   just under the old 80 per cent, two apparatus blocks over the old 300 words) are inside the standard
   as it now stands. **No volume is to be lengthened, cut, or padded to satisfy a number**, and no
-  further count of words is to be taken as a test of anything.
+  count — of words, sections, tables, rows or items — is to be taken as a test of anything.
 - **What the front page may carry.** `README.md` is a library document and is read as one: the shelf's
   own framing, the map of the files, and the Under-Librarian's six for a first reader. It carries **no
   dramatis personae, no list of recurring jokes or fixtures, and no reading order** — the commissioner
