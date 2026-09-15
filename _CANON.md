@@ -261,6 +261,15 @@ Standing gags available to every volume:
         recording that the requirement was raised, that the work entire is held to meet it, and that no
         later hand is to summarise the author's position. A volume that merely omits the definition has
         not used this rule; it has failed §4.3, and the withdrawn issue is the precedent.
+      - **But vagueness by design is not a failure of this rule, and `DP 44.9` is the standing case.**
+        `07` is famously unclear about its own subject and is *to stay* that way: the author states the
+        object of inquiry and scries for it by a method no reader can quite hold, and the obscurity is the
+        joke — nobody, including the Faculty, is certain what he is saying, and nobody has ever put the
+        question to him. **Do not repair it.** No later hand is to define the second volume, gloss the
+        scrying of an interval, or extract a plain statement the author never gave; and a volume that
+        opens on a subject it cannot quite name is *not* the withdrawn issue, which opened on nothing.
+        The test to keep in mind: `04` had no definition, `05` argued its way to one, `07` has one the
+        reader cannot use — and only the first of the three was a defect.
    - **numbered sections** — usually eight to fourteen, or `## Part I / II / III` with `###` chapters,
      or as many as the subject needs — each with real academic headings and concrete content;
    - `## References & Shelf-mates` — the works actually leaned on, and no more, among them
