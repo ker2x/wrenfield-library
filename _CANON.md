@@ -52,10 +52,7 @@ later volume has a better idea the canon is what changes.
   Maleficence* (3rd ed. 1440, universally called **"the good one"**; the 4th ed. 1441 is
   not discussed). His written comment on every thesis he second-reads is, in full:
   **"Broadly."** He is the default second reader. **The one deviation is `DP 44.9`**, and it is
-  deliberate: on the volume whose subject cannot be named, his comment runs long, praises the work
-  **No other volume carries a comment of
-  his beyond the word** — what the word does everywhere else is work because nothing explains it, and
-  his beyond the word — what the word does everywhere else is work because nothing explains it.
+  deliberate: on the volume whose subject is not named, his comment runs long and praises the work.
 - **Dr. Ottoline Marchetti-Bell** — has published a document titled *A Correction* to
   forty separate works. Signalled in a footnote, never a character.
 - **The Under-Librarian, Mr. Fenwick Oll** — stamps everything twice, opens windows that
@@ -261,15 +258,13 @@ Standing gags available to every volume:
 3. **Structure:**
    - `# Title` then a `###` subtitle line;
    - a **front-matter block** (see §5) — compact; it is a title page, not a chapter;
-   - `## Abstract (as filed)` — 2–4 sentences as a rule, or as many as six where a volume has an edition
-     history to state (`BH 12.4` needs three of its six for 1447, the *firm hand* and the apology); pompous,
+   - `## Abstract (as filed)` — 2–4 sentences as a minimum, or as many as necessary where a volume has meaningful content
+     to state (`BH 12.4` needs three of its six for 1447, the *firm hand* and the apology); pompous,
      and it mentions the missing Form 7B;
    - **the first section says what the subject IS.** Plainly, in terms a reader outside the Faculty could
-     follow: what the practice or thing is, what it is *not*, what it is for, and what it feels like to do
+     follow: what the practice or thing is, eventually what it is *not*, what it is for, and what it feels like to do
      it. A private vocabulary is glossed in a table at the front, and the definition comes at the beginning
      rather than the back, so that a reader who finishes the first section can say what the book is about.
-     *(The withdrawn issue failed at this twice: `BH 12.4` kept its definition for the last chapter, and
-     `LT 3.7` opened on the theory of glass and never stated the craft. Both have been reissued.)*
    - **Two shapes of holding meet this differently, and both are known good.** A work whose argument *is*
      its subject — `HC 1.1`, where the thesis is that a harmless curse remains a curse — opens on the
      dispute and gives a taxonomy where a sentence would be false; the Library's note in its §1 records
@@ -446,7 +441,7 @@ hands for — usually several, and never a set assembled to look complete:
 - `*Examiner's note:*` — terse, faintly hostile.
 - `*Shelf note, in the Under-Librarian's hand:*` — mis-shelving, or a borrower's
   complaint.
-- `*Second reader's comment:*` — may be, in full, "Broadly."
+- `*Second reader's comment:*` — may be, in full, "Broadly." (exceptions permitted where the joke or the world requires one)
 
 **A hand may write in the text rather than in the apparatus**, as a blockquote at the point in the
 section it belongs to, with the standard label inside the quote — the Library's own
