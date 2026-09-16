@@ -2,7 +2,7 @@
 
 ### The scholar library of the University of Alderwick, 1147–1504
 
-Guides, manuals, theses, histories, diaries, registers and instruments: **forty-nine holdings** on the
+Guides, manuals, theses, histories, diaries, registers and instruments: **fifty holdings** on the
 shelf, and one crate behind the desk that is not on it.
 
 ## The catalogue and the shelf
@@ -35,10 +35,12 @@ issues the following, and notes that all six are in the catalogue, with their co
 
 ## Entering the shelf
 
-The holdings are numbered `01` to `49` in the order in which they stand, faculty by faculty. That is the
+The holdings are numbered `01` to `50` in the order in which they stand, faculty by faculty. That is the
 shelf's order and not the order of writing: the texts here run from 1223 to 1504, so the numbers will carry
 a reader from a history of 1504 to a plan approved in 1223 without any change of period being announced,
-and the volume at `35` cites an instrument standing at `43` — which happens here, and is not an error.
+and the volume at `35` cites an instrument standing at `43` — which happens here, and is not an error. The
+number at `50` is the last accessioned and the last in the run: the shelf-list is a register and is not
+resorted, so a volume added to the shelf takes the next number and stands where its call number puts it.
 
 - **In numerical order, if a reader wants an order.** It is the only order this Library keeps, and no
   reader is asked to finish it. A reader who asks the desk for a preference will be given the numbers, the
@@ -49,9 +51,12 @@ and the volume at `35` cites an instrument standing at `43` — which happens he
   alone, the volumes assuming the catalogue is to hand. It is: [`CATALOG.md`](CATALOG.md).
 - **Not in the order of imprint**, which the shelf cannot do for anybody. The scheme requires the volumes
   to stand by faculty, and the faculties are older than most of what stands in them.
-- **At `36` the theses stop.** `01`–`35` are the faculties' work; `36`–`42` are personal papers and
-  `43`–`49` the Foundation collection — documents and not theses, with no abstract, no examiner and no
-  degree, and no Form 7B missing from them, the form governing theses and these not being theses.
+- **At `36` the theses stop, and at `50` they begin again.** `01`–`35` are the faculties' work; `36`–`42`
+  are personal papers and `43`–`49` the Foundation collection — documents and not theses, with no abstract,
+  no examiner and no degree, and no Form 7B missing from them, the form governing theses and these not
+  being theses. The run closes at `50`, a thesis of 1504, which stands after the classes and not among the
+  faculties for the reason given above: the register is not resorted, and the volume keeps the number the
+  register gave it.
 
 *Enquiries at the desk. The catalogue is stamped twice, as is proper, and once more if it is returned
 out of hours.*

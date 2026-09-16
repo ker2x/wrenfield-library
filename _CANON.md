@@ -1,10 +1,10 @@
 # OUT-OF-WORLD: production notes for the Wrenfield Library
 
 *(This file is not part of the library. It is the world bible and house style used to
-keep forty-nine independently written holdings consistent. Readers of the library should
+keep fifty independently written holdings consistent. Readers of the library should
 start at [`CATALOG.md`](CATALOG.md), and the library's front page is [`README.md`](README.md).)*
 
-**This is guidance, not a code.** It exists so that forty-nine independently written holdings
+**This is guidance, not a code.** It exists so that fifty independently written holdings
 agree with one another, and that is the whole of its office. Where it describes the world, the
 description is what the volumes were built on; where it describes a habit of writing, the habit
 is a convenience and the volumes are the authority. Nothing here outranks a holding, and where a
@@ -53,6 +53,10 @@ later volume has a better idea the canon is what changes.
   not discussed). His written comment on every thesis he second-reads is, in full:
   **"Broadly."** He is the default second reader. **The one deviation is `DP 44.9`**, and it is
   deliberate: on the volume whose subject is not named, his comment runs long and praises the work.
+- **Dr. Emeric Tallow**, Reader in Minor Rites of Applied Necromancy (Provisional): the Faculty's
+  licensing officer and its judge in the small causes, who signs what the Faculty cannot warrant. Adviser
+  on `AN 2.3`, `AN 3.1` and `AN 4.1`, and the voice of the Faculty's position that the drift is
+  immaterial — a position `AN 4.1` §9 records and declines to call a position.
 - **Dr. Ottoline Marchetti-Bell** — has published a document titled *A Correction* to
   forty separate works. Signalled in a footnote, never a character.
 - **The Under-Librarian, Mr. Fenwick Oll** — stamps everything twice, opens windows that
@@ -69,6 +73,20 @@ later volume has a better idea the canon is what changes.
 - **Form 7B** — *Declaration of Non-Interference with Time*. It is required for every
   thesis. It is missing from every thesis in this library. No one has ever seen a
   completed Form 7B — the only one ever completed was filed with the fourth reading room in 1487.
+- **The drift in the numbering of the Capitular Statutes of 1274** — settled, and to be cited both ways.
+  The Chapter's own book at `FN 1.1` is the authority for the words, and its figures are in a second hand
+  which also interrupts the sequence (clauses 9 and 10, the two later leaves). The drift is real and **not
+  uniform**: the goose clause stands at **11** in the Chapter's book and is cited at **14** throughout
+  Applied Necromancy (offset +3); the deposit clause stands at **17** and is cited at **19** by the
+  catalogue and by the Dean's memorandum (+2); the duty to open what has lapsed stands at 19 and is cited
+  at 19 (+0); and the proposition that the finder is the officer in custody at the moment of lapse is
+  **not in the statute at all**, though it is cited at 20 and is the working rule of the Library and of the
+  Registry. The in-world authority is `AN 4.1` §3, a work about a numeral and never about the geese.
+  **Where a clause of 1274 is cited and the number matters, cite both, the Chapter's first: `clause 11
+  (14)`.** The drift is never repaired: the Chapter will not amend a number, the Classification of 1388
+  admits no alteration, and the licence forms are printed and cannot be reprinted, a corrected recital on
+  an unobtainable form being a correction to a document that does not exist. `LICENSE.md` cites the goose
+  at the Chapter's 11 and is **not** in error; a later volume leaves it so, and no volume "fixes" a number.
 - **The R Incident (6 March 1487)** — the filing of the fourth reading room under R in the reordering
   of the Registry, together with its counter, its lamp, the only completed Form 7B, and the Library's
   only copy of ***Form 7B for Dummies***. Discovered on the eleventh day by the annual return of
@@ -89,7 +107,7 @@ room's non-existence is the result of a timecrafting incident**, and the Classif
   on the question rather than on an answer.
   - **Therefore every date inconsistency that concerns this room is consistent.** The licence is wide
     and deliberate: where the room is in question, two dates that cannot both hold may both stand; a
-  that cannot both hold may both stand; a measurement may differ from itself; a witness may
+    measurement may differ from itself; a witness may
   see three desks where a plan draws four; a thing may be in two places in one year. This is
   the same class of permission as the three dates of 1461 and the ruling at §4.6 on the glass,
   and it supersedes any instinct to reconcile, average, or audit them into order. **An auditor
@@ -178,8 +196,15 @@ own, not a place in the room, and by long use it is also the number of the shelf
 series begins — so a press number and a shelf number may look alike and are not the same thing. **The
 number before the point in a call number is a shelf, never a press**, and the shelf-list keeps to the
 shelf in every case.
-Their Faculties*), with the press numbers and a count of the holdings in each series. A holding added to
-the shelf is added to that count, and to the shelf-list and the accession register with it.
+The annex to [`CATALOG.md`](CATALOG.md) sets out the thirteen series letters, with the press numbers and a
+count of the holdings in each series. A holding added to the shelf is added to that count, and to the
+shelf-list and the accession register with it.
+
+**Applied Necromancy has been Provisional since 1458, and stays so.** The word stands in its charter, its
+calendar, its signage and its stationery, and describes neither its competence, which is examined
+annually, nor its curriculum: confirmation requires the Faculty to plead its warrant, and its warrant is a
+clause cited at two numbers, so that pleading one is denying the other. The drift is one of several
+reasons and not the largest, and the Faculty's work is not the worse for it. `AN 4.1` §9 and §10.
 
 **`R`** is a series without a faculty: the Registry's own, where the Registry's property is classed
 whether or not the Registry can produce it. One instrument of it stands in the repository and is meant to
@@ -497,6 +522,11 @@ Every volume below is written to a file in [`volumes/`](volumes/), named `<NN>_<
 | 33 | `history-of-the-harmless-jurisdiction-question` | HC 2.1 / M67 1504 | Wilhelmina Tarn, D.Th. | **A History of the Harmless Jurisdiction Question, 1402–1504.** The war chronicled from HC's side, with a chronology table, the four findings, and the ninety-four years of clarification still outstanding. |
 | 34 | `history-of-the-window-war` | AC 200.1 / T45 1504 | Marigold Thistlewick, M.M.M. | **A History of the Window War.** AC's side of the seventeen-year dispute with the Under-Librarian over the windows of Reading Room 2, with a table of openings, closings and pollen counts. |
 | 35 | `in-re-the-crate` | EA 6.1 / Q55 1504 | Dean Ambrose Quill | **In re the Crate: A Memorandum.** The only thing the Dean has ever written. The Capitular lapse of 1274 falls due in 1505; a claim has been filed on Form AN/4 in the name of a person not yet born; the memorandum's conclusion is that the matter is not before him. *(written by the lead agent)* |
+| 50 | `on-the-number-of-the-clause-concerning-geese` | AN 4.1 / B87 1504 | Lettice Barrow, D.Th. | **On the Number of the Clause Concerning Geese** (D.Th., Applied Necromancy). The goose clause is cited at 14 by this Faculty and stands at 11 in the Chapter's book, and the Faculty's whole warrant rests on it. §3 tables every citation of a clause of 1274 on the shelf and finds four different offsets; §4 finds the cause in the second hand that numbered `FN 1.1` and in the later leaves that interrupt it; §5 is the case of the two clause elevens — Nethercot, 1493–1496, in which the widow **Alice Wren** entered the right number on the right form and lost nine marks for it; §6 takes the Dean's one figure carrying three propositions; §7 is the Chapter's answer that the numbers are not the statute and the words are; §8 is a seven-step procedure for determining a number, which fails at step 4 and is adopted at step 7; §9 is the Faculty's Provisional status, entered in the Faculty's own words; §10 is the proposal to renumber, considered four times and not made. The practical output is the citation form, **`clause 11 (14)`**, Chapter's number first. *(the newest holding; see §9, Provenance)* |
+
+File `50` is a thesis and stands outside the two classes of §8, and the shelf is not renumbered around
+it: the shelf-list is a register and is not resorted, so the volume takes the last number and stands
+where its call number puts it, in the AN press. `CATALOG.md` says the same in the catalogue's voice.
 
 Cross-reference web (use these; do not invent contradictions):
 
@@ -504,6 +534,9 @@ Cross-reference web (use these; do not invent contradictions):
 - Vols. 07 and 03 ground the jurisdiction/hiatus gag; 05 and 04 are the two sides of it.
 - Vol. 14 (Oll) ties together Nott, the crate, the windows, the fines, the Restricted Stack.
 - Vol. 11 explains why Form 7B cannot be obtained; every other volume merely reports it missing.
+- Vol. 50 is the shelf's authority for the Capitular numbering, and audits the citations of `08` (goose at
+  14, at §3, §6 step 1, §11 and the fee table), of `11` and `35` (lapse at 19), and of the catalogue. `43`
+  is the book itself: read the two together, and never reconcile them.
 - Vol. 06 and 08 both depend on consent forms and on Dean Quill's non-approval.
 
 ## 8. The 1504 Extension — the MS and FN formats
@@ -615,14 +648,21 @@ its class.
 - The commission was then extended, twice: for ***Form 7B for Dummies*** and the incident that lost it
   (supplied as the R Incident, §2), and for diaries and historical books (supplied as classes MS and FN,
   §8).
+- **The fifty holding was added last**, after the rest of the shelf was written, and it is the shelf's
+  one volume about the shelf's own citations: a doctorate in Applied Necromancy on the numbering of the
+  Capitular Statutes, with the facts of it settled in advance — the drift, the four offsets, the Nethercot
+  cause, the Chapter's nine-word answer — and written to audit `08`'s citations and the catalogue's rather
+  than to correct them. It keeps the number `50` and the files `01`–`49` are not renumbered around it: a
+  register is not resorted, which is now also what `README.md` and `CATALOG.md` say. That the newest
+  holding is the one that makes every other volume's clause numbers doubtful is the point of it.
 - The commissioner asked, of the first two volumes, that each open by saying plainly what its subject
   is: the centaur volume's definition of the craft to move from the last chapter to the first, and the
   mirror-walking volume, which had opened on the theory of glass and never stated the craft at all, to
   say what mirror walking is. Both instructions are now §4.3, binding on every holding.
 - **The length correction.** The first issue of 1504 was written to 900–1300 words, and once its front
   matter and abstract were removed almost nothing remained. The commissioner's finding is recorded here
-  and nowhere else in the library: the first issue is withdrawn, and all forty-nine holdings were
-  reissued at full length with §4.4 met in every one. [`README.md`](README.md) and
+  and nowhere else in the library: the first issue is withdrawn, and all forty-nine holdings then on the
+  shelf were reissued at full length with §4.4 met in every one. [`README.md`](README.md) and
   [`CATALOG.md`](CATALOG.md) carry no note of the correction, being library documents and staying in
   the library's voice.
 - **On the figures in §4.2.** They were first written as caps, and were audited as caps across the
@@ -647,7 +687,8 @@ its class.
     to the **shelf** is a different thing and is now carried: the numbers as the only order the Library
     keeps, offered and not required; the warning that shelf order is not the order of writing (the texts
     run 1223–1504, and `35` cites `FN 1.1` standing at `43`); the note that any order is permitted; and
-    the fact that the theses stop at `36`. It says nothing about which volume is better than another: the
+    the fact that the theses stop at `36` and resume at `50`, the register not being resorted. It says
+    nothing about which volume is better than another: the
     desk answers questions about the order of the shelf, gives the numbers when a reader asks for a
     preference, and ranks nothing.
 - **Comparative claims on the front page.** *Oldest*, *first* and *only* are the front page's most

@@ -96,7 +96,7 @@ how the matter began.
 | **DP 12.8 / R63 1489** | Weather for the Recently Deceased | E. Rook, D.Th. | 1489 | On shelf. Annotated by a reader who was comforted |
 | **DE 22.2 / O55 1504** | The Care and Feeding of Library Poltergeists | compiled by F. Oll, Under-Librarian | 1504 | On shelf. Do not remove |
 | **CR 1.1 / — 1483** | **DO NOT READ**: A Field Guide to Timecrafting | anonymous; *by the author, who is not yet born* | 1483 | On shelf in the CR range, spine to the wall. Bound out of order. Do not read in numerical order; consultation and loan by rule 10, and no completed Form 7B is held |
-| **EA 2.4 / P54 1504** | On the Mis-Filing of the Fourth Reading Room | C. Pike, M.P.T. | 1504 | On shelf. The most recent accession. The second plan no longer folds; the clock is drawn in the author's hand |
+| **EA 2.4 / P54 1504** | On the Mis-Filing of the Fourth Reading Room | C. Pike, M.P.T. | 1504 | On shelf. The second plan no longer folds; the clock is drawn in the author's hand |
 | **JM 1.4 / F58 1504** | On the Comment "Broadly." | H. Fane, D.Th. | 1504 | On shelf. Annotated at §5 in an unidentified pencil hand: the writer asked three examiners and the clock, and the clock was the only one that answered |
 | **LT 3.9 / B72 1504** | Where Mr. Nott Is | Y. Bramm, M.L.S., D.Th. | 1504 | On shelf. Water-damaged at the lower margin, repaired at the corner; annotated in three hands, the third dated forty years after the imprint |
 | **DE 30.1 / H65 1503** | The Books That Read You Back: An Interim Report | C. Nunn, Deputy Under-Librarian | 1503 | On shelf. Grease-marked at §4 by a thumb; the plate is a shelf elevation with one shelf drawn empty, which the Conservator disputes |
@@ -116,6 +116,7 @@ how the matter began.
 | **HC 2.1 / M67 1504** | A History of the Harmless Jurisdiction Question, 1402–1504 | W. Tarn, D.Th. | 1504 | On shelf. The pasted errata slip corrects the chronology and supplies the authority its own error assumed |
 | **AC 200.1 / T45 1504** | A History of the Window War | M. Thistlewick, M.M.M. | 1504 | On shelf. Foxed; repaired at the spine; a pressed barley awn at p. 44, which the Library declines to remove |
 | **EA 6.1 / Q55 1504** | In re the Crate: A Memorandum | Dean A. Quill | 1504 | On shelf. No annotations. The only volume in this Library without a pencil note, verified twice |
+| **AN 4.1 / B87 1504** | On the Number of the Clause Concerning Geese | L. Barrow, D.Th. | 1504 | On shelf. The most recent accession. Annotated in three hands, the third being the Chapter's, whose note is a receipt; a goose-feather pressed at p. 34, unlabelled, which the Library declines to remove |
 
 Each volume is a discrete document, shelved beside this catalogue, in [`volumes/`](volumes/), under
 `<number>_<slug>.md`.
@@ -186,6 +187,12 @@ will issue the appropriate form, which is Form 7B, which cannot be obtained. See
   whose existence the Registry cannot establish; the fee was promised for 1506. The Dean's memorandum
   on the matter is **EA 6.1**, and its conclusion is that the matter is not before him. The Registry
   has entered a reminder for 1505, in pencil, which by a ruling of 1491 may not be filed.
+- **The numbering of the Capitular Statutes of 1274.** The clause under which the crate lapses is cited
+  above, and by the Dean, as clause 19; in the Chapter's own book at **FN 1.1** it stands at clause 17.
+  The goose clause is cited as 14 by the Faculty of Applied Necromancy and stands at 11. The difference is
+  neither uniform nor an error, and it is set out at **AN 4.1**, §3, which this Library has read and has
+  not acted upon, the shelf-list being a register and the Chapter declining to amend a number. Readers
+  are to cite both figures, the Chapter's first.
 - **Form 7B, *Declaration of Non-Interference with Time*.** Required with every thesis. Held by no
   volume in this library, including those deposited before the form existed. This is discussed at
   length in **DP 44.9** and explained in **EA 1.1**, and the explanation is procedurally correct.
@@ -219,6 +226,7 @@ will issue the appropriate form, which is Form 7B, which cannot be obtained. See
 
 | accession | date | item | note |
 |---|---|---|---|
+| 1504.27 | 27th of July | On the Number of the Clause Concerning Geese | the first issue is withdrawn, and the errata slip asks the four readers who hold it not to correct it |
 | 1504.23 | 14th of July | In re the Crate: A Memorandum | the Dean's first written conclusion in thirty-one years, and it is that the matter is not before him |
 | 1504.19 | — | On the Mis-Filing of the Fourth Reading Room | deposited with an excuse in writing, which the Registry has accepted, this being the first thing it has accepted since 1487 |
 | 1504.02 | 3rd of the month | Care and Feeding of Library Poltergeists | deposited by the author, who is the Under-Librarian |
@@ -253,7 +261,7 @@ always a shelf, and never a press.
 | **HC** | Harmless & Decorative Curses | 1 | 3 |
 | **DD** | Draconic Dentistry & Comparative Saurian Medicine | 7 | 1 |
 | **DP** | Divination & Improbable Prediction | 44 | 3 |
-| **AN** | Applied Necromancy (provisional) | 2 | 2 |
+| **AN** | Applied Necromancy (provisional) | 2 | 3 |
 | **TE** | Thaumaturgical Engineering & Load-Bearing Runes | 19 | 2 |
 | **HS** | Herbology & Sentient Botany | 8 | 1 |
 | **EA** | Ethics, Appeals & Paperwork | 1 | 9 |
@@ -263,9 +271,11 @@ always a shelf, and never a press.
 | **FN** | The Foundation Collection (added by the Library, 1504) | — | 7 |
 | **R** | the Registry (a series without a faculty) | — | not catalogued here |
 
-Of the forty-nine holdings catalogued above, thirty-five stand in the thirteen faculties, seven in MS and
+Of the fifty holdings catalogued above, thirty-six stand in the thirteen faculties, seven in MS and
 seven in FN. The press numbers are the scheme's and are not this catalogue's to alter. The counts are
-this catalogue's, and are taken from the shelf-list; a volume added to the shelf is added to them.
+this catalogue's, and are taken from the shelf-list; a volume added to the shelf is added to them. The
+shelf-list is a register and is not resorted: `50` is the last entry in it and stands last, and no number
+above it has been altered to receive it.
 
 One instrument of the Registry's series a reader may meet without asking for it: the
 [Licence of Circulation](LICENSE.md), under which a volume may be copied, and under which this catalogue
