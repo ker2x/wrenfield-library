@@ -79,6 +79,11 @@ how the matter began.
 
 ## Holdings
 
+The shelf-list below is in the order in which the volumes were entered in it, which is the register's order
+and not the order in which they stand; the shelf is arranged by faculty, then by shelf, then by position,
+and a reader takes a volume from the shelf by its call number. A volume entered last stands wherever its
+call number puts it.
+
 | call number | title | author | year | status at the shelf |
 |---|---|---|---|---|
 | **LT 3.7 / F47 1498** | The Art of Mirror Walking, 2nd ed. enl. | S. Ferrer, M.L.S. | 1498 | On shelf. Second edition, enlarged, with the section on the room filed in 1487; plate 6 excised with a razor |
@@ -274,8 +279,9 @@ always a shelf, and never a press.
 Of the fifty holdings catalogued above, thirty-six stand in the thirteen faculties, seven in MS and
 seven in FN. The press numbers are the scheme's and are not this catalogue's to alter. The counts are
 this catalogue's, and are taken from the shelf-list; a volume added to the shelf is added to them. The
-shelf-list is a register and is not resorted: `50` is the last entry in it and stands last, and no number
-above it has been altered to receive it.
+shelf-list is kept in the order of entry and is not resorted: `50` is the last entry in it, the numbers
+above it are unchanged, and the volume stands at **AN 4.1**, where its call number puts it, and not at the
+end of the shelf.
 
 One instrument of the Registry's series a reader may meet without asking for it: the
 [Licence of Circulation](LICENSE.md), under which a volume may be copied, and under which this catalogue

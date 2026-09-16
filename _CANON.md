@@ -524,9 +524,12 @@ Every volume below is written to a file in [`volumes/`](volumes/), named `<NN>_<
 | 35 | `in-re-the-crate` | EA 6.1 / Q55 1504 | Dean Ambrose Quill | **In re the Crate: A Memorandum.** The only thing the Dean has ever written. The Capitular lapse of 1274 falls due in 1505; a claim has been filed on Form AN/4 in the name of a person not yet born; the memorandum's conclusion is that the matter is not before him. *(written by the lead agent)* |
 | 50 | `on-the-number-of-the-clause-concerning-geese` | AN 4.1 / B87 1504 | Lettice Barrow, D.Th. | **On the Number of the Clause Concerning Geese** (D.Th., Applied Necromancy). The goose clause is cited at 14 by this Faculty and stands at 11 in the Chapter's book, and the Faculty's whole warrant rests on it. §3 tables every citation of a clause of 1274 on the shelf and finds four different offsets; §4 finds the cause in the second hand that numbered `FN 1.1` and in the later leaves that interrupt it; §5 is the case of the two clause elevens — Nethercot, 1493–1496, in which the widow **Alice Wren** entered the right number on the right form and lost nine marks for it; §6 takes the Dean's one figure carrying three propositions; §7 is the Chapter's answer that the numbers are not the statute and the words are; §8 is a seven-step procedure for determining a number, which fails at step 4 and is adopted at step 7; §9 is the Faculty's Provisional status, entered in the Faculty's own words; §10 is the proposal to renumber, considered four times and not made. The practical output is the citation form, **`clause 11 (14)`**, Chapter's number first. *(the newest holding; see §9, Provenance)* |
 
-File `50` is a thesis and stands outside the two classes of §8, and the shelf is not renumbered around
-it: the shelf-list is a register and is not resorted, so the volume takes the last number and stands
-where its call number puts it, in the AN press. `CATALOG.md` says the same in the catalogue's voice.
+File `50` is a thesis and lies outside the two classes of §8, and the shelf is not renumbered around it.
+**The running number is the shelf-list's order of entry and is not a place on a shelf** — the shelf itself
+stands by faculty, shelf and position, as the Classification of 1388 requires, and the call number is the
+place — so a volume received takes the last number and stands wherever its call number puts it, here
+`AN 4.1`. `README.md` and `CATALOG.md` say the same in the library's voice. **This is the rule for every
+volume added from here on**, and no existing number is ever altered to receive one.
 
 Cross-reference web (use these; do not invent contradictions):
 
@@ -685,7 +688,7 @@ its class.
     name a first volume as the one to begin at, nor tell a reader which section of a volume to start in —
     the struck line sent the reader to a section of `LT 3.7`, and that is what it was struck for. A guide
     to the **shelf** is a different thing and is now carried: the numbers as the only order the Library
-    keeps, offered and not required; the warning that shelf order is not the order of writing (the texts
+    keeps, offered and not required; the warning that the register's order is not the order of writing (the texts
     run 1223–1504, and `35` cites `FN 1.1` standing at `43`); the note that any order is permitted; and
     the fact that the theses stop at `36` and resume at `50`, the register not being resorted. It says
     nothing about which volume is better than another: the
